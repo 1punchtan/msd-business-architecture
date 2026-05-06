@@ -9,7 +9,7 @@ Each page in the MAP wiki is scraped with headless Chromium, classified by two C
 The pipeline produces:
 - **127 entities** across 8 types (products, processes, policies, concepts, programmes, social housing, cards, actors)
 - **977 relationships** derived from cross-references between entities
-- A fully importable `workspace/msd-map.xml` in ArchiMate Open Exchange 3.0 format
+- A fully importable [`workspace/msd-map.xml`](https://github.com/1punchtan/msd-business-architecture/blob/main/workspace/msd-map.xml) in ArchiMate Open Exchange 3.0 format
 
 ## Entity types
 

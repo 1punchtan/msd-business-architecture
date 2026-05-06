@@ -2,7 +2,7 @@
 
 A pipeline that extracts structured business architecture data from the [MSD Social Development Policy Guide (MAP)](https://www.workandincome.govt.nz/map/) and converts it to ArchiMate Open Exchange XML, ready to import into [Archi](https://www.archimatetool.com/) or any compliant modelling tool.
 
-(https://github.com/1punchtan/msd-business-architecture/blob/main/Jobseeker%20Support.png)
+![Jobseeker Support](https://github.com/1punchtan/msd-business-architecture/blob/main/Jobseeker%20Support.png)
 
 ## What it does
 

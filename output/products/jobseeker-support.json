@@ -1,0 +1,74 @@
+{
+  "id": "jobseeker-support",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Jobseeker Support",
+  "description": "A comprehensive main benefit for job seekers and those with health conditions, injuries or disabilities who cannot work, covering eligibility, obligations, sanctions, payment, and reapplication requirements.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/main-benefits/jobseeker-support/index.html",
+  "tags": [
+    "main benefit",
+    "jobseeker",
+    "employment",
+    "health condition",
+    "work obligations",
+    "social obligations",
+    "income support",
+    "stand-down",
+    "sanctions",
+    "money management",
+    "reapplication"
+  ],
+  "related": {
+    "products": [
+      "sole-parent-support",
+      "supported-living-payment",
+      "emergency-benefit",
+      "youth-payment",
+      "young-parent-payment",
+      "new-zealand-superannuation",
+      "orphans-benefit-and-unsupported-childs-benefit",
+      "jobseeker-support-student-hardship",
+      "special-needs-grant",
+      "accommodation-supplement",
+      "temporary-additional-support",
+      "disability-allowance",
+      "special-disability-allowance",
+      "child-disability-allowance",
+      "family-tax-credit",
+      "advance-payment-of-benefit",
+      "recoverable-assistance-payment",
+      "training-incentive-allowance",
+      "community-services-card"
+    ],
+    "programmes": [],
+    "policies": [
+      "pre-benefit-requirements"
+    ],
+    "processes": [
+      "limited-employment-locations",
+      "initial-stand-down",
+      "reciprocal-agreements",
+      "reviews-and-appeals",
+      "application-for-benefit",
+      "redirection-of-benefit-payment",
+      "social-obligations-approved-home-education-program",
+      "employment-and-work-readiness-assistance"
+    ],
+    "actors": [],
+    "concepts": [
+      "residence",
+      "income"
+    ],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "A comprehensive main benefit for job seekers and those with health conditions, injuries or disabilities who cannot work. Covers eligibility, obligations, sanctions, payment, and reapplication requirements.",
+    "eligibility": "",
+    "payment_details": "",
+    "obligations": "",
+    "stand_down": "",
+    "income_test": "",
+    "application_process": ""
+  }
+}

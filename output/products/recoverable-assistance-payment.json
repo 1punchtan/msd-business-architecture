@@ -1,0 +1,43 @@
+{
+  "id": "recoverable-assistance-payment",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Recoverable Assistance Payment",
+  "description": "A recoverable financial assistance payment for clients with immediate and essential needs, covering diverse categories from clothing and school costs to emergency items, subject to eligibility criteria and hardship obligations.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/extra-help/recoverable-assistance-payment/index.html",
+  "tags": [
+    "extra-help",
+    "financial-assistance",
+    "recoverable",
+    "hardship",
+    "income-support",
+    "emergency"
+  ],
+  "related": {
+    "products": [
+      "recoverable-assistance-payment-tables",
+      "recoverable-assistance-programme"
+    ],
+    "programmes": [],
+    "policies": [],
+    "processes": [
+      "requests-for-financial-assistance"
+    ],
+    "actors": [],
+    "concepts": [
+      "income",
+      "residence"
+    ],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "A recoverable financial assistance payment for clients with immediate and essential needs, covering diverse categories from clothing and school costs to emergency items, subject to eligibility criteria and hardship obligations.",
+    "eligibility": "Ordinarily resident or permanent residence with appropriate immigration status. Subject to income limits and cash asset limits. Client must have immediate and essential needs.",
+    "payment_details": "Covers payment categories including: Ambulance subscription fees, Assignment/subletting/ending tenancy, Attendance at funerals and tangihanga, Beds/chairs/tables, Car repairs, Child restraints and safety helmets, Clothing, Dentures and hearing aids, Driver licences, Electricity/gas/water, Fire loss or burglary, Fridges/freezers/washing machines, Glasses, Other emergency payments, School costs, Telephone installation, Tenancy Tribunal Fees, Travel for stranded persons, and Exceptional circumstances. Preferred supplier arrangements apply to fridges, freezers, washing machines, and glasses.",
+    "obligations": "Reasonable steps obligation and budgeting activity obligation must be satisfied.",
+    "stand_down": "",
+    "income_test": "Subject to income limits and cash asset limits as eligibility criteria.",
+    "application_process": ""
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "family-tax-credit",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Family Tax Credit",
+  "description": "Family Tax Credit is a payment provided to families with dependent children, covering qualifications, payment arrangements, shared care, absence from New Zealand, and appeal rights.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/extra-help/family-tax-credit/index.html",
+  "tags": [
+    "family",
+    "tax credit",
+    "dependent child",
+    "principal caregiver",
+    "shared care",
+    "main benefit",
+    "Inland Revenue",
+    "overpayments",
+    "review and appeal"
+  ],
+  "related": {
+    "products": [
+      "family-tax-credit-tables",
+      "in-work-tax-credit",
+      "best-start-tax-credit"
+    ],
+    "programmes": [],
+    "policies": [],
+    "processes": [
+      "reviews-and-appeals"
+    ],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "A tax credit product administered by MSD and Inland Revenue for principal caregivers of dependent children, covering eligibility, payment, shared care, and review rights.",
+    "eligibility": "",
+    "payment_details": "",
+    "obligations": "",
+    "stand_down": "",
+    "income_test": "",
+    "application_process": ""
+  }
+}

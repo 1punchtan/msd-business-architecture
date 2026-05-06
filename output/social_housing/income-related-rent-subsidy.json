@@ -1,0 +1,40 @@
+{
+  "id": "income-related-rent-subsidy",
+  "type": "social_housing",
+  "archimate_type": "BusinessService",
+  "name": "Income Related Rent Subsidy",
+  "description": "A subsidy paid to social housing providers covering the gap between a tenant's income-related rent and the market or agreed rent rate.",
+  "source_url": "https://www.workandincome.govt.nz/map/social-housing/income-related-rent-subsidy/index.html",
+  "tags": [
+    "social housing",
+    "income related rent",
+    "subsidy",
+    "Kāinga Ora",
+    "community housing",
+    "market rent",
+    "agreed rent"
+  ],
+  "related": {
+    "products": [],
+    "programmes": [],
+    "policies": [],
+    "processes": [
+      "assessment-of-eligibility"
+    ],
+    "actors": [],
+    "concepts": [
+      "income-related-rent-debt"
+    ],
+    "cards": [],
+    "social_housing": [
+      "income-related-rent"
+    ]
+  },
+  "attributes": {
+    "summary": "A subsidy paid to social housing providers (Kāinga Ora and community housing providers) covering the gap between a tenant's income-related rent and the market or agreed rent rate, with detailed rules for rate-setting, reviews, and subsidy claims.",
+    "eligibility": "",
+    "assessment_criteria": "",
+    "obligations": "",
+    "application_process": ""
+  }
+}

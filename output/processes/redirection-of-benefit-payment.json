@@ -1,0 +1,66 @@
+{
+  "id": "redirection-of-benefit-payment",
+  "type": "process",
+  "archimate_type": "BusinessProcess",
+  "name": "Redirection of benefit payment",
+  "description": "Policy and decision guidelines governing the redirection of benefit payments, including redirection for social housing, essential services, accommodation costs for vulnerable tenants, priority needs, emergency housing contributions, and redirection without client consent.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/core-policy/redirection-of-benefit-payment/index.html",
+  "tags": [
+    "redirection",
+    "benefit payment",
+    "social housing",
+    "essential services",
+    "emergency housing",
+    "financial management",
+    "income support",
+    "core policy"
+  ],
+  "related": {
+    "products": [],
+    "programmes": [],
+    "policies": [
+      "redirection-of-benefit-payments-direction"
+    ],
+    "processes": [
+      "emergency-housing",
+      "income-related-rent",
+      "reviews-and-appeals"
+    ],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Provides structured guidance on when and how benefit payments may be redirected, including decision guidelines, good cause determinations, specific situational redirection scenarios, and procedures for changing or ending redirections.",
+    "steps": [
+      "Decision guidelines for redirection",
+      "Other options available to clients",
+      "Discretion to decline redirection",
+      "Good cause determination",
+      "Specific situations where there is good cause",
+      "Redirection for social housing",
+      "Redirection for client required to contribute to care costs",
+      "Redirection for essential services",
+      "Redirection for accommodation cost for vulnerable tenants",
+      "Redirection for priority needs",
+      "Identifying clients with history of poor financial management",
+      "Redirection to pay for fines",
+      "Redirection for money due after a New Zealand court or tribunal judgement",
+      "Redirection to pay essential lawful debts or other liability",
+      "Redirection for emergency housing contribution",
+      "Redirection without the client's consent",
+      "Redirection to pay the client's debts or liabilities",
+      "Redirection for the benefit of partner or children",
+      "Effect of changes in benefit level",
+      "Changing and ending redirection of benefit",
+      "Changing and ending Income Related Rent redirections",
+      "Changing and ending redirections for emergency housing contributions",
+      "Reviews and Appeals"
+    ],
+    "triggers": "",
+    "inputs": "",
+    "outputs": "",
+    "decision_points": "Good cause determination; Insufficient capacity; Discretion to decline redirection; Effect of changes in benefit level"
+  }
+}

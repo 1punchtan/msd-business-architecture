@@ -1,0 +1,40 @@
+{
+  "id": "reciprocal-malta",
+  "type": "policy",
+  "archimate_type": "Constraint",
+  "name": "Reciprocal Malta",
+  "description": "The reciprocal agreement between New Zealand and Malta governing the treatment of New Zealand benefits and pensions for clients in Malta, and Maltese pensions for clients in New Zealand.",
+  "source_url": "https://www.workandincome.govt.nz/map/to-or-from-overseas/reciprocal-agreements/reciprocal-malta/index.html",
+  "tags": [
+    "reciprocal agreement",
+    "Malta",
+    "overseas",
+    "New Zealand Superannuation",
+    "Veterans Pension",
+    "portability",
+    "international"
+  ],
+  "related": {
+    "products": [
+      "new-zealand-superannuation",
+      "veterans-pension"
+    ],
+    "programmes": [],
+    "policies": [
+      "reciprocal-agreements",
+      "portability"
+    ],
+    "processes": [],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Reciprocal social security agreement between New Zealand and Malta, detailing rules for NZ Superannuation, Veterans Pension, and Maltese pensions across both countries.",
+    "rules": "",
+    "exceptions": "",
+    "scope": "",
+    "effective_date": ""
+  }
+}

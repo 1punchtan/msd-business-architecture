@@ -1,0 +1,40 @@
+{
+  "id": "transition-to-alternative-housing-grant",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Transition to Alternative Housing Grant",
+  "description": "A grant to assist clients in transitioning to alternative housing covered by the Residential Tenancies Act 1986.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/extra-help/housing-support-products/transition-to-alternative-housing-grant/index.html",
+  "tags": [
+    "housing",
+    "grant",
+    "extra-help",
+    "housing-support-products",
+    "residential-tenancies"
+  ],
+  "related": {
+    "products": [
+      "housing-support-products"
+    ],
+    "programmes": [],
+    "policies": [],
+    "processes": [
+      "reviews-and-appeals"
+    ],
+    "actors": [],
+    "concepts": [
+      "residence"
+    ],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "The Transition to Alternative Housing Grant supports clients moving to alternative housing arrangements covered by the Residential Tenancies Act 1986, with qualifications around residence, accommodation type, and client eligibility.",
+    "eligibility": "",
+    "payment_details": "",
+    "obligations": "",
+    "stand_down": "",
+    "income_test": "",
+    "application_process": ""
+  }
+}

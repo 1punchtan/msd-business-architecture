@@ -1,0 +1,57 @@
+{
+  "id": "duty-to-advise-of-changes-in-circumstances",
+  "type": "process",
+  "archimate_type": "BusinessProcess",
+  "name": "Duty to advise of changes in circumstances",
+  "description": "Outlines the obligations of social housing tenants to advise MSD of changes in their circumstances, including changes in income, assets, household members, housing requirements, benefit status, and the consequences of not advising of changes.",
+  "source_url": "https://www.workandincome.govt.nz/map/social-housing/duty-to-advise-of-changes-in-circumstances/index.html",
+  "tags": [
+    "social housing",
+    "tenancy",
+    "change of circumstances",
+    "income",
+    "household",
+    "compliance"
+  ],
+  "related": {
+    "products": [],
+    "programmes": [],
+    "policies": [],
+    "processes": [
+      "assessment-of-eligibility",
+      "tenancy-reviews",
+      "register-management-and-referrals"
+    ],
+    "actors": [],
+    "concepts": [
+      "child-support-income",
+      "income-related-rent",
+      "income-related-rent-debt",
+      "income-related-rent-subsidy"
+    ],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "A process governing the duty of social housing tenants to notify MSD of relevant changes in circumstances, covering topics such as changes in income, assets, household composition, benefit status, and the consequences of non-compliance.",
+    "steps": [
+      "Introduction",
+      "Change in circumstances for current tenants",
+      "Informing clients about their duty",
+      "Changes and reviews",
+      "Change in additional occupant contributions",
+      "Change in assessable income and assets",
+      "Information share Child Support",
+      "Change in benefit status affecting residency criteria",
+      "Change in need for social housing",
+      "Change in household members",
+      "Change in housing requirements",
+      "Consequence for tenants not advising of a change in circumstances",
+      "Mismatch of additional occupant contributions and accommodation costs"
+    ],
+    "triggers": "",
+    "inputs": "",
+    "outputs": "",
+    "decision_points": ""
+  }
+}

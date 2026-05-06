@@ -1,0 +1,43 @@
+{
+  "id": "child-support-income",
+  "type": "concept",
+  "archimate_type": "BusinessObject",
+  "name": "Child Support income",
+  "description": "Defines how Child Support payments are treated as income for benefit purposes, covering both information share and non-information share Child Support payments with automated income charging rules, deemed receipt, payment cycles, manual income charging rules for historical periods, exemptions, changes and reviews, deprivation, and offsetting provisions.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/core-policy/income/types-of-income/child-support-income/index.html",
+  "tags": [
+    "income",
+    "child support",
+    "income charging",
+    "deemed receipt",
+    "information share",
+    "benefit assessment",
+    "exemptions",
+    "reviews"
+  ],
+  "related": {
+    "products": [],
+    "programmes": [],
+    "policies": [
+      "child-support"
+    ],
+    "processes": [],
+    "actors": [],
+    "concepts": [
+      "income",
+      "types-of-income",
+      "definition-of-income",
+      "sole-parent-support",
+      "jobseeker-support",
+      "orphans-benefit-and-unsupported-childs-benefit"
+    ],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Policy guidance on the treatment of Child Support payments as income in the context of benefit eligibility and assessment, including rules for information share and non-information share payments, charging cycles, exemptions, and review processes.",
+    "definition": "",
+    "context": "",
+    "examples": ""
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "accommodation-costs-in-advance-grant",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Accommodation Costs in Advance Grant",
+  "description": "A housing support product that provides financial assistance to clients who need help paying accommodation costs in advance, assessed against income limits, cash asset limits, and situational factors.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/extra-help/housing-support-products/accommodation-costs-in-advance-grant/index.html",
+  "tags": [
+    "housing support",
+    "grant",
+    "accommodation",
+    "extra help",
+    "financial assistance",
+    "residential tenancies"
+  ],
+  "related": {
+    "products": [
+      "housing-support-products"
+    ],
+    "programmes": [
+      "special-needs-grants-programme",
+      "housing-support-programme"
+    ],
+    "policies": [],
+    "processes": [
+      "reviews-and-appeals"
+    ],
+    "actors": [],
+    "concepts": [
+      "residence",
+      "income"
+    ],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Financial grant providing advance accommodation cost assistance to eligible clients, assessed against income, cash asset limits, and situational factors including client need, available resources, and suitability of accommodation.",
+    "eligibility": "Assessed against income limits, cash asset limits, residence requirements, and situational factors including client need, resources available, impact on client and family, accommodation suitability, duration of stay (28+ days), other available financial assistance, ability to meet essential living expenses, and existing debt status.",
+    "payment_details": "Grant covers accommodation under the Residential Tenancies Act 1986 and other accommodation types. Payment made to third party if applicable. Recovery of payment provisions apply.",
+    "obligations": "Client must demonstrate need for accommodation costs in advance, provide proof of accommodation suitability, confirm stay duration of more than 28 days, and meet all eligibility criteria including income and cash asset limits.",
+    "stand_down": "",
+    "income_test": "Income limits apply as assessment criteria for eligibility.",
+    "application_process": ""
+  }
+}

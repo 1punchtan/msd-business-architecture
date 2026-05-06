@@ -1,0 +1,34 @@
+{
+  "id": "in-work-tax-credit",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "In-work tax credit",
+  "description": "A tax credit available to working families with specific exclusions and a grace period provision.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/extra-help/in-work-tax-credit/index.html",
+  "tags": [
+    "tax credit",
+    "in-work",
+    "extra help",
+    "income support",
+    "working families"
+  ],
+  "related": {
+    "products": [],
+    "programmes": [],
+    "policies": [],
+    "processes": [],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "In-work tax credit is an extra help product for eligible working clients, with specific exclusions and a grace period provision.",
+    "eligibility": "",
+    "payment_details": "",
+    "obligations": "",
+    "stand_down": "",
+    "income_test": "",
+    "application_process": ""
+  }
+}

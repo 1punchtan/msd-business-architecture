@@ -1,0 +1,61 @@
+{
+  "id": "youth-payment",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Youth Payment",
+  "description": "A financial assistance product for eligible young people, incorporating activity obligations, youth money management, incentive payments, and comprehensive rules around qualifications, income, residence, absences, and sanctions.",
+  "source_url": "https://www.workandincome.govt.nz/map/youth-service/youth-payment/index.html",
+  "tags": [
+    "youth",
+    "benefit",
+    "payment",
+    "activity-obligations",
+    "money-management",
+    "youth-service",
+    "hardship",
+    "residence",
+    "income-test",
+    "sanctions"
+  ],
+  "related": {
+    "products": [
+      "young-parent-payment",
+      "jobseeker-support",
+      "supported-living-payment",
+      "special-disability-allowance",
+      "advance-payment-of-benefit",
+      "special-needs-grant",
+      "recoverable-assistance-payment",
+      "temporary-additional-support",
+      "orphans-benefit-and-unsupported-childs-benefit"
+    ],
+    "programmes": [
+      "youth-service-information-sharing",
+      "youth-service-tables"
+    ],
+    "policies": [],
+    "processes": [
+      "initial-stand-down",
+      "redirection-of-benefit-payment",
+      "reviews-and-appeals"
+    ],
+    "actors": [],
+    "concepts": [
+      "residence",
+      "income"
+    ],
+    "cards": [
+      "community-services-card"
+    ],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "A financial assistance product for eligible young people, incorporating activity obligations, youth money management, incentive payments, and comprehensive rules around qualifications, income, residence, absences, and sanctions.",
+    "eligibility": "Young people meeting age criteria (transitions at age 18); ordinarily resident in New Zealand with two years residence requirement; parental support gap; within specified cash asset limits; may qualify under exceptional circumstances; must meet activity requirements including secondary education, approved training, tertiary education, work-based learning, or part-time work.",
+    "payment_details": "Payment distributed via payment cards and in-hand allowance; youth money management applies with option to opt out upon demonstrated financial competence; incentive payments available for earning activities.",
+    "obligations": "Secondary education, approved training, tertiary education, work-based learning, or part-time work participation; maximum 28-day absence in any 52-week period with approved reasons for extended absence; sanctions include Grade 1, Grade 2, and 13-week non-entitlement period for activity obligation failures.",
+    "stand_down": "Initial stand-down periods apply for activity obligation failures; Grade 1 and Grade 2 sanctions precede 13-week non-entitlement periods.",
+    "income_test": "Subject to income testing; parental income and cash assets assessed as part of hardship criteria.",
+    "application_process": ""
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "reciprocal-jersey-guernsey",
+  "type": "policy",
+  "archimate_type": "Constraint",
+  "name": "Reciprocal Jersey Guernsey",
+  "description": "A reciprocal social security agreement between New Zealand and Jersey/Guernsey governing the portability and entitlement of New Zealand benefits and pensions for clients residing in or moving to Jersey/Guernsey, and the recognition of Jersey/Guernsey pensions or benefits in New Zealand.",
+  "source_url": "https://www.workandincome.govt.nz/map/to-or-from-overseas/reciprocal-agreements/reciprocal-jersey-guernsey/index.html",
+  "tags": [
+    "reciprocal agreement",
+    "Jersey",
+    "Guernsey",
+    "portability",
+    "overseas",
+    "social security"
+  ],
+  "related": {
+    "products": [
+      "jobseeker-support",
+      "sole-parent-support",
+      "supported-living-payment",
+      "new-zealand-superannuation",
+      "veterans-pension"
+    ],
+    "programmes": [],
+    "policies": [
+      "reciprocal-agreements",
+      "general-portability",
+      "special-portability",
+      "portability"
+    ],
+    "processes": [
+      "reviews-and-appeals"
+    ],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Policy governing the reciprocal social security agreement with Jersey/Guernsey, including entitlements for Jobseeker Support, Sole Parent Support, Supported Living Payment, NZ Superannuation, and Veterans Pension for clients in Jersey/Guernsey and vice versa.",
+    "rules": "",
+    "exceptions": "",
+    "scope": "",
+    "effective_date": "15 July 2013"
+  }
+}

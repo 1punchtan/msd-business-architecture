@@ -1,0 +1,51 @@
+{
+  "id": "student-loan",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Student loan",
+  "description": "A government-administered lending product available to eligible students to cover compulsory fees, course-related costs, and living costs, governed by the Student Loan Scheme Act and administered in conjunction with Inland Revenue.",
+  "source_url": "https://www.workandincome.govt.nz/map/students/student-loan/index.html",
+  "tags": [
+    "student support",
+    "loan",
+    "tertiary education",
+    "fees",
+    "living costs",
+    "course-related costs",
+    "repayment",
+    "inland revenue",
+    "debt"
+  ],
+  "related": {
+    "products": [
+      "student-allowance",
+      "jobseeker-support-student-hardship",
+      "christchurch-mosques-attack-assistance"
+    ],
+    "programmes": [],
+    "policies": [
+      "student-support-tables",
+      "student-loan-rates-and-thresholds",
+      "overseas-study-regions-and-specified-countries",
+      "student-allowance-rates-and-thresholds"
+    ],
+    "processes": [
+      "application-for-assistance"
+    ],
+    "actors": [],
+    "concepts": [
+      "residence"
+    ],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "The Student Loan provides financial assistance to eligible students for fees, course-related costs, and living costs, with obligations, repayment requirements, and account management administered under the Student Loan Scheme.",
+    "eligibility": "Eligible students meeting residency requirements, full-time study status, and approved programme criteria with EFTS limits of 2 and 7 lifetime",
+    "payment_details": "",
+    "obligations": "Repayment obligations, interest on student loans, loan account management, debt write-off provisions, and transfer of loan balances to Inland Revenue",
+    "stand_down": "",
+    "income_test": "",
+    "application_process": "application-for-assistance"
+  }
+}

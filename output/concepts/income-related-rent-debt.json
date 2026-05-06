@@ -1,0 +1,41 @@
+{
+  "id": "income-related-rent-debt",
+  "type": "concept",
+  "archimate_type": "BusinessObject",
+  "name": "Income Related Rent debt",
+  "description": "Guidance on the establishment, liability, repayment, and review of Income Related Rent debt, including circumstances arising from late notice of changes, undeclared circumstances, fraud, insolvency, and refunds.",
+  "source_url": "https://www.workandincome.govt.nz/map/social-housing/income-related-rent-debt/index.html",
+  "tags": [
+    "social-housing",
+    "income-related-rent",
+    "debt",
+    "liability",
+    "repayment",
+    "fraud",
+    "review"
+  ],
+  "related": {
+    "products": [],
+    "programmes": [],
+    "policies": [],
+    "processes": [
+      "duty-to-advise-of-changes-in-circumstances",
+      "reviews-and-appeals"
+    ],
+    "actors": [],
+    "concepts": [
+      "income-related-rent",
+      "income-related-rent-subsidy"
+    ],
+    "cards": [],
+    "social_housing": [
+      "income-related-rent"
+    ]
+  },
+  "attributes": {
+    "summary": "This page covers the rules and processes around Income Related Rent (IRR) debt within social housing, including how debt is established, client liability, repayment obligations, refunds, and review rights. It addresses scenarios such as late advice of changed circumstances, undeclared information, fraud investigations, debts under $500, insolvency/bankruptcy/death, and historical Kāinga Ora IRR debt.",
+    "definition": "",
+    "context": "",
+    "examples": ""
+  }
+}

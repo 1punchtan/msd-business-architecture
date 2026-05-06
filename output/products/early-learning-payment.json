@@ -1,0 +1,46 @@
+{
+  "id": "early-learning-payment",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Early Learning Payment",
+  "description": "Financial assistance product that helps cover the cost of early childhood education for dependent children, including eligibility, fees, absences, and interactions with other childcare assistance.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/extra-help/early-learning-payment/index.html",
+  "tags": [
+    "early learning",
+    "childcare",
+    "early childhood education",
+    "extra help",
+    "income support",
+    "families",
+    "COVID-19"
+  ],
+  "related": {
+    "products": [
+      "early-learning-payment-tables",
+      "early-learning-payment-providers",
+      "flexible-childcare-assistance",
+      "guaranteed-childcare-assistance-payment"
+    ],
+    "programmes": [
+      "family-start-and-early-start-childcare-assistance-programme",
+      "childcare-assistance-programme"
+    ],
+    "policies": [],
+    "processes": [],
+    "actors": [],
+    "concepts": [
+      "residence"
+    ],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Financial assistance to help families with the cost of approved early childhood education, covering eligibility, fees, absences, COVID-19 provisions, and care changes.",
+    "eligibility": "",
+    "payment_details": "",
+    "obligations": "",
+    "stand_down": "",
+    "income_test": "",
+    "application_process": ""
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "home-help",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Home Help",
+  "description": "Home Help is an assistance product that provides domestic support to eligible clients through multiple support categories with financial assessment and review processes.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/extra-help/home-help/index.html",
+  "tags": [
+    "extra-help",
+    "home-help",
+    "domestic-support",
+    "income-support",
+    "community-services-card",
+    "residency",
+    "asset-test"
+  ],
+  "related": {
+    "products": [
+      "community-services-card"
+    ],
+    "programmes": [
+      "home-help-programme"
+    ],
+    "policies": [
+      "home-help-tables"
+    ],
+    "processes": [],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Home Help provides domestic support assistance to eligible clients, covering qualifications, support categories (Domestic Support, Domestic Emergency, Home Support), financial assessment, payment, and review processes.",
+    "eligibility": "Ordinarily resident, Permanent residence, Proof of residence, Immigration status and supporting documents, Current Community Services Card, Cash asset test",
+    "payment_details": "Paying accounts, Travel costs, Commencement date",
+    "obligations": "",
+    "stand_down": "",
+    "income_test": "",
+    "application_process": ""
+  }
+}

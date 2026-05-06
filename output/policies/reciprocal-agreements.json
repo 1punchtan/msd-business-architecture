@@ -1,0 +1,48 @@
+{
+  "id": "reciprocal-agreements",
+  "type": "policy",
+  "archimate_type": "Constraint",
+  "name": "Reciprocal Agreements",
+  "description": "New Zealand has 10 Reciprocal Agreements which cover 11 countries, enabling former residents to access certain benefits and pensions under the other country's social security system.",
+  "source_url": "https://www.workandincome.govt.nz/map/to-or-from-overseas/reciprocal-agreements/index.html",
+  "tags": [
+    "reciprocal agreements",
+    "overseas",
+    "portability",
+    "social security",
+    "pensions",
+    "benefits"
+  ],
+  "related": {
+    "products": [],
+    "programmes": [],
+    "policies": [
+      "portability"
+    ],
+    "processes": [],
+    "actors": [],
+    "concepts": [
+      "payments-from-overseas"
+    ],
+    "cards": [
+      "reciprocal-australia",
+      "reciprocal-canada",
+      "reciprocal-denmark",
+      "reciprocal-hellenic-republic",
+      "reciprocal-ireland",
+      "reciprocal-jersey-guernsey",
+      "reciprocal-republic-of-korea",
+      "reciprocal-malta",
+      "reciprocal-netherlands",
+      "reciprocal-united-kingdom"
+    ],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Overview of New Zealand's 10 Reciprocal Agreements covering 11 countries, enabling former residents to access benefits and pensions across social security systems.",
+    "rules": "",
+    "exceptions": "",
+    "scope": "",
+    "effective_date": ""
+  }
+}

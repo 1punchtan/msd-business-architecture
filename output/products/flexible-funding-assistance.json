@@ -1,0 +1,49 @@
+{
+  "id": "flexible-funding-assistance",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Flexible Funding Assistance",
+  "description": "Financial assistance for clients in emergency housing to address immediate wellbeing needs, subject to income, asset, and residential criteria, governed by the Flexible Funding Programme.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/extra-help/flexible-funding-assistance/index.html",
+  "tags": [
+    "extra-help",
+    "emergency-housing",
+    "flexible-funding",
+    "income-support",
+    "financial-assistance",
+    "wellbeing"
+  ],
+  "related": {
+    "products": [
+      "emergency-housing"
+    ],
+    "programmes": [
+      "flexible-funding-programme",
+      "emergency-housing-grants-programme"
+    ],
+    "policies": [
+      "warrant-to-arrest"
+    ],
+    "processes": [
+      "reviews-and-appeals"
+    ],
+    "actors": [],
+    "concepts": [
+      "income",
+      "residence"
+    ],
+    "cards": [
+      "flexible-funding-assistance-tables"
+    ],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Financial assistance for clients in emergency housing to address immediate wellbeing needs, subject to income, asset, and residential criteria, governed by the Flexible Funding Programme.",
+    "eligibility": "Client must qualify for and be staying in emergency housing or in other emergency accommodation. Subject to income limits, cash asset limits, residential criteria, and requirement of an immediate need.",
+    "payment_details": "Payments are governed by the Flexible Funding Programme. Dependent child provisions and payment discretion apply.",
+    "obligations": "Client must meet income and asset limits, residential criteria, and demonstrate immediate need. Non-compliance with benefit sanctions or warrant situations may result in non-payment.",
+    "stand_down": "Benefit sanctioned, reduced, or suspended; Client on non-entitlement period for emergency housing; Warrant for the client's arrest; Client dies while in emergency housing; Payment not used as intended.",
+    "income_test": "Income limits apply to determine eligibility for assistance.",
+    "application_process": ""
+  }
+}

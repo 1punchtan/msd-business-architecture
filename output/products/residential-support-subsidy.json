@@ -1,0 +1,41 @@
+{
+  "id": "residential-support-subsidy",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Residential Support Subsidy",
+  "description": "Financial assistance product for clients receiving residential support services, covering qualifications, payment structures, application processes, and related extra help entitlements.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/extra-help/residential-support-subsidy/index.html",
+  "tags": [
+    "residential support",
+    "subsidy",
+    "extra help",
+    "disability",
+    "accommodation",
+    "payment"
+  ],
+  "related": {
+    "products": [
+      "disability-allowance",
+      "accommodation-supplement",
+      "advance-payment-of-benefit",
+      "special-needs-grant",
+      "training-incentive-allowance"
+    ],
+    "programmes": [],
+    "policies": [],
+    "processes": [],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Financial subsidy supporting individuals in residential care services, including payment to partners in the community, provisions for sole parents, children's care payments, and associated extra help entitlements.",
+    "eligibility": "",
+    "payment_details": "Covers personal allowance, increased payment to partner in community, sole parent provisions, and payment for children's care. Includes provisions for clients with other income, debts, or payees.",
+    "obligations": "",
+    "stand_down": "",
+    "income_test": "",
+    "application_process": ""
+  }
+}

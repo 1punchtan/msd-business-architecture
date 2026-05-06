@@ -1,0 +1,41 @@
+{
+  "id": "school-and-year-start-up-payment",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "School and Year Start-up Payment",
+  "description": "A payment available under the Orphans Benefit and Unsupported Child's Benefit products, covering introduction, qualifications, payment details, and changes and reviews.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/extra-help/orphans-benefit-and-unsupported-childs-benefit-products/school-and-year-start-up-payment/index.html",
+  "tags": [
+    "extra-help",
+    "orphans-benefit",
+    "unsupported-childs-benefit",
+    "school",
+    "payment"
+  ],
+  "related": {
+    "products": [
+      "orphans-benefit-and-unsupported-childs-benefit-products"
+    ],
+    "programmes": [
+      "orphans-and-ucb-additional-assistance-programme"
+    ],
+    "policies": [
+      "orphans-benefit-and-unsupported-childs-benefit",
+      "orphans-benefit-and-unsupported-childs-benefit-tables"
+    ],
+    "processes": [],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "School and Year Start-up Payment providing financial assistance for school-related costs, administered under the Orphans Benefit and Unsupported Child's Benefit products.",
+    "eligibility": "",
+    "payment_details": "",
+    "obligations": "",
+    "stand_down": "",
+    "income_test": "",
+    "application_process": ""
+  }
+}

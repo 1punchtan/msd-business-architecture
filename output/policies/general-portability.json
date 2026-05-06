@@ -1,0 +1,48 @@
+{
+  "id": "general-portability",
+  "type": "policy",
+  "archimate_type": "Constraint",
+  "name": "General portability",
+  "description": "Policy framework governing the portability of New Zealand benefits and pensions for clients travelling or residing overseas, including eligibility criteria, rates of payment, obligations, and administrative processes.",
+  "source_url": "https://www.workandincome.govt.nz/map/to-or-from-overseas/portability/general-portability/index.html",
+  "tags": [
+    "portability",
+    "overseas",
+    "NZ Superannuation",
+    "Veterans Pension",
+    "travel",
+    "residence",
+    "overseas pensions",
+    "obligations",
+    "life certificates"
+  ],
+  "related": {
+    "products": [
+      "new-zealand-superannuation",
+      "veterans-pension"
+    ],
+    "programmes": [],
+    "policies": [
+      "portability",
+      "special-portability",
+      "reciprocal-agreements"
+    ],
+    "processes": [
+      "reviews-and-appeals"
+    ],
+    "actors": [],
+    "concepts": [
+      "residence",
+      "payments-from-overseas"
+    ],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Policy framework governing the portability of New Zealand benefits and pensions for clients travelling or residing overseas, including NZ Superannuation and Veterans Pension entitlements, qualification criteria, rates, obligations, and return-to-New-Zealand provisions.",
+    "rules": "",
+    "exceptions": "",
+    "scope": "",
+    "effective_date": ""
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "residence",
+  "type": "concept",
+  "archimate_type": "BusinessObject",
+  "name": "Residence",
+  "description": "A structured policy guide covering residence criteria required for income support eligibility in New Zealand.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/core-policy/residence/index.html",
+  "tags": [
+    "residence",
+    "eligibility",
+    "core-policy",
+    "income-support",
+    "lawful-presence",
+    "continuous-residence"
+  ],
+  "related": {
+    "products": [],
+    "programmes": [],
+    "policies": [
+      "pre-benefit-requirements",
+      "relationship-status-for-benefit"
+    ],
+    "processes": [
+      "application-for-benefit"
+    ],
+    "actors": [],
+    "concepts": [
+      "assessment-of-eligibility",
+      "reciprocal-agreements"
+    ],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Core policy concept covering residence eligibility criteria for income support, including lawful presence, specific visa/sponsorship situations, continuous residence calculations, and unlawful residence scenarios.",
+    "definition": "",
+    "context": "",
+    "examples": ""
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "bond-grant",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Bond Grant",
+  "description": "A grant to assist eligible clients with bond costs when securing accommodation, subject to income, cash asset, and residence criteria under the Housing Support Products framework.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/extra-help/housing-support-products/bond-grant/index.html",
+  "tags": [
+    "housing",
+    "extra-help",
+    "grant",
+    "bond",
+    "accommodation",
+    "housing-support-products"
+  ],
+  "related": {
+    "products": [
+      "housing-support-products",
+      "accommodation-supplement"
+    ],
+    "programmes": [],
+    "policies": [],
+    "processes": [
+      "reviews-and-appeals"
+    ],
+    "actors": [],
+    "concepts": [
+      "residence",
+      "income"
+    ],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "A grant to assist eligible clients with bond costs when securing accommodation, subject to income, cash asset, and residence criteria under the Housing Support Products framework.",
+    "eligibility": "Clients must meet residence requirements, income limits, cash asset limits, and be able to obtain and retain accommodation subject to the Residential Tenancies Act 1986.",
+    "payment_details": "Payment may be made in exceptional circumstances, to someone other than the landlord, and is subject to recovery provisions.",
+    "obligations": "Clients must stay in the accommodation for more than 28 days, ensure accommodation is suitable to live in, and must not have caused or contributed to the need for the bond.",
+    "stand_down": "",
+    "income_test": "Income limits apply as part of eligibility assessment.",
+    "application_process": ""
+  }
+}

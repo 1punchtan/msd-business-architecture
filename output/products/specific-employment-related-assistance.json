@@ -1,0 +1,44 @@
+{
+  "id": "specific-employment-related-assistance",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Specific employment-related assistance",
+  "description": "Products and services targeted towards moving clients into or helping clients stay in employment, provided in specific situations.",
+  "source_url": "https://www.workandincome.govt.nz/map/employment-and-training/specific-employment-related-assistance/index.html",
+  "tags": [
+    "employment",
+    "work-readiness",
+    "assistance",
+    "employment-related"
+  ],
+  "related": {
+    "products": [
+      "employment-and-work-readiness-assistance",
+      "apprenticeship-boost",
+      "employment-transition-assistance",
+      "flexi-wage-subsidy",
+      "mana-in-mahi",
+      "new-employment-transition-grant",
+      "relocate-for-work-support",
+      "seasonal-work-assistance",
+      "training-incentive-allowance",
+      "work-bonus"
+    ],
+    "programmes": [],
+    "policies": [],
+    "processes": [],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Products and services targeted towards moving clients into or helping clients stay in employment, provided in specific situations.",
+    "eligibility": "",
+    "payment_details": "",
+    "obligations": "",
+    "stand_down": "",
+    "income_test": "",
+    "application_process": ""
+  }
+}

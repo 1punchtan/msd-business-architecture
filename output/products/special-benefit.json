@@ -1,0 +1,58 @@
+{
+  "id": "special-benefit",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Special Benefit",
+  "description": "A hardship-based financial assistance benefit addressing income deficiency for eligible clients, assessed against allowable costs and chargeable income, with provisions for students, self-employed, non-beneficiaries, and various life circumstances.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/extra-help/special-benefit/index.html",
+  "tags": [
+    "extra-help",
+    "hardship",
+    "income-deficiency",
+    "allowable-costs",
+    "chargeable-income",
+    "cash-assets",
+    "debt-recovery",
+    "reviews",
+    "special-benefit"
+  ],
+  "related": {
+    "products": [
+      "special-benefit-tables",
+      "special-benefit-historical-tables",
+      "family-tax-credit",
+      "best-start-tax-credit",
+      "social-rehabilitation-assistance",
+      "disability-allowance"
+    ],
+    "programmes": [
+      "orphans-benefit-and-unsupported-childs-benefit",
+      "student-allowance",
+      "temporary-additional-support"
+    ],
+    "policies": [
+      "child-support",
+      "special-benefit-direction"
+    ],
+    "processes": [
+      "reviews-and-appeals"
+    ],
+    "actors": [],
+    "concepts": [
+      "residence",
+      "income",
+      "definition-of-income"
+    ],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "A hardship-based financial assistance benefit addressing income deficiency for eligible clients, assessed against allowable costs and chargeable income, with provisions for students, self-employed, non-beneficiaries, and various life circumstances.",
+    "eligibility": "",
+    "payment_details": "",
+    "obligations": "",
+    "stand_down": "",
+    "income_test": "",
+    "application_process": ""
+  }
+}

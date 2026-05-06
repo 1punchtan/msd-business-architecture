@@ -1,0 +1,49 @@
+{
+  "id": "reciprocal-denmark",
+  "type": "policy",
+  "archimate_type": "Constraint",
+  "name": "Reciprocal Denmark",
+  "description": "Policy guidance for the reciprocal social security agreement with Denmark, covering entitlements, calculations, payment methods, and administrative processes for clients moving between or residing in New Zealand and Denmark.",
+  "source_url": "https://www.workandincome.govt.nz/map/to-or-from-overseas/reciprocal-agreements/reciprocal-denmark/index.html",
+  "tags": [
+    "reciprocal agreement",
+    "Denmark",
+    "overseas",
+    "portability",
+    "New Zealand Superannuation",
+    "Veterans Pension",
+    "Sole Parent Support",
+    "Supported Living Payment",
+    "Danish pensions",
+    "welfare reform"
+  ],
+  "related": {
+    "products": [
+      "new-zealand-superannuation",
+      "veterans-pension",
+      "sole-parent-support",
+      "supported-living-payment"
+    ],
+    "programmes": [],
+    "policies": [
+      "reciprocal-agreements",
+      "portability",
+      "general-portability",
+      "special-portability"
+    ],
+    "processes": [
+      "reviews-and-appeals"
+    ],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Policy guidance for the reciprocal social security agreement with Denmark, covering entitlements, calculations, payment methods, and administrative processes for clients moving between or residing in New Zealand and Denmark.",
+    "rules": "",
+    "exceptions": "",
+    "scope": "",
+    "effective_date": ""
+  }
+}

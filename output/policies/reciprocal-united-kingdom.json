@@ -1,0 +1,45 @@
+{
+  "id": "reciprocal-united-kingdom",
+  "type": "policy",
+  "archimate_type": "Constraint",
+  "name": "Reciprocal United Kingdom",
+  "description": "This page provides the policy framework and operational guidance for the Social Security Agreement (reciprocal agreement) between New Zealand and the United Kingdom.",
+  "source_url": "https://www.workandincome.govt.nz/map/to-or-from-overseas/reciprocal-agreements/reciprocal-united-kingdom/index.html",
+  "tags": [
+    "reciprocal-agreement",
+    "united-kingdom",
+    "overseas",
+    "social-security",
+    "portability",
+    "international"
+  ],
+  "related": {
+    "products": [
+      "jobseeker-support",
+      "supported-living-payment",
+      "new-zealand-superannuation",
+      "sole-parent-support"
+    ],
+    "programmes": [],
+    "policies": [
+      "reciprocal-agreements",
+      "portability",
+      "general-portability",
+      "special-portability"
+    ],
+    "processes": [
+      "reviews-and-appeals"
+    ],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Reciprocal social security agreement between New Zealand and the United Kingdom, detailing how NZ and UK benefits interact, eligibility rules, payment options, and administrative processes for clients under the agreement.",
+    "rules": "",
+    "exceptions": "",
+    "scope": "",
+    "effective_date": ""
+  }
+}

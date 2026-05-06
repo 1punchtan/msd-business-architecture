@@ -1,0 +1,80 @@
+{
+  "id": "emergency-benefit",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Emergency Benefit",
+  "description": "A last-resort financial assistance benefit for clients in hardship who cannot qualify for another benefit, with comprehensive eligibility, obligations, payment, and review provisions.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/main-benefits/emergency-benefit/index.html",
+  "tags": [
+    "main-benefit",
+    "hardship",
+    "emergency",
+    "financial-assistance",
+    "income-support",
+    "obligations",
+    "work-obligations",
+    "social-obligations",
+    "youth-money-management",
+    "sanctions",
+    "mandatory-review"
+  ],
+  "related": {
+    "products": [
+      "jobseeker-support",
+      "supported-living-payment",
+      "sole-parent-support",
+      "new-zealand-superannuation",
+      "veterans-pension",
+      "young-parent-payment",
+      "youth-payment",
+      "orphans-benefit-and-unsupported-childs-benefit",
+      "emergency-maintenance-allowance",
+      "special-disability-allowance",
+      "disability-allowance",
+      "accommodation-supplement",
+      "temporary-additional-support",
+      "special-benefit",
+      "special-needs-grant",
+      "recoverable-assistance-payment",
+      "advance-payment-of-benefit",
+      "family-tax-credit",
+      "winter-energy-payment",
+      "child-disability-allowance",
+      "community-services-card"
+    ],
+    "programmes": [],
+    "policies": [
+      "relationship-status-for-benefit"
+    ],
+    "processes": [
+      "application-for-benefit",
+      "reviews-and-appeals",
+      "redirection-of-benefit-payment",
+      "duty-to-advise-of-changes-in-circumstances",
+      "portability",
+      "reciprocal-agreements",
+      "income-abatements-and-exemptions"
+    ],
+    "actors": [],
+    "concepts": [
+      "residence",
+      "income",
+      "initial-stand-down",
+      "main-benefits-rates",
+      "main-benefits-cut-out-points",
+      "main-benefits-income-abatement-thresholds",
+      "benefit-rate-summaries"
+    ],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "A last-resort financial assistance benefit for clients in hardship who cannot qualify for another benefit, with comprehensive eligibility, obligations, payment, and review provisions.",
+    "eligibility": "Client in hardship, unable to earn a sufficient livelihood, not eligible for another benefit, ordinarily resident in New Zealand. Covers domestic situations, caring responsibilities, health conditions, immigration status, and age-based circumstances.",
+    "payment_details": "Income tested with asset test applied. Subject to income abatement thresholds and cut-out points. Includes youth money management provisions and mandatory review requirements.",
+    "obligations": "Work obligations, work preparation obligations, social obligations, drug test obligations, and youth activity obligations. Youth money management requirements apply to eligible young people.",
+    "stand_down": "Initial stand-down provisions apply. Stand-down periods apply in specific circumstances as defined in the Social Security Act 2018.",
+    "income_test": "Income test applies with specified abatement thresholds and cut-out points.",
+    "application_process": ""
+  }
+}

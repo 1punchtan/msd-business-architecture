@@ -1,0 +1,33 @@
+{
+  "id": "relationship-debt-sharing",
+  "type": "policy",
+  "archimate_type": "Constraint",
+  "name": "Relationship debt sharing",
+  "description": "Policy governing relationship debt sharing, including joint and several liability for partners, prosecution of partners, recklessness provisions, and review of decisions related to relationship debt sharing.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/core-policy/relationship-debt-sharing/index.html",
+  "tags": [
+    "debt",
+    "relationship",
+    "liability",
+    "prosecution",
+    "review",
+    "core-policy"
+  ],
+  "related": {
+    "products": [],
+    "programmes": [],
+    "policies": [],
+    "processes": [],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Covers the rules and processes for sharing debt between partners in a relationship, including joint and several liability, prosecution, recklessness considerations, and decision reviews.",
+    "rules": "Jointly and severally liable; Prosecuting partners; Recklessness; Review of decision for relationship debt sharing",
+    "exceptions": "",
+    "scope": "",
+    "effective_date": ""
+  }
+}

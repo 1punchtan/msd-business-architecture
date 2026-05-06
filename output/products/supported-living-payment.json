@@ -1,0 +1,84 @@
+{
+  "id": "supported-living-payment",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Supported Living Payment",
+  "description": "Main benefit providing financial assistance to clients with permanent and severe health conditions, injuries or disabilities, or those caring full-time for a person requiring full-time care and attention.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/main-benefits/supported-living-payment/index.html",
+  "tags": [
+    "main-benefit",
+    "disability",
+    "health-condition",
+    "caring",
+    "supported-living",
+    "income-support",
+    "obligations",
+    "work-preparation",
+    "social-obligations",
+    "youth-money-management",
+    "mandatory-review"
+  ],
+  "related": {
+    "products": [
+      "jobseeker-support",
+      "sole-parent-support",
+      "emergency-benefit",
+      "new-zealand-superannuation",
+      "veterans-pension",
+      "orphans-benefit-and-unsupported-childs-benefit",
+      "young-parent-payment",
+      "youth-payment",
+      "special-disability-allowance",
+      "disability-allowance",
+      "child-disability-allowance",
+      "accommodation-supplement",
+      "temporary-additional-support",
+      "special-needs-grant",
+      "recoverable-assistance-payment",
+      "advance-payment-of-benefit",
+      "winter-energy-payment",
+      "family-tax-credit",
+      "best-start-tax-credit",
+      "community-services-card",
+      "social-rehabilitation-assistance",
+      "mana-in-mahi",
+      "training-incentive-allowance",
+      "employment-transition-assistance"
+    ],
+    "programmes": [],
+    "policies": [
+      "relationship-status-for-benefit",
+      "pre-benefit-requirements",
+      "child-support",
+      "care-and-protection-concerns-for-a-child-or-young-person"
+    ],
+    "processes": [
+      "reviews-and-appeals",
+      "application-for-benefit",
+      "duty-to-advise-of-changes-in-circumstances",
+      "redirection-of-benefit-payment",
+      "general-portability",
+      "special-portability"
+    ],
+    "actors": [],
+    "concepts": [
+      "residence",
+      "reciprocal-agreements",
+      "income",
+      "definition-of-income",
+      "initial-stand-down",
+      "portability"
+    ],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Main benefit for people with permanent and severe health conditions, injuries or disabilities, or those caring full-time for such a person. Covers eligibility, obligations, payment, income, reviews and changes in circumstances.",
+    "eligibility": "Age, residence, medical qualifications (health condition, injury or disability or caring for a person), immigration status. Medical pathways include existing assessments, medical certificates, NASC assessment, special education assessment, ORS assessment, and Work Ability Assessment.",
+    "payment_details": "Main benefit with various income treatment provisions including charging income, personal earnings exemptions, exemption for severe disablement, blind clients subsidy, and earnings-related compensation. Absence provisions allow up to 28 days general; approved reasons for longer absences.",
+    "obligations": "Work or work preparation obligations, social obligations, drug test obligations, work with contracted service provider obligation, work ability assessment obligation, and youth activity obligations. Non-financial sanctions include money management, community work experience, report job search, and upskilling.",
+    "stand_down": "Initial stand-down and 28-day rule applicable. Non-entitlement period of 13 weeks for voluntary unemployment or misconduct or grade 3 sanction.",
+    "income_test": "Charging income applies with personal earnings exemptions, exemption for severe disablement, blind clients subsidy, and earnings-related compensation.",
+    "application_process": "application-for-benefit"
+  }
+}

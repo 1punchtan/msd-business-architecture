@@ -1,0 +1,48 @@
+{
+  "id": "clothing-allowance",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Clothing Allowance",
+  "description": "A clothing assistance payment for caregivers of orphans and unsupported children, with rules covering eligibility, payment, caregiver and child changes, and reviews.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/extra-help/orphans-benefit-and-unsupported-childs-benefit-products/clothing-allowance/index.html",
+  "tags": [
+    "clothing",
+    "allowance",
+    "orphans",
+    "unsupported children",
+    "caregiver",
+    "extra help",
+    "income support"
+  ],
+  "related": {
+    "products": [
+      "orphans-benefit-and-unsupported-childs-benefit-products",
+      "advance-payment-of-benefit",
+      "special-needs-grant",
+      "student-allowance",
+      "student-loan"
+    ],
+    "programmes": [
+      "orphans-and-ucb-additional-assistance-programme"
+    ],
+    "policies": [
+      "orphans-benefit-and-unsupported-childs-benefit",
+      "child-support",
+      "reciprocal-agreements"
+    ],
+    "processes": [],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "A clothing assistance payment for caregivers of orphans and unsupported children, with rules covering eligibility, payment, caregiver and child changes, and reviews.",
+    "eligibility": "Described inline within page sections",
+    "payment_details": "Allowance",
+    "obligations": "",
+    "stand_down": "",
+    "income_test": "",
+    "application_process": ""
+  }
+}

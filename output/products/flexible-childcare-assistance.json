@@ -1,0 +1,40 @@
+{
+  "id": "flexible-childcare-assistance",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Flexible Childcare Assistance",
+  "description": "Flexible Childcare Assistance is an extra help product providing childcare assistance to eligible clients based on residence, age, shared care arrangements, risk of long-term benefit receipt, childcare arrangements, and specified employment activity.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/extra-help/flexible-childcare-assistance/index.html",
+  "tags": [
+    "childcare",
+    "extra-help",
+    "income-support",
+    "flexible-childcare",
+    "employment-activity"
+  ],
+  "related": {
+    "products": [
+      "early-learning-payment"
+    ],
+    "programmes": [
+      "childcare-assistance-programme"
+    ],
+    "policies": [],
+    "processes": [],
+    "actors": [],
+    "concepts": [
+      "residence"
+    ],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "A childcare assistance payment for clients at risk of long-term benefit receipt who are undertaking specified employment activity, covering qualifications, payment, changes, and ending conditions.",
+    "eligibility": "",
+    "payment_details": "",
+    "obligations": "",
+    "stand_down": "",
+    "income_test": "",
+    "application_process": ""
+  }
+}

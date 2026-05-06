@@ -1,0 +1,44 @@
+{
+  "id": "childcare-assistance-programme",
+  "type": "programme",
+  "archimate_type": "BusinessFunction",
+  "name": "Childcare Assistance Programme",
+  "description": "A programme providing financial assistance for childcare costs through the Childcare Subsidy and OSCAR Subsidy, including rules on eligibility, income testing, payment, absences, and reviews.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/extra-help/childcare-assistance-programme/index.html",
+  "tags": [
+    "childcare",
+    "subsidy",
+    "OSCAR",
+    "early childhood education",
+    "financial assistance",
+    "income test",
+    "extra help"
+  ],
+  "related": {
+    "products": [
+      "child-disability-allowance"
+    ],
+    "programmes": [
+      "early-learning-payment",
+      "flexible-childcare-assistance",
+      "guaranteed-childcare-assistance-payment",
+      "family-start-and-early-start-childcare-assistance-programme"
+    ],
+    "policies": [],
+    "processes": [],
+    "actors": [],
+    "concepts": [
+      "childcare-assistance-tables"
+    ],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "A programme providing financial assistance for childcare costs through the Childcare Subsidy and OSCAR Subsidy, including rules on eligibility, income testing, payment, absences, and reviews.",
+    "eligibility": "Qualifications, residency requirements, 20 hours Early Childhood Education, shared care arrangements, eligible child criteria, and income testing requirements",
+    "target_group": "",
+    "provider": "",
+    "funding_type": "Childcare Subsidy and OSCAR Subsidy",
+    "application_process": ""
+  }
+}

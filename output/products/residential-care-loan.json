@@ -1,0 +1,40 @@
+{
+  "id": "residential-care-loan",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Residential Care Loan",
+  "description": "A loan product providing financial assistance for residential care costs, covering eligibility criteria, loan terms and conditions, repayment, write-off, deferment, and application processes.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/extra-help/residential-care-loan/index.html",
+  "tags": [
+    "residential-care",
+    "loan",
+    "extra-help",
+    "income-support",
+    "deferment",
+    "repayment",
+    "eligibility"
+  ],
+  "related": {
+    "products": [
+      "residential-care-subsidy"
+    ],
+    "programmes": [],
+    "policies": [
+      "residential-care-loan-scheme-regulations"
+    ],
+    "processes": [],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "The Residential Care Loan is a financial assistance product that helps eligible individuals meet residential care costs. It outlines eligibility, loan terms, repayment and deferment conditions, exceptional circumstances provisions, and the application process.",
+    "eligibility": "",
+    "payment_details": "",
+    "obligations": "",
+    "stand_down": "",
+    "income_test": "",
+    "application_process": ""
+  }
+}

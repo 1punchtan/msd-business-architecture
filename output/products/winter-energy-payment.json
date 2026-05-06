@@ -1,0 +1,50 @@
+{
+  "id": "winter-energy-payment",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Winter Energy Payment",
+  "description": "A seasonal payment made to eligible benefit recipients to assist with energy costs during winter, with specific rules around qualifications, rates, circumstances, absences, deductions and interactions with other assistance.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/extra-help/winter-energy-payment/index.html",
+  "tags": [
+    "winter",
+    "energy",
+    "payment",
+    "benefit",
+    "extra-help",
+    "seasonal",
+    "income-support"
+  ],
+  "related": {
+    "products": [
+      "temporary-additional-support",
+      "social-rehabilitation-assistance",
+      "emergency-housing",
+      "new-zealand-superannuation",
+      "veterans-pension",
+      "orphans-benefit-and-unsupported-childs-benefit",
+      "income-related-rent"
+    ],
+    "programmes": [],
+    "policies": [
+      "winter-energy-payment-tables",
+      "portability",
+      "general-portability",
+      "special-portability",
+      "reciprocal-agreements"
+    ],
+    "processes": [],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "A seasonal payment made to eligible benefit recipients to assist with energy costs during winter, with specific rules around qualifications, rates, circumstances, absences, deductions and interactions with other assistance.",
+    "eligibility": "Must be receiving a qualifying benefit that is payable. Specific circumstances include people in long term care, recipients of Orphans Benefit, Unsupported Child's Benefit or Foster Care Allowance, single clients sharing care of dependent child, Social Housing tenants, clients in emergency or transitional housing, clients receiving Social Rehabilitation Assistance, clients receiving overseas state pension, clients with 100% tax rate, and clients living in countries providing portable benefits.",
+    "payment_details": "Couple and child rates apply. Winter payment periods are defined. Rules for absence from New Zealand including up to 26 weeks for NZS/VP clients and 28-day extension periods. Hospitalisation and imprisonment rules apply. Rules for clients with a Public Protection Order. Clients can choose to opt out of receiving the Winter Energy Payment.",
+    "obligations": "Deduction priorities apply including court attachment orders, debt repayment orders, MSD debt, student loans, and IRD notices. The payment impacts other assistance such as Temporary Additional Support.",
+    "stand_down": "",
+    "income_test": "Referenced in policy.",
+    "application_process": ""
+  }
+}

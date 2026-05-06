@@ -1,0 +1,40 @@
+{
+  "id": "portability",
+  "type": "policy",
+  "archimate_type": "Constraint",
+  "name": "Portability",
+  "description": "Policy governing continued payment of NZ Superannuation or Veteran's Pension to clients who are overseas, subject to specific conditions relating to country of residence, duration of travel, and applicable social security agreements.",
+  "source_url": "https://www.workandincome.govt.nz/map/to-or-from-overseas/portability/index.html",
+  "tags": [
+    "portability",
+    "overseas",
+    "new zealand superannuation",
+    "veterans pension",
+    "social security agreement",
+    "pacific countries"
+  ],
+  "related": {
+    "products": [
+      "new-zealand-superannuation",
+      "veterans-pension"
+    ],
+    "programmes": [],
+    "policies": [
+      "general-portability",
+      "special-portability",
+      "reciprocal-agreements"
+    ],
+    "processes": [],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Policy governing continued payment of NZ Superannuation or Veteran's Pension to clients who are overseas, covering non-agreement countries, extended travel, and Pacific country residence. Grandparented non-qualified partners cannot be paid overseas.",
+    "rules": "Payments continue while residing in a country that New Zealand does not have a social security agreement with. Payments continue while travelling overseas for more than 26 weeks but not residing in any one country. Payments continue when leaving New Zealand for more than 52 weeks to live in certain Pacific countries.",
+    "exceptions": "Grandparented non-qualified partners cannot be paid overseas.",
+    "scope": "New Zealand Superannuation and Veteran's Pension payments to clients overseas.",
+    "effective_date": ""
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "training-incentive-allowance",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Training Incentive Allowance",
+  "description": "Financial assistance provided to eligible clients to help cover costs associated with studying a recognised course of study.",
+  "source_url": "https://www.workandincome.govt.nz/map/employment-and-training/specific-employment-related-assistance/training-incentive-allowance/index.html",
+  "tags": [
+    "training",
+    "allowance",
+    "study",
+    "employment",
+    "education",
+    "sole-parent",
+    "supported-living",
+    "jobseeker",
+    "youth"
+  ],
+  "related": {
+    "products": [
+      "supported-living-payment",
+      "sole-parent-support",
+      "young-parent-payment",
+      "emergency-benefit",
+      "emergency-maintenance-allowance",
+      "jobseeker-support",
+      "student-loan",
+      "specific-employment-related-assistance"
+    ],
+    "programmes": [
+      "training-incentive-allowance-programme"
+    ],
+    "policies": [],
+    "processes": [
+      "reviews-and-appeals"
+    ],
+    "actors": [],
+    "concepts": [
+      "training-incentive-allowance-tables"
+    ],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Financial assistance to help eligible beneficiaries with the costs of undertaking a recognised course of study, subject to qualification, residency, and course eligibility criteria.",
+    "eligibility": "Eligible clients must be receiving one of the following qualifying benefits: Supported Living Payment (caring for a person or due to health condition, injury or disability), Sole Parent Support, Young Parent Payment (sole parents), Emergency Benefit including Emergency Maintenance Allowance (sole parents), or Jobseeker Support (sole parents). Course must be a recognised course of study that improves client's skills for employment. Eligible courses include tertiary education, university preparation programmes, secondary school, and courses that include work experience with conditions. Client must not have obtained a level 7 qualification within the past 5 years.",
+    "payment_details": "Covers capital items, care costs, course fees, disability related costs, internet, and transport. Maximum payment period is 52 weeks. Payment is calculated based on actual costs with reimbursing costs method available. Money Management and youth money management provisions apply.",
+    "obligations": "Client must maintain attendance and progress in the course. Changes such as temporary absence from course, withdrawal or stopping attendance, or starting a new course may affect payment. Payment is subject to review for changes in costs, review dates, absence from New Zealand, or cancellation of qualifying benefit.",
+    "stand_down": "",
+    "income_test": "",
+    "application_process": ""
+  }
+}

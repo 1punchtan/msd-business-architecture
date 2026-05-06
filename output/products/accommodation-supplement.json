@@ -1,0 +1,74 @@
+{
+  "id": "accommodation-supplement",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Accommodation Supplement",
+  "description": "A weekly payment to assist with accommodation costs (rent, board, or home ownership) for eligible beneficiaries and non-beneficiaries, subject to income, asset, and residence criteria with mandatory periodic reviews.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/extra-help/accommodation-supplement/index.html",
+  "tags": [
+    "accommodation",
+    "extra-help",
+    "housing",
+    "financial-assistance",
+    "rent",
+    "mortgage",
+    "board",
+    "beneficiaries",
+    "non-beneficiaries",
+    "mandatory-review",
+    "debt-recovery"
+  ],
+  "related": {
+    "products": [
+      "accommodation-supplement-tables",
+      "accommodation-supplement-historical-tables",
+      "housing-support-products",
+      "temporary-additional-support",
+      "emergency-housing",
+      "jobseeker-support",
+      "sole-parent-support",
+      "supported-living-payment",
+      "new-zealand-superannuation",
+      "veterans-pension",
+      "emergency-benefit",
+      "social-housing-tables",
+      "income-related-rent",
+      "special-benefit",
+      "orphans-benefit-and-unsupported-childs-benefit",
+      "young-parent-payment",
+      "student-allowance",
+      "child-disability-allowance",
+      "winter-energy-payment"
+    ],
+    "programmes": [],
+    "policies": [
+      "relationship-status-for-benefit"
+    ],
+    "processes": [
+      "reviews-and-appeals",
+      "requests-for-financial-assistance",
+      "application-for-assistance",
+      "duty-to-advise-of-changes-in-circumstances",
+      "current-client-debt"
+    ],
+    "actors": [],
+    "concepts": [
+      "residence",
+      "income",
+      "reciprocal-agreements",
+      "portability",
+      "general-portability"
+    ],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "A weekly payment to assist with accommodation costs (rent, board, or home ownership) for eligible beneficiaries and non-beneficiaries, subject to income, asset, and residence criteria with mandatory periodic reviews.",
+    "eligibility": "Residence, Beneficiary or non-beneficiary status, Income and asset thresholds, Accommodation costs (rent, board, or home ownership outgoings). Special circumstances include emergency and transitional housing, clients with non-qualified partners, students, prisoners, hospitalisation, absence from New Zealand, relocatable cabins, caravans, and motor homes, retirement village residents, shared equity schemes, and rent to buy schemes.",
+    "payment_details": "Weekly supplement covering rent, board, mortgage repayments, body corporate fees, and essential repairs and maintenance.",
+    "obligations": "Mandatory periodic reviews and debt recovery provisions apply.",
+    "stand_down": "",
+    "income_test": "Income and asset thresholds apply.",
+    "application_process": ""
+  }
+}

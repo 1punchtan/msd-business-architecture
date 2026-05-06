@@ -1,0 +1,44 @@
+{
+  "id": "christchurch-mosques-attack-assistance",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Christchurch Mosques Attack Assistance",
+  "description": "A special assistance product for people affected by the Christchurch Mosques Attack, covering those who are affected persons, experiencing mental trauma, or related to someone injured, killed or present at the attack.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/extra-help/christchurch-mosques-attack-assistance/index.html",
+  "tags": [
+    "christchurch",
+    "attack",
+    "trauma",
+    "special assistance",
+    "emergency",
+    "income support",
+    "extra help"
+  ],
+  "related": {
+    "products": [
+      "best-start-tax-credit",
+      "emergency-benefit",
+      "family-tax-credit",
+      "temporary-additional-support",
+      "winter-energy-payment"
+    ],
+    "programmes": [
+      "christchurch-mosques-attack-welfare-programme"
+    ],
+    "policies": [],
+    "processes": [],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Financial and social assistance for individuals affected by the Christchurch Mosques Attack, including special assistance streams tied to existing products and provisions for changes, reviews, and obligations.",
+    "eligibility": "Affected person, experiencing mental trauma, related to someone injured killed or present at the attack, does not qualify for a benefit, unable to earn enough income",
+    "payment_details": "Special assistance provisions for Best Start tax credit, Emergency Benefit, Family tax credit, Temporary Additional Support, Winter Energy Payment. Covers costs such as interpreting services and medical assessments.",
+    "obligations": "Absence from New Zealand, dependent child turns 18, hospitalisation, medical reviews, partner inclusion and exclusion, Temporary Additional Support special assistance review, temporary visa lapses, transferring to a main benefit",
+    "stand_down": "",
+    "income_test": "",
+    "application_process": ""
+  }
+}

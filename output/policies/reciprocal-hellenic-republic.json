@@ -1,0 +1,51 @@
+{
+  "id": "reciprocal-hellenic-republic",
+  "type": "policy",
+  "archimate_type": "Constraint",
+  "name": "Reciprocal Hellenic Republic",
+  "description": "Reciprocal social security agreement between New Zealand and the Hellenic Republic (Greece), covering portability of NZ benefits and pensions, Greek pension clients in NZ, and associated administrative processes.",
+  "source_url": "https://www.workandincome.govt.nz/map/to-or-from-overseas/reciprocal-agreements/reciprocal-hellenic-republic/index.html",
+  "tags": [
+    "reciprocal agreement",
+    "Greece",
+    "Hellenic Republic",
+    "overseas",
+    "portability",
+    "superannuation",
+    "veterans pension",
+    "sole parent support",
+    "supported living payment",
+    "welfare reform"
+  ],
+  "related": {
+    "products": [
+      "sole-parent-support",
+      "supported-living-payment",
+      "new-zealand-superannuation",
+      "veterans-pension",
+      "orphans-benefit-and-unsupported-childs-benefit",
+      "funeral-grant"
+    ],
+    "programmes": [],
+    "policies": [
+      "reciprocal-agreements",
+      "portability",
+      "general-portability",
+      "special-portability"
+    ],
+    "processes": [
+      "reviews-and-appeals"
+    ],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Reciprocal social security agreement between New Zealand and the Hellenic Republic (Greece), covering portability of NZ benefits and pensions, Greek pension clients in NZ, and associated administrative processes.",
+    "rules": "",
+    "exceptions": "",
+    "scope": "",
+    "effective_date": ""
+  }
+}

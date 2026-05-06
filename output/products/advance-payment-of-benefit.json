@@ -1,0 +1,54 @@
+{
+  "id": "advance-payment-of-benefit",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Advance Payment of Benefit",
+  "description": "A financial assistance product that advances benefit payments to eligible clients to meet immediate and essential needs across a range of specified categories, subject to qualification, income, asset, and hardship obligation requirements.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/extra-help/advance-payment-of-benefit/index.html",
+  "tags": [
+    "hardship assistance",
+    "advance payment",
+    "benefit",
+    "extra help",
+    "budgeting",
+    "debt recovery",
+    "preferred supplier"
+  ],
+  "related": {
+    "products": [
+      "advance-payment-of-benefit-tables",
+      "income-related-rent-debt",
+      "recoverable-assistance-payment",
+      "special-needs-grant",
+      "temporary-additional-support",
+      "young-parent-payment",
+      "youth-payment",
+      "jobseeker-support",
+      "sole-parent-support",
+      "supported-living-payment",
+      "emergency-benefit",
+      "recoverable-assistance-programme"
+    ],
+    "programmes": [],
+    "policies": [
+      "advance-payment-of-benefits-direction"
+    ],
+    "processes": [
+      "requests-for-financial-assistance",
+      "application-for-assistance"
+    ],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "A financial assistance product that advances benefit payments to eligible clients to meet immediate and essential needs across a range of specified categories, subject to qualification, income, asset, and hardship obligation requirements.",
+    "eligibility": "Income limits, cash asset limits, immediate and essential needs assessment, existing debt level consideration",
+    "payment_details": "Covers payment categories including ambulance subscription fees, appliances and furniture, assignment/subletting/ending tenancy, funeral attendance, bedding, beds/chairs/tables, car repairs, child restraints and safety helmets, clothing, dental treatment, dentures and hearing aids, electricity/gas/water, essential home repairs, fire loss or burglary, fridges/freezers/washing machines, glasses, laser therapy for birthmark removal, safety footwear, school costs, telephone installation, Tenancy Tribunal fees, and travel for stranded clients. Preferred supplier arrangements available for fridges/freezers/washing machines and glasses.",
+    "obligations": "Reasonable steps obligation, budgeting activity obligation, attending a budgeting course or seminar, attending a budgeting advice service",
+    "stand_down": "",
+    "income_test": "Income limits apply as qualification criteria",
+    "application_process": ""
+  }
+}

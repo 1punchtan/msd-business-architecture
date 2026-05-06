@@ -1,0 +1,45 @@
+{
+  "id": "temporary-accommodation-assistance-niwe",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Temporary Accommodation Assistance",
+  "description": "Temporary Accommodation Assistance provides financial support to homeowners whose homes have been affected by a natural disaster or weather event, leaving them with temporary accommodation costs.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/extra-help/temporary-accommodation-assistance-niwe/index.html",
+  "tags": [
+    "temporary accommodation",
+    "natural disaster",
+    "north island weather events",
+    "homeowner",
+    "extra help",
+    "financial assistance",
+    "displaced persons"
+  ],
+  "related": {
+    "products": [
+      "accommodation-supplement",
+      "housing-support-products"
+    ],
+    "programmes": [
+      "temporary-accommodation-assistance-north-island-weather-events-programme"
+    ],
+    "policies": [],
+    "processes": [
+      "reviews-and-appeals"
+    ],
+    "actors": [],
+    "concepts": [
+      "residence"
+    ],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "A financial assistance product for homeowners displaced from their homes due to damage (yellow/red placard), covering temporary accommodation costs with provisions for eligibility, payments, changes in circumstances, and interactions with other MSD and non-MSD assistance.",
+    "eligibility": "Residence requirement, homeowner of affected home, yellow or red placard for affected home, unavoidable homeownership costs, had temporary accommodation costs",
+    "payment_details": "Temporary Accommodation Assistance lump sum payments, discretionary grant",
+    "obligations": "No longer had temporary accommodation costs, no longer owned the affected home, no longer had costs for their affected home, reoccupied the affected home, expiry of programme",
+    "stand_down": "",
+    "income_test": "",
+    "application_process": ""
+  }
+}

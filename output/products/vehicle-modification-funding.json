@@ -1,0 +1,38 @@
+{
+  "id": "vehicle-modification-funding",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Vehicle Modification Funding",
+  "description": "Financial assistance product for vehicle modifications, subject to income and asset tests, with defined qualifications and payment rules.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/extra-help/vehicle-modification-funding/index.html",
+  "tags": [
+    "extra-help",
+    "vehicle",
+    "modification",
+    "income-support",
+    "asset-test"
+  ],
+  "related": {
+    "products": [
+      "extra-help-information"
+    ],
+    "programmes": [],
+    "policies": [],
+    "processes": [
+      "reviews-and-appeals"
+    ],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Financial assistance product for vehicle modifications, subject to income and asset tests, with defined qualifications and payment rules.",
+    "eligibility": "",
+    "payment_details": "",
+    "obligations": "",
+    "stand_down": "",
+    "income_test": "",
+    "application_process": ""
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "tenancy-reviews",
+  "type": "process",
+  "archimate_type": "BusinessProcess",
+  "name": "Tenancy reviews",
+  "description": "Tenancy reviews cover the process of reviewing whether a social housing tenant continues to qualify for social housing, including triggers, assessment criteria, property suitability checks, outcomes, notifications, and review of decision procedures.",
+  "source_url": "https://www.workandincome.govt.nz/map/social-housing/tenancy-reviews/index.html",
+  "tags": [
+    "social housing",
+    "tenancy review",
+    "eligibility assessment",
+    "income related rent",
+    "housing need",
+    "review of decision"
+  ],
+  "related": {
+    "products": [],
+    "programmes": [],
+    "policies": [
+      "continued-eligibility-for-social-housing-direction",
+      "eligibility-for-social-housing-direction"
+    ],
+    "processes": [
+      "assessment-of-eligibility",
+      "register-management-and-referrals",
+      "duty-to-advise-of-changes-in-circumstances",
+      "reviews-of-continued-eligibility-for-social-housing",
+      "reviews-and-appeals"
+    ],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": [
+      "income-related-rent",
+      "income-related-rent-subsidy",
+      "social-housing-tables"
+    ]
+  },
+  "attributes": {
+    "summary": "The tenancy review process assesses ongoing eligibility for social housing tenants, covering exemptions, assessment criteria, outcomes, notifications, and review of decision procedures.",
+    "steps": [
+      "Tenancy reviews restart",
+      "Exemptions from 3-yearly tenancy reviews",
+      "Dependent child for exempt tenants",
+      "Property orders",
+      "Change in tenant circumstances",
+      "Assessing ongoing qualification for social housing",
+      "Residency requirements",
+      "Income and asset thresholds",
+      "Persistent housing need (serious or severe)",
+      "Affordability of suitable alternative housing",
+      "Accessibility of alternative housing",
+      "Availability of suitable alternative housing",
+      "Discrimination preventing household access",
+      "Cash resources for bond, rent, furniture, moving costs",
+      "Sustainability of alternative housing",
+      "Financial management difficulties",
+      "Expected household changes in next 52 weeks",
+      "Social functioning difficulties",
+      "Requesting information for assessment",
+      "Property suitability check",
+      "Tenancy review outcomes",
+      "Notifying housing provider",
+      "Change in circumstances during transition period",
+      "Change in circumstances after 90-day notice",
+      "Review of Decision",
+      "Timeframe to lodge a review",
+      "Tenant lodges Review of Decision during transition period"
+    ],
+    "triggers": "",
+    "inputs": "",
+    "outputs": "",
+    "decision_points": ""
+  }
+}

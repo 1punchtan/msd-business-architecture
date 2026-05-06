@@ -1,0 +1,68 @@
+{
+  "id": "special-needs-grant",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Special Needs Grant",
+  "description": "A financial assistance grant providing support for essential and emergency needs including food, dental treatment, health travel, bedding, driver licences, re-establishment grants for refugees and protected persons, civil defence payments, family violence programme payments, and rural assistance.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/extra-help/special-needs-grant/index.html",
+  "tags": [
+    "extra-help",
+    "hardship",
+    "emergency",
+    "essential-needs",
+    "grant",
+    "food",
+    "dental",
+    "health-travel",
+    "family-violence",
+    "refugee",
+    "civil-defence",
+    "rural-assistance",
+    "re-establishment"
+  ],
+  "related": {
+    "products": [
+      "special-needs-grant-tables",
+      "temporary-additional-support",
+      "recoverable-assistance-payment",
+      "advance-payment-of-benefit",
+      "accommodation-supplement",
+      "disability-allowance",
+      "new-zealand-superannuation",
+      "veterans-pension",
+      "jobseeker-support",
+      "sole-parent-support",
+      "supported-living-payment",
+      "young-parent-payment",
+      "youth-payment",
+      "special-needs-grant-historical-tables"
+    ],
+    "programmes": [
+      "special-needs-grants-programme",
+      "special-needs-grants-programme-rural-assistance-approvals",
+      "special-needs-travel-costs-designated-doctors-programme"
+    ],
+    "policies": [],
+    "processes": [
+      "application-for-assistance",
+      "requests-for-financial-assistance"
+    ],
+    "actors": [],
+    "concepts": [
+      "income",
+      "residence",
+      "initial-stand-down"
+    ],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "A financial assistance grant for people in hardship covering a wide range of essential and emergency needs, with specific provisions for various client groups and circumstances including family violence, rural assistance, civil defence events, and refugee resettlement.",
+    "eligibility": "",
+    "payment_details": "",
+    "obligations": "",
+    "stand_down": "",
+    "income_test": "",
+    "application_process": "application-for-assistance"
+  }
+}

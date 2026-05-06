@@ -1,0 +1,38 @@
+{
+  "id": "employment-related-income",
+  "type": "concept",
+  "archimate_type": "BusinessObject",
+  "name": "Employment related income",
+  "description": "Employment related income covers how various employment-related payments are treated for clients already receiving a benefit, as distinct from treatment at commencement of benefit.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/core-policy/income/types-of-income/employment-related-income.html",
+  "tags": [
+    "income",
+    "employment",
+    "wages",
+    "self-employment",
+    "parental leave",
+    "benefit treatment",
+    "core policy"
+  ],
+  "related": {
+    "products": [],
+    "programmes": [],
+    "policies": [],
+    "processes": [],
+    "actors": [],
+    "concepts": [
+      "income",
+      "types-of-income",
+      "definition-of-income",
+      "licensed-home-based-education-and-care-services"
+    ],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "A concept defining the types and treatment of employment-related income for benefit recipients, distinguishing between income at commencement and ongoing benefit scenarios.",
+    "definition": "Employment related income covers wages and salary, parental leave payments, self-employment, commission work, goods/services/accommodation in lieu of money, compensation or damages, home-based education and care service payments, honoraria, carer allowances, jury service fees, sponsorship, friendly society payments, green dollar trading, voluntary work, and expenses reimbursed by employers.",
+    "context": "Page describes the treatment of employment-related income for clients already receiving a benefit. References commencement date treatment under individual benefit types.",
+    "examples": ""
+  }
+}

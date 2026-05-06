@@ -1,0 +1,30 @@
+{
+  "id": "end-of-school-year",
+  "type": "concept",
+  "archimate_type": "BusinessObject",
+  "name": "End of school year",
+  "description": "A policy guide covering procedures and considerations related to the end of the school year, including when a child leaves school and the implications for income support.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/core-policy/end-of-school-year/index.html",
+  "tags": [
+    "end of school year",
+    "child leaves school",
+    "income support",
+    "core policy"
+  ],
+  "related": {
+    "products": [],
+    "programmes": [],
+    "policies": [],
+    "processes": [],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Covers the end of school year policy, including what happens when a child leaves school and how this affects income support entitlements.",
+    "definition": "",
+    "context": "",
+    "examples": ""
+  }
+}

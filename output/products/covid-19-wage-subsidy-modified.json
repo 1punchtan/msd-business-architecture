@@ -1,0 +1,44 @@
+{
+  "id": "covid-19-wage-subsidy-modified",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "COVID-19 wage subsidy (modified)",
+  "description": "Employment support product providing wage subsidies to eligible employers who experienced a decline in revenue due to COVID-19 public health restrictions.",
+  "source_url": "https://www.workandincome.govt.nz/map/employment-and-training/specific-employment-related-assistance/covid-19-wage-subsidy-modified/index.html",
+  "tags": [
+    "covid-19",
+    "wage-subsidy",
+    "employment",
+    "employer-support",
+    "revenue-decline",
+    "modified"
+  ],
+  "related": {
+    "products": [
+      "specific-employment-related-assistance",
+      "employment-and-work-readiness-assistance",
+      "covid-19-wage-subsidy-scheme-extension",
+      "covid-19-wage-subsidy-scheme-march-2021",
+      "covid-19-wage-subsidy-scheme-august-2021",
+      "covid-19-resurgence-wage-subsidy-scheme",
+      "covid-19-leave-support-scheme",
+      "covid-19-short-term-absence-payment"
+    ],
+    "programmes": [],
+    "policies": [],
+    "processes": [],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Wage subsidy scheme for eligible employers affected by COVID-19, covering qualification criteria, revenue decline assessment, employer obligations, payment amounts, and transition arrangements with the standard COVID-19 Wage Subsidy.",
+    "eligibility": "Employers must be registered and operating in New Zealand, have experienced a 30% decline in revenue (predicted or actual), and must retain affected staff. Employees must be legally entitled to work in New Zealand. State Sector employers are generally not eligible except for health and disability funded workforce. Scheme covers various employment situations including multiple jobs, self-employed persons who are also employees, fixed-term contracts, seasonal workers, newly hired employees, recently re-hired employees, ACC compensation recipients, employees temporarily overseas due to COVID-19 restrictions, employees on paid parental leave, and those with property business income. Special revenue decline cases include separate legal entities, businesses operating less than a year, high growth firms, businesses not yet operating at COVID-19 restrictions onset, pre-revenue R&D start-ups, and businesses receiving insurance payments.",
+    "payment_details": "Payment amount is based on the employer's obligation to pay the employee their normal wages or salary. Employers must follow employment law when paying wages. Repayment is required if an employer is not entitled but has been paid—unused funds must be repaid after the subsidy period ends.",
+    "obligations": "Employers must retain affected staff, pay employees their normal wages or salary, and follow employment law requirements when paying wages.",
+    "stand_down": "",
+    "income_test": "",
+    "application_process": ""
+  }
+}

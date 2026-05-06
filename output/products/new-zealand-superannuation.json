@@ -1,0 +1,56 @@
+{
+  "id": "new-zealand-superannuation",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "New Zealand Superannuation",
+  "description": "New Zealand Superannuation is a universal superannuation benefit available to eligible New Zealand residents who meet age and residency qualifications, covering eligibility, payment rates, obligations, and mandatory review processes.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/main-benefits/new-zealand-superannuation/index.html",
+  "tags": [
+    "superannuation",
+    "retirement",
+    "main-benefit",
+    "residency",
+    "portability",
+    "grandparented-partner",
+    "taxation",
+    "income-support"
+  ],
+  "related": {
+    "products": [
+      "special-disability-allowance",
+      "family-tax-credit",
+      "best-start-tax-credit",
+      "accommodation-supplement"
+    ],
+    "programmes": [],
+    "policies": [
+      "reciprocal-agreements",
+      "nz-superannuation-and-veterans-pension-tables",
+      "nz-superannuation-renewal-codes-and-review-years",
+      "portability",
+      "general-portability",
+      "special-portability",
+      "single-living-alone-rates-direction",
+      "non-resident-spouses-direction"
+    ],
+    "processes": [
+      "reviews-and-appeals"
+    ],
+    "actors": [],
+    "concepts": [
+      "residence",
+      "income"
+    ],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "A comprehensive guide to New Zealand Superannuation covering eligibility criteria including age and residency requirements, payment rates for different household configurations, obligations, commencement dates, handling of overseas absences, hospitalisation, imprisonment, debt recovery, taxation, and mandatory review processes for grandparented non-qualified partner cases.",
+    "eligibility": "Age, residency, and immigration status requirements. Applicants must be ordinarily resident and present in New Zealand.",
+    "payment_details": "Payment rates vary by client situation: couples rate, single rate, single sharing accommodation rate, single living alone rate, and grandparented non-qualified partner rate.",
+    "obligations": "Mandatory review processes for grandparented non-qualified partner cases. Obligations include reporting changes, managing absences from New Zealand, disclosure of hospitalisation and imprisonment status.",
+    "stand_down": "",
+    "income_test": "",
+    "application_process": ""
+  }
+}

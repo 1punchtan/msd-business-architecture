@@ -1,0 +1,47 @@
+{
+  "id": "away-from-home-allowance",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Away From Home Allowance",
+  "description": "A financial allowance for principal caregivers with dependent children living away from home, addressing eligibility, payment rates, overpayments, changes in circumstances, and deductions.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/extra-help/away-from-home-allowance/index.html",
+  "tags": [
+    "allowance",
+    "extra-help",
+    "income-support",
+    "dependent-child",
+    "caregiver",
+    "family-tax-credit",
+    "away-from-home"
+  ],
+  "related": {
+    "products": [
+      "advance-payment-of-benefit"
+    ],
+    "programmes": [
+      "away-from-home-allowance-programme"
+    ],
+    "policies": [
+      "child-support",
+      "duty-to-advise-of-changes-in-circumstances"
+    ],
+    "processes": [],
+    "actors": [],
+    "concepts": [
+      "income",
+      "student-loan",
+      "family-tax-credit"
+    ],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "A financial allowance for principal caregivers with dependent children living away from home, addressing eligibility, payment rates, overpayments, changes in circumstances, and deductions.",
+    "eligibility": "",
+    "payment_details": "",
+    "obligations": "",
+    "stand_down": "",
+    "income_test": "",
+    "application_process": ""
+  }
+}

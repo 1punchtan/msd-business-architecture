@@ -1,0 +1,59 @@
+{
+  "id": "student-allowance",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Student allowance",
+  "description": "The Student Allowance is a financial assistance product providing income support to eligible students in New Zealand, covering eligibility criteria, payment structures, obligations, and review processes.",
+  "source_url": "https://www.workandincome.govt.nz/map/students/student-allowance/index.html",
+  "tags": [
+    "student",
+    "allowance",
+    "financial assistance",
+    "education",
+    "accommodation benefit",
+    "income assessment",
+    "residency",
+    "debt recovery",
+    "reviews and appeals"
+  ],
+  "related": {
+    "products": [
+      "student-allowance-rates-and-thresholds",
+      "accommodation-benefit-rates",
+      "student-allowance-transfer-grant",
+      "jobseeker-support-student-hardship",
+      "student-loan",
+      "young-parent-payment",
+      "youth-payment",
+      "christchurch-mosques-attack-assistance",
+      "away-from-home-allowance"
+    ],
+    "programmes": [
+      "student-allowance-transfer-grant-programme"
+    ],
+    "policies": [],
+    "processes": [
+      "reviews-and-appeals",
+      "students--agents"
+    ],
+    "actors": [],
+    "concepts": [
+      "overseas-study-regions-and-specified-countries",
+      "student-support-tables",
+      "income",
+      "definition-of-income",
+      "residence"
+    ],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Financial assistance for eligible students in New Zealand, covering eligibility, income assessment, recognised programmes, accommodation benefit, obligations, and appeals.",
+    "eligibility": "Age eligibility ranges from 16-23 years and 24 years and over, with specific criteria for secondary students aged 16-17 and 18+ years. Age restriction applies at 65 years. Study types include full-time secondary school, full-time tertiary, extramural study, study overseas, trimester 3 summer school, and recognised long programmes. Income types assessed include personal income, boarders income, business income, rental property income, commission, holiday pay, scholarships, merit grants, partner's income, parental income, and overseas income.",
+    "payment_details": "Payment components include Accommodation Benefit, sole parent rate, living away from home rate, and extra assistance for students.",
+    "obligations": "Student, education provider and third party obligations apply. Offences and penalties are enforced.",
+    "stand_down": "",
+    "income_test": "Income assessment conducted based on multiple income types including personal income, parental income, partner's income, and various other income sources.",
+    "application_process": "application-for-assistance"
+  }
+}

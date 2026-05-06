@@ -1,0 +1,46 @@
+{
+  "id": "moving-costs-grant",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Moving Costs Grant",
+  "description": "The Moving Costs Grant is a financial assistance product that helps eligible clients cover the costs of moving to new accommodation.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/extra-help/housing-support-products/moving-costs-grant/index.html",
+  "tags": [
+    "housing",
+    "moving costs",
+    "grant",
+    "extra help",
+    "housing support products",
+    "income limit",
+    "cash assets",
+    "residential tenancies"
+  ],
+  "related": {
+    "products": [
+      "housing-support-products",
+      "accommodation-supplement"
+    ],
+    "programmes": [],
+    "policies": [],
+    "processes": [
+      "reviews-and-appeals"
+    ],
+    "actors": [],
+    "concepts": [
+      "residence",
+      "income",
+      "housing-support-products-tables"
+    ],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "A grant providing financial assistance for moving costs, subject to income, asset, and accommodation eligibility criteria under the Housing Support Products umbrella.",
+    "eligibility": "Residence, income limit, cash asset limit, able to obtain and retain accommodation, accommodation subject to or exempt from Residential Tenancies Act 1986",
+    "payment_details": "Exceptional circumstances, shared moving costs, types of moving costs, recovery of payment",
+    "obligations": "Client caused or contributed to the need, impact on the client and their family, accommodation is suitable to live in, staying in accommodation for more than 28 days, other financial assistance available to the client, resources available to the client, clients with existing debt, unable to meet essential living expenses",
+    "stand_down": "",
+    "income_test": "Income limit applies",
+    "application_process": ""
+  }
+}

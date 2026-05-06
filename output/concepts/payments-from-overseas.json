@@ -1,0 +1,44 @@
+{
+  "id": "payments-from-overseas",
+  "type": "concept",
+  "archimate_type": "BusinessObject",
+  "name": "Payments from overseas",
+  "description": "A contents/index page covering the topic of payments from overseas, including overseas pensions, reciprocal agreements, exchange rates, couples receiving overseas pensions, interactions with New Zealand Superannuation and Veterans Pension, and related taxation and accommodation supplement considerations.",
+  "source_url": "https://www.workandincome.govt.nz/map/to-or-from-overseas/payments-from-overseas/index.html",
+  "tags": [
+    "overseas",
+    "pensions",
+    "reciprocal-agreements",
+    "exchange-rates",
+    "NZ-superannuation",
+    "veterans-pension",
+    "accommodation-supplement",
+    "taxation"
+  ],
+  "related": {
+    "products": [
+      "new-zealand-superannuation",
+      "veterans-pension",
+      "accommodation-supplement"
+    ],
+    "programmes": [],
+    "policies": [],
+    "processes": [],
+    "actors": [],
+    "concepts": [
+      "payments-from-overseas",
+      "reciprocal-agreements",
+      "accommodation-supplement-tables",
+      "student-exchange-rate-list",
+      "war-pensions-information"
+    ],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Index page for the 'Payments from overseas' topic covering overseas pensions for individuals and dependants, government occupational pensions, accident compensation, war pensions, reciprocal agreements, direct deductions, exchange rates, couples scenarios, extra help, and taxation of overseas benefits and pensions.",
+    "definition": "",
+    "context": "",
+    "examples": ""
+  }
+}

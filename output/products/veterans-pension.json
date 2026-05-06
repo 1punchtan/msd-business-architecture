@@ -1,0 +1,64 @@
+{
+  "id": "veterans-pension",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Veterans Pension",
+  "description": "The Veterans Pension is a main benefit available under the Veterans Support Act 2014 for eligible veterans and their partners, covering qualifications, payment rates, and comprehensive provisions for changes, reviews, absence, obligations, deductions, taxation, and death.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/main-benefits/veterans-pension/index.html",
+  "tags": [
+    "veterans",
+    "pension",
+    "main benefit",
+    "superannuation",
+    "residency",
+    "infirmity",
+    "grandparenting",
+    "absence",
+    "taxation",
+    "debt"
+  ],
+  "related": {
+    "products": [
+      "family-tax-credit",
+      "best-start-tax-credit",
+      "disability-allowance"
+    ],
+    "programmes": [],
+    "policies": [
+      "reciprocal-agreements",
+      "reciprocal-australia",
+      "reciprocal-canada",
+      "reciprocal-denmark",
+      "reciprocal-hellenic-republic",
+      "reciprocal-ireland",
+      "reciprocal-jersey-guernsey",
+      "reciprocal-republic-of-korea",
+      "reciprocal-malta",
+      "reciprocal-netherlands",
+      "reciprocal-united-kingdom",
+      "portability",
+      "general-portability",
+      "special-portability",
+      "student-loan"
+    ],
+    "processes": [],
+    "actors": [],
+    "concepts": [
+      "residence",
+      "income"
+    ],
+    "cards": [
+      "nz-superannuation-and-veterans-pension-tables"
+    ],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "A pension product for eligible veterans and their partners, administered under the Veterans Support Act 2014, with comprehensive rules covering qualifications, payment rates, absence, obligations, and reviews.",
+    "eligibility": "Service, age (generally 65 or with provisions for under 65), ordinarily resident and present in New Zealand, and infirmity (more than 52% or less than 52%).",
+    "payment_details": "Single living alone rate, single sharing accommodation rate, couples rate, and grandparented non-qualified partner rate. Includes grandparented Veterans Pensions and modernisation provisions from 9 November 2020.",
+    "obligations": "Veterans must maintain residency in New Zealand and comply with absence rules, taxation requirements, and debt recovery obligations.",
+    "stand_down": "",
+    "income_test": "Subject to income testing with deductions and taxation provisions applied.",
+    "application_process": ""
+  }
+}

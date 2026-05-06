@@ -1,0 +1,44 @@
+{
+  "id": "covid-19-resurgence-wage-subsidy-scheme",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "COVID-19 Resurgence Wage Subsidy Scheme",
+  "description": "A wage subsidy scheme designed to support employers affected by COVID-19 resurgence events by providing financial assistance to eligible employers who experience a decline in revenue due to COVID-19 resurgence public health restrictions.",
+  "source_url": "https://www.workandincome.govt.nz/map/employment-and-training/specific-employment-related-assistance/covid-19-resurgence-wage-subsidy-scheme/index.html",
+  "tags": [
+    "covid-19",
+    "wage-subsidy",
+    "employment",
+    "resurgence",
+    "employer-support",
+    "revenue-decline",
+    "specific-employment-related-assistance"
+  ],
+  "related": {
+    "products": [
+      "specific-employment-related-assistance",
+      "covid-19-wage-subsidy-modified",
+      "covid-19-wage-subsidy-scheme-august-2021",
+      "covid-19-wage-subsidy-scheme-march-2021",
+      "covid-19-wage-subsidy-scheme-extension",
+      "covid-19-leave-support-scheme",
+      "covid-19-short-term-absence-payment"
+    ],
+    "programmes": [],
+    "policies": [],
+    "processes": [],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "The COVID-19 Resurgence Wage Subsidy Scheme provides financial assistance to eligible employers who experience a decline in revenue due to COVID-19 resurgence public health restrictions, helping them retain staff and meet wage obligations during the subsidy period.",
+    "eligibility": "Employers registered and operating in New Zealand who experience a 40% decline in revenue due to COVID-19 resurgence restrictions. Ineligible entities include State Sector employers (generally), subject to health and disability funded workforce exceptions.",
+    "payment_details": "",
+    "obligations": "Retain affected staff, pay employees normal wages or salary, follow employment law when paying wages, and repay unused funds after subsidy period. Special employment situations covered include people working multiple jobs, self-employed persons who are also employees, people on fixed-term contracts, seasonal workers, newly hired employees, employees temporarily overseas due to COVID-19 restrictions, people getting weekly ACC compensation, people getting paid parental leave, and people getting income from a property business.",
+    "stand_down": "",
+    "income_test": "",
+    "application_process": ""
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "flexi-wage-subsidy",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Flexi-wage Subsidy",
+  "description": "An employment assistance product that provides wage subsidies to employers to support clients facing barriers to employment, with payment structured across bands based on disadvantage level and risk.",
+  "source_url": "https://www.workandincome.govt.nz/map/employment-and-training/specific-employment-related-assistance/flexi-wage-subsidy/index.html",
+  "tags": [
+    "employment",
+    "subsidy",
+    "wage-subsidy",
+    "labour-market",
+    "disadvantaged",
+    "long-term-benefit",
+    "employer",
+    "training"
+  ],
+  "related": {
+    "products": [
+      "specific-employment-related-assistance",
+      "employment-and-work-readiness-assistance",
+      "employment-transition-assistance"
+    ],
+    "programmes": [
+      "flexi-wage-employment-assistance-programme"
+    ],
+    "policies": [],
+    "processes": [],
+    "actors": [],
+    "concepts": [
+      "residence",
+      "mana-in-mahi"
+    ],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "A wage subsidy product for clients facing barriers to employment, structured across payment bands with criteria covering client disadvantage, job eligibility, and employer solvency, including extra training and in-work support assistance.",
+    "eligibility": "Client eligibility: disadvantaged in labour market, significant barriers to employment, low job security or underemployed, displaced due to economic downturn, at risk of long-term benefit receipt, specific employment needs, 65 years or over. Job eligibility: entry level requirements of a job. Employer eligibility: solvency, not inappropriate businesses.",
+    "payment_details": "Payment structured across three bands (Band 1, Band 2, Band 3) based on client's level of disadvantage and risk.",
+    "obligations": "",
+    "stand_down": "",
+    "income_test": "",
+    "application_process": ""
+  }
+}

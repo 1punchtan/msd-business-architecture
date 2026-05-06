@@ -1,0 +1,40 @@
+{
+  "id": "child-support",
+  "type": "policy",
+  "archimate_type": "Constraint",
+  "name": "Child Support",
+  "description": "Policy governing Child Support arrangements for clients of Work and Income, covering carers receiving child support, liable parents, formula assessments, exemptions from applying, private and voluntary arrangements, and special circumstances such as risk of violence, deceased liable parents, or conception through incest or sexual violation.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/core-policy/child-support/index.html",
+  "tags": [
+    "child support",
+    "carer",
+    "liable parent",
+    "benefit deduction",
+    "formula assessment",
+    "private arrangement",
+    "voluntary agreement",
+    "income support",
+    "core policy"
+  ],
+  "related": {
+    "products": [],
+    "programmes": [],
+    "policies": [
+      "child-support-income",
+      "income",
+      "types-of-income"
+    ],
+    "processes": [],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Child Support policy covering the obligations and processes for carers and liable parents, including formula assessments, exemptions, private arrangements, and special circumstances.",
+    "rules": "",
+    "exceptions": "",
+    "scope": "",
+    "effective_date": ""
+  }
+}

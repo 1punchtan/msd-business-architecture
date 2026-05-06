@@ -1,0 +1,46 @@
+{
+  "id": "relocate-for-work-support",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Relocate for Work Support",
+  "description": "Relocate for Work Support provides financial assistance to help eligible clients relocate for work, covering travel and moving expenses subject to eligibility criteria and conditions of grant.",
+  "source_url": "https://www.workandincome.govt.nz/map/employment-and-training/specific-employment-related-assistance/relocate-for-work-support/index.html",
+  "tags": [
+    "employment",
+    "relocation",
+    "grant",
+    "work-readiness",
+    "benefit",
+    "specific-employment-related-assistance"
+  ],
+  "related": {
+    "products": [
+      "specific-employment-related-assistance",
+      "employment-and-work-readiness-assistance",
+      "jobseeker-support",
+      "sole-parent-support",
+      "supported-living-payment",
+      "student-allowance"
+    ],
+    "programmes": [
+      "relocate-for-work-support-programme"
+    ],
+    "policies": [
+      "relocate-for-work-support-tables"
+    ],
+    "processes": [],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "A grant to assist eligible clients with relocation costs when taking up employment that is not available locally, including travel and moving expenses, subject to eligibility and conditions.",
+    "eligibility": "Receiving a main benefit or at risk of long-term benefit receipt; meeting job offer criteria including hours of employment requirements; demonstrating it is not viable to commute; being unable to get a suitable and sustainable job locally; having adequate accommodation; must cancel main benefit.",
+    "payment_details": "Covers travel costs, moving possessions, with amounts varying based on number of people relocating and chosen method of travel.",
+    "obligations": "Support must be used for the reason it was paid; must move within 28 calendar days; must not get a main benefit or Student Allowance after receiving grant; main benefit must remain cancelled.",
+    "stand_down": "",
+    "income_test": "",
+    "application_process": ""
+  }
+}

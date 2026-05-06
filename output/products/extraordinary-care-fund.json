@@ -1,0 +1,40 @@
+{
+  "id": "extraordinary-care-fund",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Extraordinary Care Fund",
+  "description": "A financial assistance fund providing extraordinary care support within the Orphans Benefit and Unsupported Child's Benefit suite, covering eligibility qualifications, applications, payment, and reconsideration of decisions.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/extra-help/orphans-benefit-and-unsupported-childs-benefit-products/extraordinary-care-fund/index.html",
+  "tags": [
+    "extra-help",
+    "orphans-benefit",
+    "unsupported-childs-benefit",
+    "extraordinary-care",
+    "financial-assistance"
+  ],
+  "related": {
+    "products": [
+      "orphans-benefit-and-unsupported-childs-benefit-products"
+    ],
+    "programmes": [
+      "orphans-and-ucb-additional-assistance-programme"
+    ],
+    "policies": [],
+    "processes": [],
+    "actors": [],
+    "concepts": [
+      "orphans-benefit-and-unsupported-childs-benefit"
+    ],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "A financial assistance fund providing extraordinary care support, with defined eligibility criteria, application process, payment arrangements, and a reconsideration mechanism for decisions.",
+    "eligibility": "",
+    "payment_details": "",
+    "obligations": "",
+    "stand_down": "",
+    "income_test": "",
+    "application_process": ""
+  }
+}

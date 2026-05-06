@@ -1,0 +1,44 @@
+{
+  "id": "covid-19-leave-support-scheme",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "COVID-19 Leave Support Scheme",
+  "description": "A wage subsidy scheme providing financial support to businesses for employees unable to work due to COVID-19 self-isolation requirements or related health circumstances.",
+  "source_url": "https://www.workandincome.govt.nz/map/employment-and-training/specific-employment-related-assistance/covid-19-leave-support-scheme/index.html",
+  "tags": [
+    "covid-19",
+    "leave-support",
+    "wage-subsidy",
+    "employment",
+    "self-isolation",
+    "business-assistance"
+  ],
+  "related": {
+    "products": [
+      "specific-employment-related-assistance",
+      "employment-and-work-readiness-assistance",
+      "covid-19-wage-subsidy-modified",
+      "covid-19-wage-subsidy-scheme-august-2021",
+      "covid-19-wage-subsidy-scheme-march-2021",
+      "covid-19-wage-subsidy-scheme-extension",
+      "covid-19-resurgence-wage-subsidy-scheme",
+      "covid-19-short-term-absence-payment"
+    ],
+    "programmes": [],
+    "policies": [],
+    "processes": [],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "A wage subsidy scheme providing financial support to businesses for employees unable to work due to COVID-19 self-isolation requirements or related health circumstances.",
+    "eligibility": "Businesses with employees unable to work due to COVID-19 self-isolation requirements or related health circumstances. Eligible groups include employees required to self-isolate, employees with dependants needing support, employees at higher risk from COVID-19, self-employed persons, employees on fixed-term, casual, and seasonal contracts, and newly hired employees. Exclusions: state sector organisations generally not eligible, businesses not registered and operating in New Zealand, and employees not legally working in New Zealand.",
+    "payment_details": "Amount business must pay employee based on ordinary wages or salary relative to subsidy rate.",
+    "obligations": "Retain employees named in application, follow employment law when paying wages or salary, and repay unused funds after payment period.",
+    "stand_down": "",
+    "income_test": "",
+    "application_process": "Applications are submitted by businesses on behalf of eligible employees."
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "residential-care-subsidy",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Residential Care Subsidy",
+  "description": "A subsidy to help eligible people meet the costs of residential (rest home) care, assessed through financial means testing of assets and income, with rules covering gifting, trusts, deprivation, partner situations, and ongoing review processes.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/extra-help/residential-care-subsidy/index.html",
+  "tags": [
+    "residential care",
+    "financial means assessment",
+    "assets",
+    "income",
+    "gifting",
+    "trusts",
+    "subsidy",
+    "extra help",
+    "rest home",
+    "elderly"
+  ],
+  "related": {
+    "products": [
+      "residential-care-subsidy-tables",
+      "special-disability-allowance",
+      "clothing-allowance",
+      "advance-payment-of-benefit",
+      "disability-allowance",
+      "residential-care-loan",
+      "accommodation-supplement"
+    ],
+    "programmes": [],
+    "policies": [],
+    "processes": [
+      "reviews-and-appeals"
+    ],
+    "actors": [],
+    "concepts": [
+      "income",
+      "definition-of-income",
+      "types-of-income"
+    ],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "A subsidy to help eligible people meet the costs of residential (rest home) care, assessed through financial means testing of assets and income, with rules covering gifting, trusts, deprivation, partner situations, and ongoing review processes.",
+    "eligibility": "",
+    "payment_details": "",
+    "obligations": "",
+    "stand_down": "",
+    "income_test": "",
+    "application_process": ""
+  }
+}

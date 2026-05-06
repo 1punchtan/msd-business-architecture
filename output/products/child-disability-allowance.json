@@ -1,0 +1,50 @@
+{
+  "id": "child-disability-allowance",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Child Disability Allowance",
+  "description": "Child Disability Allowance is a payment for caregivers of children with serious disabilities requiring constant care and attention.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/extra-help/child-disability-allowance/index.html",
+  "tags": [
+    "disability",
+    "child",
+    "allowance",
+    "caregiver",
+    "extra-help",
+    "income-support",
+    "medical",
+    "residence"
+  ],
+  "related": {
+    "products": [
+      "child-disability-allowance-tables",
+      "disability-allowance",
+      "special-disability-allowance",
+      "sole-parent-support",
+      "young-parent-payment",
+      "orphans-benefit-and-unsupported-childs-benefit"
+    ],
+    "programmes": [],
+    "policies": [],
+    "processes": [
+      "application-for-assistance",
+      "duty-to-advise-of-changes-in-circumstances",
+      "reviews-and-appeals"
+    ],
+    "actors": [],
+    "concepts": [
+      "residence"
+    ],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "A financial allowance paid to the principal caregiver of a dependent child with a serious disability who requires constant care and attention, subject to residency, medical, and living arrangement criteria.",
+    "eligibility": "Must be principal caregiver of a dependent child with a serious disability requiring constant care and attention; residency and immigration status requirements apply; not payable when child is in care of Oranga Tamariki",
+    "payment_details": "Allowance payment type; qualifications include residency, immigration status, medical grounds, and living arrangements",
+    "obligations": "Duty to advise of changes in circumstances; subject to annual review and event-based reviews; provisions for absence from New Zealand and hospitalisation",
+    "stand_down": "",
+    "income_test": "",
+    "application_process": ""
+  }
+}

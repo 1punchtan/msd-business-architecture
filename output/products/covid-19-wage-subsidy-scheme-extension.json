@@ -1,0 +1,44 @@
+{
+  "id": "covid-19-wage-subsidy-scheme-extension",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "COVID-19 Wage Subsidy Scheme Extension",
+  "description": "A wage subsidy scheme extending COVID-19 employment support to eligible New Zealand employers and self-employed individuals who experienced a 40% revenue decline, with obligations to retain staff and pay employees.",
+  "source_url": "https://www.workandincome.govt.nz/map/employment-and-training/specific-employment-related-assistance/covid-19-wage-subsidy-scheme-extension/index.html",
+  "tags": [
+    "COVID-19",
+    "wage subsidy",
+    "employment assistance",
+    "employer support",
+    "revenue decline",
+    "pandemic response"
+  ],
+  "related": {
+    "products": [
+      "specific-employment-related-assistance",
+      "employment-and-work-readiness-assistance",
+      "covid-19-wage-subsidy-modified",
+      "covid-19-wage-subsidy-scheme-august-2021",
+      "covid-19-wage-subsidy-scheme-march-2021",
+      "covid-19-resurgence-wage-subsidy-scheme",
+      "covid-19-leave-support-scheme",
+      "covid-19-short-term-absence-payment"
+    ],
+    "programmes": [],
+    "policies": [],
+    "processes": [],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "A wage subsidy scheme extending COVID-19 employment support to eligible New Zealand employers and self-employed individuals who experienced a 40% revenue decline, with obligations to retain staff and pay employees.",
+    "eligibility": "Registered and operating business in New Zealand with a 40% decline in revenue. Employees must be legally entitled to work in New Zealand. State Sector employers generally not eligible, though health and disability funded workforce may be eligible. Special considerations apply for multiple job holders, self-employed persons who are also employees, fixed-term contract workers, seasonal workers, newly hired employees, employees temporarily overseas due to COVID-19 restrictions, those receiving ACC compensation, those on paid parental leave, and those with property business income.",
+    "payment_details": "",
+    "obligations": "Employers must retain affected staff, pay employees normal wages or salary, follow employment law when paying wages, and repay unused funds after the subsidy period.",
+    "stand_down": "",
+    "income_test": "",
+    "application_process": ""
+  }
+}

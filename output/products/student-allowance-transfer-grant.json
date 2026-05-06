@@ -1,0 +1,44 @@
+{
+  "id": "student-allowance-transfer-grant",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Student Allowance Transfer Grant",
+  "description": "A grant providing financial assistance for students transitioning off student allowance, with eligibility based on income, assets, and hardship criteria.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/extra-help/student-allowance-transfer-grant/index.html",
+  "tags": [
+    "student",
+    "grant",
+    "transfer",
+    "extra-help",
+    "income-support",
+    "hardship"
+  ],
+  "related": {
+    "products": [
+      "special-needs-grant"
+    ],
+    "programmes": [
+      "student-allowance-transfer-grant-programme"
+    ],
+    "policies": [],
+    "processes": [],
+    "actors": [],
+    "concepts": [
+      "student-allowance",
+      "temporary-additional-support"
+    ],
+    "cards": [
+      "student-allowance-transfer-grant-tables"
+    ],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "A grant providing financial assistance for students transitioning off student allowance, with eligibility based on income, assets, and hardship criteria.",
+    "eligibility": "",
+    "payment_details": "",
+    "obligations": "",
+    "stand_down": "",
+    "income_test": "",
+    "application_process": ""
+  }
+}

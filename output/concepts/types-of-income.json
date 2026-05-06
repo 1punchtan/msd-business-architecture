@@ -1,0 +1,53 @@
+{
+  "id": "types-of-income",
+  "type": "concept",
+  "archimate_type": "BusinessObject",
+  "name": "Types of income",
+  "description": "A comprehensive reference guide covering the full range of income types recognised under MSD social development policy.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/core-policy/income/types-of-income/index.html",
+  "tags": [
+    "income",
+    "ACC",
+    "employment income",
+    "self-employment",
+    "child support",
+    "superannuation",
+    "KiwiSaver",
+    "compensation",
+    "rental income",
+    "insurance",
+    "student loans",
+    "eligibility"
+  ],
+  "related": {
+    "products": [
+      "accommodation-supplement",
+      "child-disability-allowance",
+      "disability-allowance",
+      "temporary-additional-support",
+      "special-benefit",
+      "residential-care-subsidy",
+      "cost-of-living-payment"
+    ],
+    "programmes": [
+      "licensed-home-based-education-and-care-services"
+    ],
+    "policies": [],
+    "processes": [],
+    "actors": [],
+    "concepts": [
+      "income",
+      "definition-of-income",
+      "employment-related-income",
+      "child-support-income"
+    ],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Policy reference content defining and classifying types of income relevant to benefit eligibility assessments, including detailed guidance on ACC, employment income, self-employment, compensation payments, insurance, loans, rental income, and superannuation.",
+    "definition": "",
+    "context": "",
+    "examples": ""
+  }
+}

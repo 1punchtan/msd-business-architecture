@@ -1,0 +1,45 @@
+{
+  "id": "holiday-allowance-and-birthday-allowance",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Holiday Allowance and Birthday Allowance",
+  "description": "Additional allowances (Holiday and Birthday) provided to eligible caregivers under the Orphans Benefit and Unsupported Child's Benefit products, covering entitlement conditions, payment rules, rates, and review processes.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/extra-help/orphans-benefit-and-unsupported-childs-benefit-products/holiday-allowance-and-birthday-allowance/index.html",
+  "tags": [
+    "orphans-benefit",
+    "unsupported-childs-benefit",
+    "holiday-allowance",
+    "birthday-allowance",
+    "extra-help",
+    "caregiver",
+    "income-support"
+  ],
+  "related": {
+    "products": [
+      "orphans-benefit-and-unsupported-childs-benefit-products"
+    ],
+    "programmes": [
+      "orphans-and-ucb-additional-assistance-programme"
+    ],
+    "policies": [
+      "reciprocal-agreements"
+    ],
+    "processes": [],
+    "actors": [],
+    "concepts": [
+      "orphans-benefit-and-unsupported-childs-benefit",
+      "orphans-benefit-and-unsupported-childs-benefit-tables"
+    ],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Additional allowances (Holiday and Birthday) provided to eligible caregivers under the Orphans Benefit and Unsupported Child's Benefit products, covering entitlement conditions, payment rules, rates, and review processes.",
+    "eligibility": "",
+    "payment_details": "",
+    "obligations": "",
+    "stand_down": "",
+    "income_test": "",
+    "application_process": ""
+  }
+}

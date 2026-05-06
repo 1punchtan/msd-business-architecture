@@ -1,0 +1,44 @@
+{
+  "id": "reciprocal-canada",
+  "type": "policy",
+  "archimate_type": "Constraint",
+  "name": "Reciprocal Canada",
+  "description": "The Social Security Agreement between New Zealand and Canada governs the reciprocal entitlements and obligations for clients moving between or residing in either country.",
+  "source_url": "https://www.workandincome.govt.nz/map/to-or-from-overseas/reciprocal-agreements/reciprocal-canada/index.html",
+  "tags": [
+    "reciprocal agreement",
+    "Canada",
+    "overseas",
+    "portability",
+    "social security",
+    "pensions",
+    "benefits"
+  ],
+  "related": {
+    "products": [
+      "sole-parent-support",
+      "supported-living-payment",
+      "new-zealand-superannuation",
+      "veterans-pension"
+    ],
+    "programmes": [],
+    "policies": [
+      "reciprocal-agreements",
+      "portability"
+    ],
+    "processes": [
+      "reviews-and-appeals"
+    ],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Reciprocal agreement between New Zealand and Canada governing cross-border social security entitlements, including NZ benefits payable in Canada, Canadian pensions in NZ, and associated administrative processes.",
+    "rules": "",
+    "exceptions": "",
+    "scope": "",
+    "effective_date": ""
+  }
+}

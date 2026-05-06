@@ -1,0 +1,41 @@
+{
+  "id": "house-modification-funding",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "House Modification Funding",
+  "description": "House Modification Funding is an extra help product providing financial assistance for home modifications, subject to income and asset testing with defined qualification criteria and review processes.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/extra-help/house-modification-funding/index.html",
+  "tags": [
+    "extra-help",
+    "house-modification",
+    "income-test",
+    "asset-test",
+    "disability",
+    "housing"
+  ],
+  "related": {
+    "products": [
+      "extra-help-information"
+    ],
+    "programmes": [],
+    "policies": [],
+    "processes": [
+      "reviews-and-appeals"
+    ],
+    "actors": [],
+    "concepts": [
+      "income"
+    ],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Financial assistance product for house modifications, subject to income and asset testing with defined qualification criteria and review processes.",
+    "eligibility": "",
+    "payment_details": "",
+    "obligations": "",
+    "stand_down": "",
+    "income_test": "",
+    "application_process": ""
+  }
+}

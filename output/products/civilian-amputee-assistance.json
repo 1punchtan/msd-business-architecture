@@ -1,0 +1,36 @@
+{
+  "id": "civilian-amputee-assistance",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Civilian Amputee Assistance",
+  "description": "Civilian Amputee Assistance is an extra help product that provides financial support to civilian amputees, covering costs related to limb centre appointments including travel expenses, accommodation costs, meals, loss of earnings, and attendant costs.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/extra-help/civilian-amputee-assistance/index.html",
+  "tags": [
+    "extra-help",
+    "disability",
+    "amputee",
+    "financial-assistance",
+    "limb-centre"
+  ],
+  "related": {
+    "products": [
+      "extra-help-information"
+    ],
+    "programmes": [],
+    "policies": [],
+    "processes": [],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Financial assistance for civilian amputees covering limb centre-related costs including travel, accommodation, meals, loss of earnings, and attendant support.",
+    "eligibility": "",
+    "payment_details": "",
+    "obligations": "",
+    "stand_down": "",
+    "income_test": "",
+    "application_process": ""
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "covid-19-wage-subsidy-scheme-august-2021",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "COVID-19 Wage Subsidy Scheme (August 2021)",
+  "description": "A wage subsidy scheme providing financial support to eligible businesses affected by the August 2021 COVID-19 alert level escalation.",
+  "source_url": "https://www.workandincome.govt.nz/map/employment-and-training/specific-employment-related-assistance/covid-19-wage-subsidy-scheme-august-2021/index.html",
+  "tags": [
+    "covid-19",
+    "wage-subsidy",
+    "employment",
+    "business-support",
+    "revenue-decline",
+    "august-2021"
+  ],
+  "related": {
+    "products": [
+      "specific-employment-related-assistance",
+      "employment-and-work-readiness-assistance",
+      "covid-19-wage-subsidy-modified",
+      "covid-19-wage-subsidy-scheme-march-2021",
+      "covid-19-wage-subsidy-scheme-extension",
+      "covid-19-resurgence-wage-subsidy-scheme",
+      "covid-19-leave-support-scheme",
+      "covid-19-short-term-absence-payment"
+    ],
+    "programmes": [],
+    "policies": [],
+    "processes": [],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "The COVID-19 Wage Subsidy Scheme (August 2021) supports businesses impacted by the August 2021 COVID-19 alert level escalation by subsidising employee wages. Eligibility requires businesses to be registered and operating in New Zealand, demonstrate a 40% revenue decline attributable to the alert level escalation, and commit to retaining named employees during the subsidy period.",
+    "eligibility": "Business must be registered and operating in New Zealand. Workers must be legally working in New Zealand. Business must demonstrate a 40% decline in revenue attributable to the current escalation in Alert Levels. Business must retain employees named in the application. State Sector organisations generally not eligible, except health and disability funded workforce.",
+    "payment_details": "Business must pay employees ordinary wages or salary. Payment obligations follow employment law requirements.",
+    "obligations": "Business must pay employees ordinary wages or salary. Business must follow employment law when paying wages. Business must retain named employees during the subsidy period.",
+    "stand_down": "",
+    "income_test": "40% decline in revenue attributable to current escalation in Alert Levels. Comparison periods include default comparison period and seasonal comparison period. Test applies to commonly owned groups.",
+    "application_process": ""
+  }
+}

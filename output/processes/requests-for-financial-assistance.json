@@ -1,0 +1,38 @@
+{
+  "id": "requests-for-financial-assistance",
+  "type": "process",
+  "archimate_type": "BusinessProcess",
+  "name": "Requests for financial assistance",
+  "description": "Process for handling client requests for financial assistance, including determining whether the request relates to a benefit or other assistance, and the obligations of both the Ministry and the client.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/core-policy/requests-for-financial-assistance/index.html",
+  "tags": [
+    "financial assistance",
+    "application",
+    "benefit",
+    "core policy",
+    "income support"
+  ],
+  "related": {
+    "products": [],
+    "programmes": [],
+    "policies": [],
+    "processes": [
+      "application-for-assistance",
+      "application-for-benefit"
+    ],
+    "actors": [],
+    "concepts": [
+      "definition-of-income"
+    ],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Process for handling client requests for financial assistance, including determining whether the request relates to a benefit or other assistance, and the obligations of both the Ministry and the client.",
+    "steps": [],
+    "triggers": "",
+    "inputs": "",
+    "outputs": "",
+    "decision_points": "Handling depends on whether assistance is included in the definition of a benefit"
+  }
+}

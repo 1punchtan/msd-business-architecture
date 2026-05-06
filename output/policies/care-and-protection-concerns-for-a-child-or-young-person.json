@@ -1,0 +1,36 @@
+{
+  "id": "care-and-protection-concerns-for-a-child-or-young-person",
+  "type": "policy",
+  "archimate_type": "Constraint",
+  "name": "Care and protection concerns for a child or young person",
+  "description": "Guidance on when MSD must refer cases to Oranga Tamariki due to care and protection concerns for a child or young person, including indicators of risk such as age, stability of care, conflict, abuse, and caregiver capacity.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/core-policy/care-and-protection/care-and-protection-concerns-for-a-child-or-young-person.html",
+  "tags": [
+    "care and protection",
+    "child welfare",
+    "Oranga Tamariki",
+    "referral",
+    "child safety",
+    "sole caregiver",
+    "unborn child",
+    "abuse",
+    "neglect"
+  ],
+  "related": {
+    "products": [],
+    "programmes": [],
+    "policies": [],
+    "processes": [],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "If MSD believes any child has been or is likely to be harmed, ill-treated, abused, neglected, or deprived, the case must be referred to Oranga Tamariki. This policy outlines specific indicators that may signal a care and protection concern, including situations where a sole caregiver is imprisoned, concerns about unborn children, instability of care arrangements, conflict between caregivers, hints of abuse, a child's reluctance to go to a caregiver, special needs of the child, and overburdened caregivers.",
+    "rules": "Child has been or is likely to be harmed (physically, emotionally or sexually); Child has been ill-treated, abused, neglected, or deprived; Concerns about the wellbeing of the child; Sole caregiver remanded in custody or sentenced to imprisonment; Risk indicators include age of the child, unborn baby, stability and continuity of care, conflict between caregivers or parents, concern of abuse, child reluctance to go to parent or caregiver, specific needs of child, caregiver overburdened, and uncertain arrangements.",
+    "exceptions": "",
+    "scope": "MSD referrals to Oranga Tamariki for care and protection concerns involving children and young persons.",
+    "effective_date": ""
+  }
+}

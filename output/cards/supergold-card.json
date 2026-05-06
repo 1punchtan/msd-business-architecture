@@ -1,0 +1,37 @@
+{
+  "id": "supergold-card",
+  "type": "card",
+  "archimate_type": "BusinessService",
+  "name": "SuperGold Card",
+  "description": "The SuperGold Card is a card service providing concessions and assistance to eligible New Zealand Superannuation clients, Veterans Pension clients, and main benefit clients.",
+  "source_url": "https://www.workandincome.govt.nz/map/card-services/supergold-card/index.html",
+  "tags": [
+    "card",
+    "concessions",
+    "superannuation",
+    "veterans",
+    "benefits",
+    "eligibility"
+  ],
+  "related": {
+    "products": [
+      "new-zealand-superannuation",
+      "veterans-pension"
+    ],
+    "programmes": [],
+    "policies": [],
+    "processes": [
+      "reviews-and-appeals"
+    ],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Card service providing concessions and benefits to eligible NZ Superannuation, Veterans Pension, and main benefit clients, with rules around qualification, residence, obligations, and card management.",
+    "eligibility": "",
+    "benefits": "",
+    "application_process": ""
+  }
+}

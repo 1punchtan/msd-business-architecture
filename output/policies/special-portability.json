@@ -1,0 +1,41 @@
+{
+  "id": "special-portability",
+  "type": "policy",
+  "archimate_type": "Constraint",
+  "name": "Special Portability",
+  "description": "Policy governing special portability arrangements for NZ Superannuation and Veterans Pension recipients in specified Pacific countries, including eligibility, application, obligations, and payment rules.",
+  "source_url": "https://www.workandincome.govt.nz/map/to-or-from-overseas/portability/special-portability/index.html",
+  "tags": [
+    "portability",
+    "special portability",
+    "New Zealand Superannuation",
+    "Veterans Pension",
+    "overseas",
+    "Pacific",
+    "pension"
+  ],
+  "related": {
+    "products": [
+      "new-zealand-superannuation",
+      "veterans-pension"
+    ],
+    "programmes": [],
+    "policies": [
+      "portability",
+      "general-portability",
+      "reciprocal-agreements"
+    ],
+    "processes": [],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Policy governing special portability arrangements for NZ Superannuation and Veterans Pension recipients in specified Pacific countries, including eligibility, application, obligations, and payment rules.",
+    "rules": "",
+    "exceptions": "",
+    "scope": "",
+    "effective_date": ""
+  }
+}

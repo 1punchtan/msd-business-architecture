@@ -1,0 +1,43 @@
+{
+  "id": "pre-benefit-requirements",
+  "type": "policy",
+  "archimate_type": "Constraint",
+  "name": "Pre-benefit requirements",
+  "description": "Policy governing the pre-benefit requirements that clients and partners must satisfy prior to benefit grant, including activities, job interview and offer requirements, Jobseeker Profile completion, and associated timeframes and review rights.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/core-policy/pre-benefit-requirements/index.html",
+  "tags": [
+    "pre-benefit",
+    "eligibility",
+    "jobseeker",
+    "pre-benefit activity",
+    "job interview",
+    "job offer",
+    "Jobseeker Profile",
+    "benefit grant",
+    "partner requirements",
+    "review of decision"
+  ],
+  "related": {
+    "products": [],
+    "programmes": [],
+    "policies": [
+      "jobseeker-support",
+      "assessment-of-eligibility",
+      "reviews-and-appeals"
+    ],
+    "processes": [
+      "application-for-benefit"
+    ],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Policy governing the pre-benefit requirements that clients and partners must satisfy prior to benefit grant, including activities, job interview and offer requirements, Jobseeker Profile completion, and associated timeframes and review rights.",
+    "rules": "",
+    "exceptions": "",
+    "scope": "",
+    "effective_date": ""
+  }
+}

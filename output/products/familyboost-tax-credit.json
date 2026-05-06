@@ -1,0 +1,64 @@
+{
+  "id": "familyboost-tax-credit",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "FamilyBoost Tax Credit",
+  "description": "An Inland Revenue tax credit assisting eligible parents and caregivers with remaining early childhood education costs after 20 hours of free ECE and MSD childcare assistance deductions.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/core-policy/familyboost-tax-credit/familyboost-tax-credit.html",
+  "tags": [
+    "tax credit",
+    "early childhood education",
+    "childcare",
+    "Inland Revenue",
+    "income exemption",
+    "hardship assistance",
+    "ECE"
+  ],
+  "related": {
+    "products": [
+      "childcare-assistance-programme",
+      "early-learning-payment",
+      "guaranteed-childcare-assistance-payment",
+      "accommodation-supplement",
+      "advance-payment-of-benefit",
+      "disability-allowance",
+      "flexible-funding-assistance",
+      "funeral-grant",
+      "home-help",
+      "housing-support-products",
+      "income-related-rent",
+      "recoverable-assistance-payment",
+      "residential-care-subsidy",
+      "special-benefit",
+      "special-needs-grant",
+      "student-allowance",
+      "student-allowance-transfer-grant",
+      "temporary-additional-support",
+      "new-zealand-superannuation",
+      "veterans-pension"
+    ],
+    "programmes": [
+      "training-incentive-allowance",
+      "community-costs",
+      "employment-and-work-readiness-assistance",
+      "new-employment-transition-grant",
+      "seasonal-work-assistance",
+      "social-rehabilitation-assistance"
+    ],
+    "policies": [],
+    "processes": [],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "An Inland Revenue tax credit assisting eligible parents and caregivers with remaining early childhood education costs, with income and asset exemption rules for MSD assistance purposes.",
+    "eligibility": "Eligible parents or caregivers after 20 hours of free ECE and MSD childcare assistance deductions.",
+    "payment_details": "Up to $120 per week per eligible household paid as a lump sum for a three-month period. Covers up to 40 per cent of remaining childcare costs after 20 hours ECE and MSD childcare assistance deductions.",
+    "obligations": "Clients must use own resources before seeking hardship assistance. FamilyBoost payment is exempt from income and asset consideration for 12 months from the date of each payment for MSD assistance purposes.",
+    "stand_down": "",
+    "income_test": "FamilyBoost payment is not chargeable income or a cash asset for listed MSD assistance types for 12 months from the date of each payment.",
+    "application_process": "Parents or caregivers submit invoices for the previous three months of remaining ECE costs to Inland Revenue. Inland Revenue pays a lump sum for the FamilyBoost Tax Credit for the three-month period."
+  }
+}

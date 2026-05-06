@@ -1,0 +1,56 @@
+{
+  "id": "disability-allowance",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Disability Allowance",
+  "description": "The Disability Allowance is a financial assistance product that provides support to eligible individuals to help cover the additional costs associated with disability.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/extra-help/disability-allowance/index.html",
+  "tags": [
+    "disability",
+    "allowance",
+    "extra-help",
+    "income-support",
+    "financial-assistance",
+    "ongoing-costs",
+    "non-beneficiary",
+    "beneficiary"
+  ],
+  "related": {
+    "products": [
+      "special-disability-allowance",
+      "child-disability-allowance",
+      "new-zealand-superannuation",
+      "veterans-pension",
+      "student-allowance",
+      "student-loan",
+      "supported-living-payment"
+    ],
+    "programmes": [
+      "disability-allowance-rates-19",
+      "telephone-costs-payment-programme"
+    ],
+    "policies": [
+      "disability-allowance-direction",
+      "disability-allowance-tables"
+    ],
+    "processes": [
+      "reviews-and-appeals"
+    ],
+    "actors": [],
+    "concepts": [
+      "residence",
+      "income"
+    ],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "A financial assistance product providing ongoing support to help meet the additional costs arising from disability, available to eligible beneficiaries and non-beneficiaries subject to income and residence criteria.",
+    "eligibility": "",
+    "payment_details": "",
+    "obligations": "",
+    "stand_down": "",
+    "income_test": "Subject to income testing",
+    "application_process": ""
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "use-of-social-housing-benefit-and-student-information",
+  "type": "policy",
+  "archimate_type": "Constraint",
+  "name": "Use of social housing benefit and student information",
+  "description": "Policy governing the use and sharing of social housing, benefit, and student information across MSD functions, including what benefit or student information can be used for housing purposes, what housing information can be used for benefit or student purposes, and how to deal with conflicting information.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/core-policy/use-of-social-housing-benefit-and-student-information/index.html",
+  "tags": [
+    "information sharing",
+    "social housing",
+    "benefit",
+    "student",
+    "core policy",
+    "income support"
+  ],
+  "related": {
+    "products": [
+      "income-related-rent",
+      "income-related-rent-subsidy",
+      "student-allowance",
+      "student-loan"
+    ],
+    "programmes": [],
+    "policies": [],
+    "processes": [
+      "assessment-of-eligibility"
+    ],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Defines the rules and boundaries for cross-use of social housing, benefit, and student information within MSD, including examples and guidance on conflicting information.",
+    "rules": "",
+    "exceptions": "",
+    "scope": "",
+    "effective_date": ""
+  }
+}

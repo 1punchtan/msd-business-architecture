@@ -1,0 +1,57 @@
+{
+  "id": "income-related-rent",
+  "type": "social_housing",
+  "archimate_type": "BusinessService",
+  "name": "Income Related Rent",
+  "description": "Income Related Rent (IRR) is a social housing service that calculates and manages rent charged to eligible tenants based on their income rather than market rates.",
+  "source_url": "https://www.workandincome.govt.nz/map/social-housing/income-related-rent/index.html",
+  "tags": [
+    "social housing",
+    "income related rent",
+    "rent calculation",
+    "assessable income",
+    "housing provider",
+    "tenancy",
+    "annual review",
+    "backdating",
+    "refunds",
+    "appeals"
+  ],
+  "related": {
+    "products": [
+      "accommodation-supplement",
+      "jobseeker-support",
+      "supported-living-payment",
+      "new-zealand-superannuation",
+      "veterans-pension",
+      "family-tax-credit",
+      "orphans-benefit-and-unsupported-childs-benefit"
+    ],
+    "programmes": [],
+    "policies": [
+      "child-support"
+    ],
+    "processes": [
+      "reviews-and-appeals",
+      "assessment-of-eligibility",
+      "duty-to-advise-of-changes-in-circumstances"
+    ],
+    "actors": [],
+    "concepts": [
+      "types-of-income"
+    ],
+    "cards": [],
+    "social_housing": [
+      "income-related-rent-subsidy",
+      "income-related-rent-debt",
+      "tenancy-reviews"
+    ]
+  },
+  "attributes": {
+    "summary": "A social housing service determining rent levels for eligible tenants based on assessable income, including rules for calculating rates, reviewing changes in circumstances, backdating, refunds, and appeals.",
+    "eligibility": "",
+    "assessment_criteria": "",
+    "obligations": "",
+    "application_process": ""
+  }
+}

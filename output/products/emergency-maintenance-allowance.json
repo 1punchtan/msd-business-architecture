@@ -1,0 +1,66 @@
+{
+  "id": "emergency-maintenance-allowance",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Emergency Maintenance Allowance",
+  "description": "A main benefit providing financial assistance to eligible sole parents and caregivers with detailed rules around qualifications, social obligations, payment, conditions, and mandatory reviews.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/main-benefits/emergency-maintenance-allowance/index.html",
+  "tags": [
+    "main-benefit",
+    "sole-parent",
+    "income-support",
+    "emergency",
+    "maintenance",
+    "allowance",
+    "social-obligations",
+    "sanctions",
+    "mandatory-review"
+  ],
+  "related": {
+    "products": [
+      "sole-parent-support",
+      "young-parent-payment",
+      "youth-payment",
+      "jobseeker-support",
+      "emergency-benefit",
+      "orphans-benefit-and-unsupported-childs-benefit",
+      "supported-living-payment",
+      "child-disability-allowance",
+      "accommodation-supplement",
+      "special-needs-grant",
+      "temporary-additional-support",
+      "advance-payment-of-benefit",
+      "student-allowance",
+      "student-loan"
+    ],
+    "programmes": [],
+    "policies": [
+      "relationship-status-for-benefit",
+      "child-support"
+    ],
+    "processes": [
+      "reviews-and-appeals",
+      "application-for-benefit",
+      "duty-to-advise-of-changes-in-circumstances"
+    ],
+    "actors": [],
+    "concepts": [
+      "income",
+      "residence",
+      "initial-stand-down"
+    ],
+    "cards": [
+      "community-services-card"
+    ],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "A main benefit providing income support to eligible sole parents and caregivers, with detailed rules around qualifications, social obligations, payment, conditions, and mandatory reviews.",
+    "eligibility": "",
+    "payment_details": "",
+    "obligations": "",
+    "stand_down": "",
+    "income_test": "",
+    "application_process": ""
+  }
+}

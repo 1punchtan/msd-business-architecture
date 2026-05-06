@@ -1,0 +1,38 @@
+{
+  "id": "definition-of-income",
+  "type": "concept",
+  "archimate_type": "BusinessObject",
+  "name": "Definition of income",
+  "description": "A structured policy guide defining what constitutes income for benefit assessment purposes, including capital payments, income-related purpose guidelines, inclusions and exclusions, partner income considerations, income from assets, and verification requirements.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/core-policy/income/definition-of-income/index.html",
+  "tags": [
+    "income",
+    "definition",
+    "capital payments",
+    "assets",
+    "verification",
+    "core policy",
+    "income support"
+  ],
+  "related": {
+    "products": [],
+    "programmes": [],
+    "policies": [],
+    "processes": [],
+    "actors": [],
+    "concepts": [
+      "income",
+      "types-of-income",
+      "employment-related-income",
+      "child-support-income"
+    ],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Defines income for social development policy purposes, covering capital payments, guidelines for determining income-related purposes, mandatory inclusions and exclusions, partner of client in long-term residential care, income from assets, and verification of income and assets.",
+    "definition": "",
+    "context": "",
+    "examples": ""
+  }
+}

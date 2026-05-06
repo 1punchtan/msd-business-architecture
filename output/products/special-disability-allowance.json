@@ -1,0 +1,42 @@
+{
+  "id": "special-disability-allowance",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Special Disability Allowance",
+  "description": "A financial allowance paid to a benefit or pension recipient whose partner is hospitalised and receiving a reduced benefit rate, to help cover extra costs associated with their partner's hospitalisation.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/extra-help/disability-allowance/special-disability-allowance.html",
+  "tags": [
+    "disability",
+    "allowance",
+    "hospitalisation",
+    "residential care",
+    "partner",
+    "extra help"
+  ],
+  "related": {
+    "products": [
+      "disability-allowance",
+      "new-zealand-superannuation",
+      "supported-living-payment",
+      "emergency-benefit",
+      "veterans-pension",
+      "residential-care-subsidy"
+    ],
+    "programmes": [],
+    "policies": [],
+    "processes": [],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Financial allowance paid to a benefit or pension recipient whose partner is hospitalised and receiving a reduced benefit rate, to help cover extra costs associated with their partner's hospitalisation.",
+    "eligibility": "Client is not in hospital or residential care; Client is getting a main benefit or pension; Client's partner is a patient in hospital or residential care; Client's partner is getting a reduced rate of benefit or pension due to hospitalisation. Exclusion: Veteran's Pension clients in hospital for more than 13 weeks are not eligible as payments are not reduced to hospital rate.",
+    "payment_details": "Granted from the date the partner starts getting a hospital rate of benefit, or becomes financially eligible for Residential Care Subsidy. Cessation: stopped from first available date if person receiving it is admitted to hospital or residential care; if client in hospital dies, stopped from the day after death (if in current pay-period), or first available date if advice received within 14 days, or day after date of death if advice received more than 14 days after death; if partner in community dies, continues as part of terminal benefit for 4 weeks. Terminal benefit applies to partner in community getting New Zealand Superannuation in their own right, Emergency Benefit paid at the Supported Living Payment rate, or as a partner getting a joint (apportioned) benefit.",
+    "obligations": "",
+    "stand_down": "",
+    "income_test": "",
+    "application_process": ""
+  }
+}

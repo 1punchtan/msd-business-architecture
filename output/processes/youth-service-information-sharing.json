@@ -1,0 +1,45 @@
+{
+  "id": "youth-service-information-sharing",
+  "type": "process",
+  "archimate_type": "BusinessProcess",
+  "name": "Youth service information sharing",
+  "description": "Describes the information sharing arrangements between Work and Income and Youth Service providers (NEET and Payment), including third party agencies and organisations sharing information about young people involved in youth services.",
+  "source_url": "https://www.workandincome.govt.nz/map/youth-service/youth-service-information-sharing/index.html",
+  "tags": [
+    "youth service",
+    "information sharing",
+    "NEET",
+    "third party",
+    "privacy",
+    "young people"
+  ],
+  "related": {
+    "products": [
+      "youth-payment",
+      "young-parent-payment"
+    ],
+    "programmes": [],
+    "policies": [],
+    "processes": [],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Covers the bidirectional sharing of information between Work and Income and Youth Service (NEET and Payment) providers, as well as third party information sharing about young persons, including a list of covered third party agencies and organisations.",
+    "steps": [
+      "Introduction",
+      "Youth Service (NEET) provider sharing information with Work and Income",
+      "Work and Income information sharing with Youth Service (NEET) provider",
+      "Work and Income sharing information with Youth Service (Payment) provider",
+      "Youth Service (Payment) provider sharing information with Work and Income",
+      "Third party sharing information about a young person to youth service provider",
+      "List of third party agencies or organisations covered by information sharing"
+    ],
+    "triggers": "",
+    "inputs": "",
+    "outputs": "",
+    "decision_points": ""
+  }
+}

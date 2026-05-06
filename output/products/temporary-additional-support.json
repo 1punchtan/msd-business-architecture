@@ -1,0 +1,67 @@
+{
+  "id": "temporary-additional-support",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Temporary Additional Support",
+  "description": "A formula-assessed financial assistance product providing supplementary support where a client's allowable essential costs exceed their chargeable income and standard costs, subject to eligibility criteria including residency, cash assets test, and dependent child requirements.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/extra-help/temporary-additional-support/index.html",
+  "tags": [
+    "extra-help",
+    "income-support",
+    "temporary-additional-support",
+    "financial-assistance",
+    "formula-assessed",
+    "disability",
+    "accommodation",
+    "health-costs",
+    "childcare",
+    "employment-costs"
+  ],
+  "related": {
+    "products": [
+      "temporary-additional-support-tables",
+      "disability-allowance",
+      "accommodation-supplement",
+      "special-benefit",
+      "jobseeker-support",
+      "sole-parent-support",
+      "supported-living-payment",
+      "emergency-benefit",
+      "young-parent-payment",
+      "youth-payment",
+      "orphans-benefit-and-unsupported-childs-benefit",
+      "best-start-tax-credit",
+      "family-tax-credit",
+      "child-disability-allowance",
+      "recoverable-assistance-payment",
+      "special-needs-grant",
+      "income-related-rent",
+      "emergency-housing"
+    ],
+    "programmes": [],
+    "policies": [],
+    "processes": [
+      "application-for-assistance",
+      "reviews-and-appeals",
+      "duty-to-advise-of-changes-in-circumstances"
+    ],
+    "actors": [],
+    "concepts": [
+      "residence",
+      "income",
+      "definition-of-income",
+      "child-support-income"
+    ],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "A formula-assessed financial assistance product providing supplementary support where a client's allowable essential costs exceed their chargeable income and standard costs, subject to eligibility criteria including residency, cash assets test, and dependent child requirements.",
+    "eligibility": "Clients must meet residency requirements, pass a cash assets test, and have allowable costs exceeding chargeable income and standard costs. Specific circumstances include: partner unlawfully resident or here temporarily, partner overseas, full-time students, striking workers, self-employed clients, single client in residential care, refugees, protected persons or residence applicants.",
+    "payment_details": "Formula-assessed based on allowable costs (accommodation, health, disability, employment, childcare, essential household items) minus chargeable income and standard costs, subject to an upper limit. Allowable cost categories include: essential household items, employment-related costs, weekly qualifying accommodation costs, health and disability costs, and childcare. Chargeable income components include: main benefit, working for families tax credits, and other income.",
+    "obligations": "Clients must advise of changes in circumstances and comply with absence from New Zealand restrictions. Debt recovery applies for overpayments.",
+    "stand_down": "",
+    "income_test": "Income-tested with chargeable income components (main benefit, working for families tax credits, other income) assessed against allowable costs and standard costs.",
+    "application_process": ""
+  }
+}

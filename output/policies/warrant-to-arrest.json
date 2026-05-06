@@ -1,0 +1,41 @@
+{
+  "id": "warrant-to-arrest",
+  "type": "policy",
+  "archimate_type": "Constraint",
+  "name": "Warrant to Arrest",
+  "description": "Policy governing the criteria and procedures for suspending or affecting client benefits when a warrant to arrest has been issued.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/core-policy/warrant-to-arrest/index.html",
+  "tags": [
+    "warrant to arrest",
+    "benefit suspension",
+    "sanctions",
+    "core policy",
+    "income support",
+    "public safety",
+    "benefit effect"
+  ],
+  "related": {
+    "products": [
+      "jobseeker-support",
+      "sole-parent-support",
+      "supported-living-payment",
+      "orphans-benefit-and-unsupported-childs-benefit",
+      "new-zealand-superannuation",
+      "emergency-benefit"
+    ],
+    "programmes": [],
+    "policies": [],
+    "processes": [],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Defines how a warrant to arrest affects a client's benefit entitlement, including criteria for suspension, specific benefit impacts by client type, challenging the warrant, and conditions for restarting payments.",
+    "rules": "",
+    "exceptions": "",
+    "scope": "",
+    "effective_date": ""
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "tenancy-costs-cover",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Tenancy Costs Cover",
+  "description": "Tenancy Costs Cover is a housing support product providing financial assistance to clients experiencing difficulty obtaining or retaining alternative housing, covering specific tenancy costs for accommodation subject to the Residential Tenancies Act 1986.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/extra-help/housing-support-products/tenancy-costs-cover/index.html",
+  "tags": [
+    "housing",
+    "tenancy",
+    "extra-help",
+    "housing-support-products",
+    "financial-assistance",
+    "accommodation"
+  ],
+  "related": {
+    "products": [
+      "housing-support-products",
+      "accommodation-supplement"
+    ],
+    "programmes": [
+      "housing-support-programme"
+    ],
+    "policies": [],
+    "processes": [
+      "reviews-and-appeals"
+    ],
+    "actors": [],
+    "concepts": [
+      "residence"
+    ],
+    "cards": [
+      "housing-support-products-tables"
+    ],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "A Housing Support Product that covers tenancy-related costs for eligible clients who cannot obtain or retain alternative housing, subject to qualification criteria including residence, reasonable steps to find housing, and assessment of client-caused need.",
+    "eligibility": "Residence; ability to obtain and retain alternative housing; reasonable steps to find alternative housing; difficulty obtaining alternative housing; accommodation that the Residential Tenancies Act 1986 applies to. Excludes clients who cannot get Tenancy Costs Cover.",
+    "payment_details": "Includes period of Tenancy Costs Cover, Tenancy Costs Cover letter and conditions of grant, period to claim payment, types of tenancy costs covered, tenancy costs not covered, recovery of payment, and exceptional circumstances.",
+    "obligations": "Client must take reasonable steps to find alternative housing and demonstrate difficulty obtaining alternative housing. Assessment factors include whether client caused or contributed to need, impact on client and family, and other financial assistance available.",
+    "stand_down": "",
+    "income_test": "",
+    "application_process": ""
+  }
+}

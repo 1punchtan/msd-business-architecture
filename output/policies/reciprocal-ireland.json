@@ -1,0 +1,49 @@
+{
+  "id": "reciprocal-ireland",
+  "type": "policy",
+  "archimate_type": "Constraint",
+  "name": "Reciprocal Ireland",
+  "description": "The Social Security Agreement between New Zealand and Ireland governing reciprocal benefit and pension entitlements, portability, and administration for clients in both countries.",
+  "source_url": "https://www.workandincome.govt.nz/map/to-or-from-overseas/reciprocal-agreements/reciprocal-ireland/index.html",
+  "tags": [
+    "reciprocal agreement",
+    "Ireland",
+    "overseas",
+    "portability",
+    "superannuation",
+    "veterans pension",
+    "sole parent support",
+    "supported living payment",
+    "orphans benefit"
+  ],
+  "related": {
+    "products": [
+      "sole-parent-support",
+      "supported-living-payment",
+      "new-zealand-superannuation",
+      "orphans-benefit-and-unsupported-childs-benefit",
+      "veterans-pension"
+    ],
+    "programmes": [],
+    "policies": [
+      "reciprocal-agreements",
+      "portability",
+      "general-portability",
+      "special-portability"
+    ],
+    "processes": [
+      "reviews-and-appeals"
+    ],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Covers the bilateral social security agreement with Ireland including NZ benefits portable to Ireland (Sole Parent Support, Supported Living Payment, NZ Superannuation, Orphans Benefit, Veterans Pension), Irish benefits payable in New Zealand, welfare reform impacts, grandparenting provisions, payment options, calculation methods, reviews, and administrative processes such as hospital admission, death, and overpayments.",
+    "rules": "",
+    "exceptions": "",
+    "scope": "",
+    "effective_date": ""
+  }
+}

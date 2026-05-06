@@ -1,0 +1,50 @@
+{
+  "id": "best-start-tax-credit",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Best Start tax credit",
+  "description": "A tax credit supporting families with young children, administered by the Ministry of Social Development or Inland Revenue, covering eligibility, payment, protected rates while on a main benefit, absence from New Zealand, changes in circumstances, and overpayments.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/extra-help/best-start-tax-credit/index.html",
+  "tags": [
+    "best-start",
+    "tax-credit",
+    "family-assistance",
+    "children",
+    "extra-help",
+    "income-support"
+  ],
+  "related": {
+    "products": [
+      "best-start-tax-credit-tables",
+      "child-disability-allowance",
+      "family-tax-credit",
+      "in-work-tax-credit",
+      "sole-parent-support",
+      "jobseeker-support",
+      "supported-living-payment",
+      "new-zealand-superannuation",
+      "orphans-benefit-and-unsupported-childs-benefit"
+    ],
+    "programmes": [],
+    "policies": [],
+    "processes": [
+      "reviews-and-appeals"
+    ],
+    "actors": [],
+    "concepts": [
+      "residence",
+      "income"
+    ],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "A tax credit supporting families with young children, covering eligibility, payment, protected rates while on a main benefit, absence from New Zealand, changes in circumstances, and overpayments.",
+    "eligibility": "",
+    "payment_details": "",
+    "obligations": "",
+    "stand_down": "",
+    "income_test": "",
+    "application_process": ""
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "reciprocal-republic-of-korea",
+  "type": "policy",
+  "archimate_type": "Constraint",
+  "name": "Reciprocal Republic of Korea",
+  "description": "Reciprocal social security agreement between New Zealand and the Republic of Korea, covering totalisation provisions for New Zealand Superannuation and Veterans Pension, handling of Korean benefits in New Zealand, client obligations, payment processes, and procedures for clients moving between the two countries.",
+  "source_url": "https://www.workandincome.govt.nz/map/to-or-from-overseas/reciprocal-agreements/reciprocal-republic-of-korea/index.html",
+  "tags": [
+    "reciprocal agreement",
+    "Korea",
+    "overseas",
+    "New Zealand Superannuation",
+    "Veterans Pension",
+    "totalisation",
+    "portability",
+    "international"
+  ],
+  "related": {
+    "products": [
+      "new-zealand-superannuation",
+      "veterans-pension"
+    ],
+    "programmes": [],
+    "policies": [
+      "reciprocal-agreements",
+      "portability"
+    ],
+    "processes": [
+      "reviews-and-appeals"
+    ],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Policy and procedural framework governing the reciprocal social security agreement with the Republic of Korea, including eligibility, payment, review, and administrative processes for clients in both countries.",
+    "rules": "",
+    "exceptions": "",
+    "scope": "",
+    "effective_date": ""
+  }
+}

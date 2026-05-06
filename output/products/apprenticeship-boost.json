@@ -1,0 +1,43 @@
+{
+  "id": "apprenticeship-boost",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Apprenticeship Boost",
+  "description": "Apprenticeship Boost is an employment assistance product providing financial support to employers who take on apprentices.",
+  "source_url": "https://www.workandincome.govt.nz/map/employment-and-training/specific-employment-related-assistance/apprenticeship-boost/index.html",
+  "tags": [
+    "employment",
+    "apprenticeship",
+    "wage subsidy",
+    "employer assistance",
+    "training"
+  ],
+  "related": {
+    "products": [
+      "specific-employment-related-assistance",
+      "employment-and-work-readiness-assistance",
+      "flexi-wage-subsidy",
+      "mana-in-mahi"
+    ],
+    "programmes": [
+      "apprenticeship-boost-initiative-programme"
+    ],
+    "policies": [],
+    "processes": [
+      "reviews-and-appeals"
+    ],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Financial assistance for employers taking on apprentices, including eligibility, payment, and obligations.",
+    "eligibility": "Covers eligibility criteria for both apprentices and employers.",
+    "payment_details": "Payment structures including monthly instalments and declarations.",
+    "obligations": "Employer obligations and handling of overpayments, changes in circumstances.",
+    "stand_down": "",
+    "income_test": "",
+    "application_process": ""
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "accommodation-security-cover-grant",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Accommodation Security Cover Grant",
+  "description": "A grant to assist clients with outstanding accommodation costs and expenses, assessed against income and cash asset limits, applicable where the Residential Tenancies Act 1986 applies or does not apply.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/extra-help/housing-support-products/accommodation-security-cover-grant/index.html",
+  "tags": [
+    "housing",
+    "extra-help",
+    "grant",
+    "accommodation",
+    "financial-assistance",
+    "residential-tenancies"
+  ],
+  "related": {
+    "products": [
+      "housing-support-products",
+      "accommodation-supplement"
+    ],
+    "programmes": [
+      "special-needs-grants-programme"
+    ],
+    "policies": [],
+    "processes": [
+      "reviews-and-appeals"
+    ],
+    "actors": [],
+    "concepts": [
+      "residence",
+      "income"
+    ],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "The Accommodation Security Cover Grant provides financial assistance to eligible clients who are unable to meet outstanding accommodation costs and expenses. Eligibility is assessed on the basis of residence, income limits, cash asset limits, net equity, and the client's ability to obtain and retain accommodation. The grant is subject to conditions, defined payment periods, exceptional circumstances provisions, and recovery arrangements.",
+    "eligibility": "",
+    "payment_details": "",
+    "obligations": "",
+    "stand_down": "",
+    "income_test": "",
+    "application_process": ""
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "re-assessing-previous-applications",
+  "type": "process",
+  "archimate_type": "BusinessProcess",
+  "name": "Re-assessing previous applications",
+  "description": "Guidelines and procedures for re-assessing previous applications for financial assistance, including determining whether an application has been made, outcomes of investigations, commencement dates for main benefits, backdating, correction power procedures, delegated authority levels, and review rights.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/core-policy/requests-for-financial-assistance/re-assessing-previous-applications/index.html",
+  "tags": [
+    "re-assessment",
+    "previous applications",
+    "correction power",
+    "backdating",
+    "commencement date",
+    "error or omission",
+    "review rights",
+    "financial assistance",
+    "main benefits"
+  ],
+  "related": {
+    "products": [],
+    "programmes": [],
+    "policies": [],
+    "processes": [
+      "requests-for-financial-assistance",
+      "application-for-assistance",
+      "application-for-benefit",
+      "reviews-and-appeals"
+    ],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Covers the policy and procedural framework for re-assessing expired or previous applications for financial assistance, including correction power cases, approval and decline procedures, and review rights.",
+    "steps": [
+      "Introduction",
+      "Guidelines for deciding if an application has been made",
+      "Outcome of investigation",
+      "Commencement date of main benefits",
+      "Guidelines for re-assessing expired applications",
+      "Backdating of commencement date",
+      "Error or omission on the part of the Ministry",
+      "Youth service provider considered officer of the Ministry",
+      "What is an error or omission on the part of the Ministry?",
+      "When to consider correction power",
+      "Types of correction power cases",
+      "Procedure for individual cases of correction power",
+      "Correction power decision approved",
+      "Approval letters",
+      "Review Rights where correction power approved",
+      "Correction power decision declined",
+      "Decline letters",
+      "Review Rights where correction power declined",
+      "Procedure for class cases of correction power",
+      "Delegated authority levels"
+    ],
+    "triggers": "",
+    "inputs": "",
+    "outputs": "",
+    "decision_points": ""
+  }
+}

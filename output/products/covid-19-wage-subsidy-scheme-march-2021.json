@@ -1,0 +1,45 @@
+{
+  "id": "covid-19-wage-subsidy-scheme-march-2021",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "COVID-19 Wage Subsidy Scheme (March 2021)",
+  "description": "The COVID-19 Wage Subsidy Scheme (March 2021) provides financial assistance to eligible businesses experiencing a decline in revenue due to a current escalation in COVID-19 Alert Levels.",
+  "source_url": "https://www.workandincome.govt.nz/map/employment-and-training/specific-employment-related-assistance/covid-19-wage-subsidy-scheme-march-2021/index.html",
+  "tags": [
+    "COVID-19",
+    "wage-subsidy",
+    "employment",
+    "business-support",
+    "revenue-decline",
+    "worker-retention",
+    "March-2021"
+  ],
+  "related": {
+    "products": [
+      "specific-employment-related-assistance",
+      "employment-and-work-readiness-assistance",
+      "covid-19-wage-subsidy-modified",
+      "covid-19-wage-subsidy-scheme-august-2021",
+      "covid-19-wage-subsidy-scheme-extension",
+      "covid-19-resurgence-wage-subsidy-scheme",
+      "covid-19-leave-support-scheme",
+      "covid-19-short-term-absence-payment"
+    ],
+    "programmes": [],
+    "policies": [],
+    "processes": [],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "A wage subsidy scheme providing support to New Zealand businesses affected by COVID-19 Alert Level escalations in March 2021, requiring businesses to retain named workers and meet revenue decline thresholds.",
+    "eligibility": "Business is registered and operating in New Zealand; Worker is legally working in New Zealand; 40% decline in revenue due to current escalation in Alert Levels; Business must retain workers named in their application; State Sector employers generally not eligible; Health and disability funded workforce specific rules apply.",
+    "payment_details": "Subsidy paid to businesses based on number of named workers; businesses must pay workers at least ordinary wages or salary.",
+    "obligations": "Business must retain workers named in their application; unused funds must be repaid after the subsidy period; treatment of the subsidy considered when granting benefits.",
+    "stand_down": "",
+    "income_test": "",
+    "application_process": ""
+  }
+}

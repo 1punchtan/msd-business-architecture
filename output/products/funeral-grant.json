@@ -1,0 +1,42 @@
+{
+  "id": "funeral-grant",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Funeral Grant",
+  "description": "A financial assistance product that helps cover reasonable funeral expenses subject to asset and income tests, applicable in various circumstances including overseas deaths and different family situations.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/extra-help/funeral-grant/index.html",
+  "tags": [
+    "funeral",
+    "grant",
+    "extra-help",
+    "income-support",
+    "asset-test",
+    "income-test",
+    "payment"
+  ],
+  "related": {
+    "products": [
+      "funeral-grant-tables",
+      "special-needs-grants-programme"
+    ],
+    "programmes": [],
+    "policies": [],
+    "processes": [
+      "requests-for-financial-assistance",
+      "application-for-assistance"
+    ],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "A grant to assist with reasonable funeral expenses, subject to qualifying criteria including asset tests, income tests, and assessable estate rules for various deceased person scenarios.",
+    "eligibility": "",
+    "payment_details": "",
+    "obligations": "",
+    "stand_down": "",
+    "income_test": "",
+    "application_process": ""
+  }
+}

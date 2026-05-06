@@ -1,0 +1,45 @@
+{
+  "id": "guaranteed-childcare-assistance-payment",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Guaranteed Childcare Assistance Payment",
+  "description": "A childcare assistance payment for young parents, covering qualifications, residence, activity requirements, eligible children, approved early childhood education programmes, payment calculations, absences, debts, and ending conditions.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/extra-help/guaranteed-childcare-assistance-payment/index.html",
+  "tags": [
+    "childcare",
+    "young parents",
+    "early childhood education",
+    "extra help",
+    "income support",
+    "youth"
+  ],
+  "related": {
+    "products": [
+      "early-learning-payment",
+      "flexible-childcare-assistance"
+    ],
+    "programmes": [
+      "guaranteed-childcare-assistance-payment-programme",
+      "childcare-assistance-programme"
+    ],
+    "policies": [],
+    "processes": [],
+    "actors": [],
+    "concepts": [
+      "guaranteed-childcare-assistance-payment-tables",
+      "young-parent-payment",
+      "youth-payment"
+    ],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "The Guaranteed Childcare Assistance Payment supports young parents with childcare costs through an approved early childhood education programme or service. It covers eligibility criteria including residence, immigration status, activity requirements, and the child's circumstances, as well as payment rules, absences, COVID-19 provisions, and conditions for ending the payment.",
+    "eligibility": "",
+    "payment_details": "",
+    "obligations": "",
+    "stand_down": "",
+    "income_test": "",
+    "application_process": ""
+  }
+}

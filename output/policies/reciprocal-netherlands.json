@@ -1,0 +1,47 @@
+{
+  "id": "reciprocal-netherlands",
+  "type": "policy",
+  "archimate_type": "Constraint",
+  "name": "Reciprocal Netherlands",
+  "description": "Contents index for the Social Security Agreement between New Zealand and the Netherlands, covering benefit portability, payment arrangements, debt recovery, and review processes for clients in both countries.",
+  "source_url": "https://www.workandincome.govt.nz/map/to-or-from-overseas/reciprocal-agreements/reciprocal-netherlands/index.html",
+  "tags": [
+    "reciprocal agreement",
+    "Netherlands",
+    "overseas",
+    "portability",
+    "superannuation",
+    "veterans pension",
+    "sole parent support",
+    "supported living payment",
+    "debt recovery",
+    "exchange of information"
+  ],
+  "related": {
+    "products": [
+      "sole-parent-support",
+      "supported-living-payment",
+      "new-zealand-superannuation",
+      "veterans-pension"
+    ],
+    "programmes": [],
+    "policies": [
+      "reciprocal-agreements",
+      "portability",
+      "general-portability",
+      "special-portability"
+    ],
+    "processes": [],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Contents index for the NZ-Netherlands reciprocal social security agreement, detailing benefit portability, payment arrangements, debt recovery, and review processes for clients in both countries.",
+    "rules": "",
+    "exceptions": "",
+    "scope": "",
+    "effective_date": ""
+  }
+}

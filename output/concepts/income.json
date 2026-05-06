@@ -1,0 +1,38 @@
+{
+  "id": "income",
+  "type": "concept",
+  "archimate_type": "BusinessObject",
+  "name": "Income",
+  "description": "A policy guidance manual that helps determine what constitutes income for benefit and pension purposes administered by MSD, and how that income should be treated in assessing client entitlements.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/core-policy/income/index.html",
+  "tags": [
+    "income",
+    "benefit",
+    "pensions",
+    "overpayments",
+    "debt",
+    "Social Security Act 2018",
+    "entitlement"
+  ],
+  "related": {
+    "products": [],
+    "programmes": [],
+    "policies": [],
+    "processes": [],
+    "actors": [],
+    "concepts": [
+      "definition-of-income",
+      "types-of-income",
+      "employment-related-income",
+      "child-support-income"
+    ],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Defines income for benefit and pension purposes, outlines how income affects benefit entitlement, and guides correct declaration to prevent overpayments and debt. Provisions are grounded in the Social Security Act 2018.",
+    "definition": "",
+    "context": "",
+    "examples": ""
+  }
+}

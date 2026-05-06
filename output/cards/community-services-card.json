@@ -1,0 +1,41 @@
+{
+  "id": "community-services-card",
+  "type": "card",
+  "archimate_type": "BusinessService",
+  "name": "Community Services Card",
+  "description": "The Community Services Card is a card-based assistance product that provides holders with subsidised access to primary health organisation services, public transport (Community Connect), and other health services.",
+  "source_url": "https://www.workandincome.govt.nz/map/card-services/community-services-card/index.html",
+  "tags": [
+    "card",
+    "health",
+    "subsidy",
+    "community services",
+    "income test",
+    "primary health",
+    "public transport"
+  ],
+  "related": {
+    "products": [
+      "new-zealand-superannuation"
+    ],
+    "programmes": [],
+    "policies": [],
+    "processes": [
+      "community-services-card-tables"
+    ],
+    "actors": [],
+    "concepts": [
+      "definition-of-income",
+      "residence",
+      "income"
+    ],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "A card issued to eligible New Zealanders providing subsidised health and other services, subject to residence and income tests.",
+    "eligibility": "Eligibility is determined by residence and income tests, with specific rules for different family and relationship configurations, dependent children, and special client categories. Excluded clients include students, overseas students, self-employed clients, and residents of rest homes and hospitals.",
+    "benefits": "Subsidised access to Primary Health Organisations, public transport (Community Connect), other health services, and other subsidy cards.",
+    "application_process": ""
+  }
+}

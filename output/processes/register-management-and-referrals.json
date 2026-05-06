@@ -1,0 +1,77 @@
+{
+  "id": "register-management-and-referrals",
+  "type": "process",
+  "archimate_type": "BusinessProcess",
+  "name": "Register management and referrals",
+  "description": "A comprehensive process covering the management of the social housing register and referrals to housing providers.",
+  "source_url": "https://www.workandincome.govt.nz/map/social-housing/register-management-and-referrals/index.html",
+  "tags": [
+    "social housing",
+    "register management",
+    "referrals",
+    "income related rent",
+    "reviews and appeals",
+    "housing provider",
+    "changes in circumstances"
+  ],
+  "related": {
+    "products": [
+      "emergency-housing"
+    ],
+    "programmes": [],
+    "policies": [
+      "warrant-to-arrest"
+    ],
+    "processes": [
+      "assessment-of-eligibility",
+      "duty-to-advise-of-changes-in-circumstances",
+      "reviews-and-appeals"
+    ],
+    "actors": [],
+    "concepts": [
+      "income-related-rent-debt"
+    ],
+    "cards": [],
+    "social_housing": [
+      "income-related-rent",
+      "income-related-rent-subsidy",
+      "social-housing-tables",
+      "eligibility-for-social-housing-direction",
+      "continued-eligibility-for-social-housing-direction",
+      "reviews-of-continued-eligibility-for-social-housing",
+      "tailored-agreements-with-social-housing-providers-direction"
+    ]
+  },
+  "attributes": {
+    "summary": "Covers the end-to-end process for managing clients on the social housing register and referring them to housing providers, including eligibility reviews, changes in circumstances, referral mechanics, and review/appeal rights.",
+    "steps": [
+      "Reviewing clients on the register",
+      "Application status",
+      "Removal from and reinstatement to the register",
+      "Client suspension by housing provider",
+      "Waiver of suspension",
+      "Clients under investigation",
+      "Emergency housing need",
+      "Grandparented clients",
+      "Warrant to arrest",
+      "Referrals to housing providers",
+      "Client preference for specific provider",
+      "Shared housing",
+      "Declining offer of suitable property",
+      "Good and sufficient reasons for declining",
+      "Change in circumstances at referral",
+      "Absence from New Zealand",
+      "Benefit cancellation or suspension",
+      "Change in accommodation income",
+      "Change of address",
+      "Household changes",
+      "Hospitalisation and imprisonment",
+      "Reviews and Appeals - three stage process",
+      "Appeals to Social Security Appeal Authority"
+    ],
+    "triggers": "",
+    "inputs": "",
+    "outputs": "",
+    "decision_points": ""
+  }
+}

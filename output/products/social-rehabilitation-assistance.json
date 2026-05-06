@@ -1,0 +1,45 @@
+{
+  "id": "social-rehabilitation-assistance",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Social Rehabilitation Assistance",
+  "description": "Financial assistance for clients participating in approved social rehabilitation programmes, with income testing, area-based programme approvals, and associated payment and review processes.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/extra-help/social-rehabilitation-assistance/index.html",
+  "tags": [
+    "extra-help",
+    "social-rehabilitation",
+    "income-support",
+    "disability",
+    "residential"
+  ],
+  "related": {
+    "products": [
+      "accommodation-supplement",
+      "advance-payment-of-benefit",
+      "disability-allowance",
+      "special-benefit",
+      "special-needs-grant",
+      "temporary-additional-support",
+      "new-zealand-superannuation",
+      "veterans-pension"
+    ],
+    "programmes": [
+      "social-rehabilitation-assistance-programme"
+    ],
+    "policies": [],
+    "processes": [],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Financial assistance for clients participating in approved social rehabilitation programmes, with income testing, area-based programme approvals, and associated payment and review processes.",
+    "eligibility": "",
+    "payment_details": "",
+    "obligations": "",
+    "stand_down": "",
+    "income_test": "",
+    "application_process": ""
+  }
+}

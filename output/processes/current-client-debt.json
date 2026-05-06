@@ -1,0 +1,63 @@
+{
+  "id": "current-client-debt",
+  "type": "process",
+  "archimate_type": "BusinessProcess",
+  "name": "Current client debt",
+  "description": "A comprehensive policy and process guide covering the management of current client debt within MSD, including debt establishment, types, repayment negotiation, recovery maximums, write-off criteria and processes, provisional write-offs, debt review, transfer between benefits, debt at cancellation, third party and non-beneficiary debt, and related system processes (TRACE, SWIFTT).",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/core-policy/current-client-debt/index.html",
+  "tags": [
+    "debt",
+    "debt recovery",
+    "debt write-off",
+    "SWIFTT",
+    "TRACE",
+    "repayment",
+    "provisional write-off",
+    "non-beneficiary debt",
+    "third party debt",
+    "benefit cancellation"
+  ],
+  "related": {
+    "products": [],
+    "programmes": [],
+    "policies": [],
+    "processes": [
+      "reviews-and-appeals",
+      "relationship-debt-sharing",
+      "income-related-rent-debt",
+      "redirection-of-benefit-payment",
+      "debt-recovery-direction"
+    ],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Covers all aspects of managing client debt for MSD including establishing debt, negotiating repayments, recovery limits, write-off criteria and delegation, provisional write-offs, debt on cancelled/suspended records, review of decisions, debt repayment protection, and specific scenarios such as accident compensation, overseas absence, and self-employed clients.",
+    "steps": [
+      "Establishing debt",
+      "Determining debt types retained in TRACE",
+      "Negotiating repayment of debt",
+      "Applying debt recovery maximum and SWIFTT process maximum debt recovery",
+      "Assessing debt write-off criteria",
+      "Processing debt write-off decision with delegation levels",
+      "Managing provisional write-off for debts resulting from error",
+      "Transferring debt between benefits",
+      "Processing debt on cancelled or suspended records",
+      "Adding debt to tax year",
+      "Reviewing and changing debts",
+      "Arranging repayments at cancellation",
+      "Applying Debt Repayment Protection",
+      "Suspending debt recovery",
+      "Managing third party and non-beneficiary debt",
+      "Processing accident compensation payments",
+      "Handling self-employed and commission-based client scenarios",
+      "Processing overseas absence cases"
+    ],
+    "triggers": "Client receives benefit payment, debt is established, benefit rate changes, benefit is cancelled or suspended, review of decision is requested, hardship is claimed, client fails to advise of absence overseas",
+    "inputs": "Client benefit records, TRACE system data, payment information, client circumstances, hardship claims, review requests, accident compensation details",
+    "outputs": "Debt establishment, repayment arrangements, write-off decisions, provisional write-offs, debt transfers, debt recovery suspensions, Debt Repayment Protection arrangements, third party debt records, benefit arrears allocation",
+    "decision_points": "Is debt the result of an error?, Did client intentionally contribute to the debt?, Was money received in good faith?, Has client changed their position?, Is write-off inequitable in all circumstances?, Should debt be provisionally written off?, Is debt at cancellation recoverable?, Should debt recovery be suspended due to hardship?, Is client eligible for Debt Repayment Protection?"
+  }
+}

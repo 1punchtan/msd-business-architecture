@@ -1,0 +1,48 @@
+{
+  "id": "housing-support-products",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Housing Support Products",
+  "description": "Housing Support Products are individual financial assistance products for clients needing help to obtain and retain accommodation.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/extra-help/housing-support-products/index.html",
+  "tags": [
+    "housing",
+    "grants",
+    "accommodation",
+    "recoverable",
+    "discretionary",
+    "financial assistance"
+  ],
+  "related": {
+    "products": [
+      "moving-costs-grant",
+      "bond-grant",
+      "accommodation-costs-in-advance-grant",
+      "accommodation-costs-arrears-grant",
+      "tenancy-costs-cover",
+      "transition-to-alternative-housing-grant",
+      "accommodation-security-cover-grant"
+    ],
+    "programmes": [
+      "housing-support-programme"
+    ],
+    "policies": [
+      "housing-support-products-tables",
+      "housing-support-products-historical-tables"
+    ],
+    "processes": [],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "A suite of recoverable discretionary grant products providing financial assistance to help clients obtain and retain accommodation, including Moving Costs Grant, Bond Grant, Accommodation Costs in Advance Grant, Accommodation Costs Arrears Grant, Tenancy Costs Cover, Transition to Alternative Housing Grant, and Accommodation Security Cover Grant.",
+    "eligibility": "Clients can receive multiple Housing Support Products if they meet the qualifications for each individual grant. Eligibility for some products depends on whether the Residential Tenancies Act 1986 applies to the accommodation agreement. Assistance can be declined based on client circumstances.",
+    "payment_details": "",
+    "obligations": "Recoverable discretionary grants (except Transition to Alternative Housing Grant which is non-recoverable)",
+    "stand_down": "",
+    "income_test": "",
+    "application_process": ""
+  }
+}

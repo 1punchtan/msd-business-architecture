@@ -1,0 +1,79 @@
+{
+  "id": "sole-parent-support",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Sole Parent Support",
+  "description": "Sole Parent Support is a main benefit providing financial assistance to sole parents caring for dependent children.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/main-benefits/sole-parent-support/index.html",
+  "tags": [
+    "main-benefit",
+    "sole-parent",
+    "income-support",
+    "obligations",
+    "work-preparation",
+    "social-obligations",
+    "sanctions",
+    "residence",
+    "dependent-child",
+    "reapplication"
+  ],
+  "related": {
+    "products": [
+      "emergency-maintenance-allowance",
+      "jobseeker-support",
+      "supported-living-payment",
+      "orphans-benefit-and-unsupported-childs-benefit",
+      "young-parent-payment",
+      "youth-payment",
+      "accommodation-supplement",
+      "temporary-additional-support",
+      "special-needs-grant",
+      "recoverable-assistance-payment",
+      "advance-payment-of-benefit",
+      "training-incentive-allowance",
+      "child-disability-allowance",
+      "disability-allowance",
+      "community-services-card",
+      "winter-energy-payment",
+      "student-allowance",
+      "student-loan"
+    ],
+    "programmes": [
+      "sole-parent-study-assistance-programme"
+    ],
+    "policies": [
+      "relationship-status-for-benefit",
+      "pre-benefit-requirements",
+      "child-support",
+      "income-abatements-and-exemptions",
+      "main-benefits-rates",
+      "main-benefits-cut-out-points",
+      "main-benefits-income-abatement-thresholds"
+    ],
+    "processes": [
+      "application-for-benefit",
+      "duty-to-advise-of-changes-in-circumstances",
+      "reviews-and-appeals",
+      "redirection-of-benefit-payment"
+    ],
+    "actors": [],
+    "concepts": [
+      "income",
+      "residence",
+      "reciprocal-agreements",
+      "limited-employment-locations",
+      "initial-stand-down"
+    ],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "A comprehensive main benefit for sole parents, detailing eligibility criteria, obligations, sanctions, payment rules, and change-of-circumstances processes administered by Work and Income.",
+    "eligibility": "Sole parents with dependent children under 14 years of age",
+    "payment_details": "Main benefit rates and payment rules as per main-benefits-rates and main-benefits-cut-out-points policies",
+    "obligations": "Work obligations, work preparation obligations, social obligations, drug test obligations, work with contracted service provider obligation, work ability assessment obligation",
+    "stand_down": "Initial stand-down period applies; 13-week non-entitlement period as sanction",
+    "income_test": "Income abatement thresholds apply as per main-benefits-income-abatement-thresholds policy",
+    "application_process": "Application-for-benefit process with 52-week reapplication cycle"
+  }
+}

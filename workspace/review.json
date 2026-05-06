@@ -1,0 +1,66 @@
+{
+  "failed_scrape": [],
+  "low_confidence": [
+    {
+      "id": "students--agents",
+      "url": "https://www.workandincome.govt.nz/map/income-support/core-policy/agents/index.html",
+      "type": "process",
+      "status": "success",
+      "confidence": "medium",
+      "confidence_notes": "The page is clearly about the 'Agents' topic and maps to the known lookup ID 'students--agents', though the lookup name 'Agents' is listed under a student-prefixed ID which is slightly inconsistent with the URL path under 'income-support/core-policy/agents'. The content describes both policy constraints and processes, but 'process' is the best fit given the structured procedural content.",
+      "flag_for_review": false,
+      "output_path": "output/processes/students--agents.json"
+    },
+    {
+      "id": "end-of-school-year",
+      "url": "https://www.workandincome.govt.nz/map/income-support/core-policy/end-of-school-year/index.html",
+      "type": "concept",
+      "status": "success",
+      "confidence": "medium",
+      "confidence_notes": "The page is a contents/index page with minimal detail. The entity is classified as a concept given it represents a policy topic area. Content is sparse.",
+      "flag_for_review": false,
+      "output_path": "output/concepts/end-of-school-year.json"
+    },
+    {
+      "id": "in-work-tax-credit",
+      "url": "https://www.workandincome.govt.nz/map/income-support/extra-help/in-work-tax-credit/index.html",
+      "type": "product",
+      "status": "success",
+      "confidence": "medium",
+      "confidence_notes": "The page is a contents/index page with minimal detail. The entity type 'product' is inferred from the product nature of in-work tax credit as extra help under income support. Content is sparse as it only lists section headings.",
+      "flag_for_review": false,
+      "output_path": "output/products/in-work-tax-credit.json"
+    },
+    {
+      "id": "extraordinary-care-fund",
+      "url": "https://www.workandincome.govt.nz/map/income-support/extra-help/orphans-benefit-and-unsupported-childs-benefit-products/extraordinary-care-fund/index.html",
+      "type": "product",
+      "status": "success",
+      "confidence": "medium",
+      "confidence_notes": "The page is clearly about a specific product (Extraordinary Care Fund) within the extra help / Orphans Benefit suite, but the page text is sparse (only a table of contents), so full content details are not available.",
+      "flag_for_review": false,
+      "output_path": "output/products/extraordinary-care-fund.json"
+    },
+    {
+      "id": "school-and-year-start-up-payment",
+      "url": "https://www.workandincome.govt.nz/map/income-support/extra-help/orphans-benefit-and-unsupported-childs-benefit-products/school-and-year-start-up-payment/index.html",
+      "type": "product",
+      "status": "success",
+      "confidence": "medium",
+      "confidence_notes": "Page content is sparse (only a table of contents), so the entity type is inferred from the name and URL context. Classification as a product is consistent with similar payment entities in the lookup.",
+      "flag_for_review": false,
+      "output_path": "output/products/school-and-year-start-up-payment.json"
+    },
+    {
+      "id": "students--agents",
+      "url": "https://www.workandincome.govt.nz/map/students/agents/index.html",
+      "type": "process",
+      "status": "success",
+      "confidence": "medium",
+      "confidence_notes": "The page is a contents/index page with limited descriptive text. The entity type is inferred as process based on the procedural nature of the topics listed. Could also be classified as a policy or concept.",
+      "flag_for_review": false,
+      "output_path": "output/processes/students--agents.json"
+    }
+  ],
+  "needs_review": []
+}

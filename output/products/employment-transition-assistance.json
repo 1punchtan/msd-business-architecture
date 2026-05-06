@@ -1,0 +1,43 @@
+{
+  "id": "employment-transition-assistance",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Employment Transition Assistance",
+  "description": "Employment Transition Assistance is a payment providing financial support during employment transitions with detailed rules around eligibility, income assessment, payment levels, reviews, and debt management.",
+  "source_url": "https://www.workandincome.govt.nz/map/employment-and-training/specific-employment-related-assistance/employment-transition-assistance/index.html",
+  "tags": [
+    "employment",
+    "transition",
+    "assistance",
+    "income",
+    "benefit",
+    "work-readiness"
+  ],
+  "related": {
+    "products": [
+      "specific-employment-related-assistance",
+      "employment-and-work-readiness-assistance",
+      "employment-transition-assistance"
+    ],
+    "programmes": [
+      "employment-transition-programme"
+    ],
+    "policies": [
+      "employment-transition-assistance-tables"
+    ],
+    "processes": [],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "A financial assistance product for clients transitioning employment, with detailed rules around eligibility, income assessment, payment levels, reviews, and debt management.",
+    "eligibility": "",
+    "payment_details": "",
+    "obligations": "",
+    "stand_down": "",
+    "income_test": "",
+    "application_process": ""
+  }
+}

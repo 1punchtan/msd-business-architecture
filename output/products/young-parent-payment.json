@@ -1,0 +1,63 @@
+{
+  "id": "young-parent-payment",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Young Parent Payment",
+  "description": "A welfare benefit for young parents under 20 with dependent children, subject to activity obligations and youth money management, with provisions for exemptions, sanctions, and transitions.",
+  "source_url": "https://www.workandincome.govt.nz/map/youth-service/young-parent-payment/index.html",
+  "tags": [
+    "youth",
+    "young parents",
+    "benefit",
+    "activity obligations",
+    "money management",
+    "youth service",
+    "dependent child",
+    "income abatement",
+    "residence",
+    "sanctions"
+  ],
+  "related": {
+    "products": [
+      "youth-payment",
+      "family-tax-credit",
+      "jobseeker-support",
+      "supported-living-payment",
+      "orphans-benefit-and-unsupported-childs-benefit",
+      "accommodation-supplement",
+      "temporary-additional-support",
+      "advance-payment-of-benefit",
+      "special-needs-grant",
+      "recoverable-assistance-payment"
+    ],
+    "programmes": [],
+    "policies": [
+      "child-support",
+      "relationship-status-for-benefit"
+    ],
+    "processes": [
+      "initial-stand-down",
+      "redirection-of-benefit-payment",
+      "reviews-and-appeals",
+      "duty-to-advise-of-changes-in-circumstances",
+      "youth-service-tables",
+      "youth-service-information-sharing"
+    ],
+    "actors": [],
+    "concepts": [
+      "residence",
+      "income"
+    ],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "A welfare benefit for young parents under 20 with dependent children, subject to activity obligations and youth money management, with provisions for exemptions, sanctions, and transitions.",
+    "eligibility": "Young parent must be under 20 years old with a dependent child. Residence and immigration status requirements apply. Income criteria and activity obligations must be met.",
+    "payment_details": "Payment includes youth money management, incentive payments, and redirection of funds with provisions for exemptions and sanctions.",
+    "obligations": "Young parents must meet activity requirements including parenting, education, training, and work-based learning. Obligations apply to changes in circumstances including absence from New Zealand, child changes, hospitalisation, imprisonment, and income treatment.",
+    "stand_down": "Initial stand-down periods apply with provisions for absence from New Zealand, child changes, and other qualifying events.",
+    "income_test": "Income abatement applies with treatment of income from various sources and activity-related considerations.",
+    "application_process": ""
+  }
+}

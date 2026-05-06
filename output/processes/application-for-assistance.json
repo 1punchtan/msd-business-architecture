@@ -1,0 +1,49 @@
+{
+  "id": "application-for-assistance",
+  "type": "process",
+  "archimate_type": "BusinessProcess",
+  "name": "Application for assistance",
+  "description": "Defines the process and requirements for clients applying for financial assistance, including verbal and written request rules, timeframes, and handling of expired applications.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/core-policy/requests-for-financial-assistance/application-for-assistance/index.html",
+  "tags": [
+    "application",
+    "financial assistance",
+    "written application",
+    "verbal request",
+    "timeframe",
+    "review forms",
+    "expired applications"
+  ],
+  "related": {
+    "products": [],
+    "programmes": [],
+    "policies": [],
+    "processes": [
+      "requests-for-financial-assistance",
+      "application-for-benefit",
+      "re-assessing-previous-applications",
+      "reviews-and-appeals"
+    ],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Defines the process and requirements for clients applying for financial assistance, including verbal and written request rules, timeframes, and handling of expired applications.",
+    "steps": [
+      "Introduction",
+      "Guidelines - Application for assistance",
+      "Verbal requests for assistance",
+      "Timeframe for providing information",
+      "What may be considered to be a written application",
+      "Applications that must be in writing",
+      "Applications in review forms",
+      "Expired applications"
+    ],
+    "triggers": "",
+    "inputs": "",
+    "outputs": "",
+    "decision_points": ""
+  }
+}

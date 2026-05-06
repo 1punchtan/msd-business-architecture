@@ -1,0 +1,40 @@
+{
+  "id": "work-bonus",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Work Bonus",
+  "description": "Work Bonus is an employment-related assistance product for clients transitioning into paid employment, covering qualifications, benefit eligibility, payment rules, income exemptions, interaction with other assistance, debt recovery at cancellation, and client re-application provisions.",
+  "source_url": "https://www.workandincome.govt.nz/map/employment-and-training/specific-employment-related-assistance/work-bonus/index.html",
+  "tags": [
+    "employment",
+    "work-bonus",
+    "benefit-transition",
+    "income-exemption",
+    "employment-assistance"
+  ],
+  "related": {
+    "products": [
+      "work-bonus-tables",
+      "specific-employment-related-assistance",
+      "employment-and-work-readiness-assistance"
+    ],
+    "programmes": [
+      "work-bonus-programme"
+    ],
+    "policies": [],
+    "processes": [],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Work Bonus provides financial assistance to clients moving from a benefit into paid employment, with provisions covering eligibility, payment, income exemptions, interaction with other assistance, and debt recovery.",
+    "eligibility": "",
+    "payment_details": "",
+    "obligations": "",
+    "stand_down": "",
+    "income_test": "",
+    "application_process": ""
+  }
+}

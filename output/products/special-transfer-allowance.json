@@ -1,0 +1,40 @@
+{
+  "id": "special-transfer-allowance",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Special Transfer Allowance",
+  "description": "A supplementary allowance providing financial assistance under specific transfer circumstances, with detailed rules around eligibility, payment, and changes in client circumstances.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/extra-help/special-transfer-allowance/index.html",
+  "tags": [
+    "extra-help",
+    "allowance",
+    "transfer",
+    "income-support",
+    "supplementary-payment"
+  ],
+  "related": {
+    "products": [
+      "accommodation-supplement"
+    ],
+    "programmes": [
+      "special-transfer-allowance-programme-2000"
+    ],
+    "policies": [
+      "special-transfer-allowance-tables"
+    ],
+    "processes": [],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "A supplementary allowance providing financial assistance under specific transfer circumstances, with detailed rules around eligibility, payment, and changes in client circumstances.",
+    "eligibility": "",
+    "payment_details": "",
+    "obligations": "",
+    "stand_down": "",
+    "income_test": "",
+    "application_process": ""
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "application-for-benefit",
+  "type": "process",
+  "archimate_type": "BusinessProcess",
+  "name": "Application for benefit",
+  "description": "Guidelines and procedures for processing applications for benefit, including rules around application forms, date of first contact, supporting evidence requirements, IRD number requirements, and investigation of applications.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/core-policy/requests-for-financial-assistance/application-for-benefit/index.html",
+  "tags": [
+    "application",
+    "benefit",
+    "core-policy",
+    "financial-assistance",
+    "IRD-number",
+    "supporting-evidence",
+    "date-of-first-contact"
+  ],
+  "related": {
+    "products": [],
+    "programmes": [],
+    "policies": [
+      "pre-benefit-requirements"
+    ],
+    "processes": [
+      "requests-for-financial-assistance",
+      "application-for-assistance",
+      "re-assessing-previous-applications"
+    ],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Covers the end-to-end process for applying for a benefit, including form usage, lapse rules, date of first contact, extensions, good and sufficient reason, investigating applications, IRD number rules, and supporting evidence.",
+    "steps": [
+      "Introduction",
+      "Guidelines - Application for benefit",
+      "Application form can be used for more than one type of assistance",
+      "Application form may not be required",
+      "Applications from clients living overseas",
+      "Application lapses",
+      "Date of first contact",
+      "Extending the 20 working day period",
+      "Good and sufficient reason",
+      "Investigating applications",
+      "IRD number not required in certain circumstances",
+      "Non-tax resident partner's IRD number not required",
+      "Supporting evidence",
+      "Supporting evidence can be waived",
+      "Notice to provide IRD number evidence"
+    ],
+    "triggers": "",
+    "inputs": "",
+    "outputs": "",
+    "decision_points": ""
+  }
+}

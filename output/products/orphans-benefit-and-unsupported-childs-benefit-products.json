@@ -1,0 +1,51 @@
+{
+  "id": "orphans-benefit-and-unsupported-childs-benefit-products",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Orphans Benefit and Unsupported Childs Benefit products",
+  "description": "A suite of additional assistance products available to caregivers who meet specific qualifications and are receiving Orphans Benefit or Unsupported Childs Benefit.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/extra-help/orphans-benefit-and-unsupported-childs-benefit-products/index.html",
+  "tags": [
+    "extra-help",
+    "orphans-benefit",
+    "unsupported-childs-benefit",
+    "caregiver",
+    "clothing-allowance",
+    "establishment-grant",
+    "extraordinary-care",
+    "holiday-allowance",
+    "birthday-allowance",
+    "school-start-up",
+    "non-taxable",
+    "non-recoverable"
+  ],
+  "related": {
+    "products": [
+      "orphans-benefit-and-unsupported-childs-benefit",
+      "clothing-allowance",
+      "extraordinary-care-fund",
+      "holiday-allowance-and-birthday-allowance",
+      "school-and-year-start-up-payment"
+    ],
+    "programmes": [
+      "orphans-and-ucb-additional-assistance-programme"
+    ],
+    "policies": [
+      "orphans-benefit-and-unsupported-childs-benefit-tables"
+    ],
+    "processes": [],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Additional financial assistance products for caregivers receiving Orphans Benefit or Unsupported Childs Benefit, covering clothing, establishment costs, extraordinary care needs, holiday and birthday celebrations, and school start-up costs.",
+    "eligibility": "Caregivers who meet specific qualifications and are receiving Orphans Benefit or Unsupported Childs Benefit",
+    "payment_details": "Includes Clothing Allowance (weekly payment, automatic), Establishment Grant (one-off payment, automatic on approval), Extraordinary Care Fund (grant, application required), Holiday Allowance and Birthday Allowance (annual payment, generally automatic), and School and Year Start-up Payment (annual payment, application required). All components are non-taxable.",
+    "obligations": "",
+    "stand_down": "",
+    "income_test": "",
+    "application_process": "Some components (Extraordinary Care Fund, School and Year Start-up Payment) require clients to apply. Others are paid automatically (Clothing Allowance, Establishment Grant, Holiday and Birthday Allowance)."
+  }
+}

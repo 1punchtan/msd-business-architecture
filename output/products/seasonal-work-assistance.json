@@ -1,0 +1,43 @@
+{
+  "id": "seasonal-work-assistance",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Seasonal Work Assistance",
+  "description": "Financial assistance for people undertaking seasonal work, particularly in the horticultural and viticultural industries, subject to income and asset testing and a qualifying period.",
+  "source_url": "https://www.workandincome.govt.nz/map/employment-and-training/specific-employment-related-assistance/seasonal-work-assistance/index.html",
+  "tags": [
+    "employment",
+    "seasonal work",
+    "horticulture",
+    "viticulture",
+    "income test",
+    "asset test",
+    "working age benefit"
+  ],
+  "related": {
+    "products": [
+      "specific-employment-related-assistance",
+      "employment-and-work-readiness-assistance"
+    ],
+    "programmes": [
+      "seasonal-work-assistance-programme"
+    ],
+    "policies": [],
+    "processes": [],
+    "actors": [],
+    "concepts": [],
+    "cards": [
+      "seasonal-work-assistance-tables"
+    ],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Financial assistance for people undertaking seasonal work, particularly in the horticultural and viticultural industries, subject to income and asset testing and a qualifying period.",
+    "eligibility": "",
+    "payment_details": "",
+    "obligations": "",
+    "stand_down": "",
+    "income_test": "",
+    "application_process": ""
+  }
+}

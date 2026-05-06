@@ -1,0 +1,56 @@
+{
+  "id": "cost-of-living-payment",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Cost of Living Payments",
+  "description": "Cost of Living Payments are paid by Inland Revenue to individuals who meet set eligibility criteria, including having net income of $70,000 or less in the 2021/22 tax year.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/core-policy/income/types-of-income/cost-of-living-payment.html",
+  "tags": [
+    "cost-of-living",
+    "income-support",
+    "inland-revenue",
+    "income-exemption",
+    "hardship",
+    "automatic-payment"
+  ],
+  "related": {
+    "products": [
+      "winter-energy-payment",
+      "accommodation-supplement",
+      "advance-payment-of-benefit",
+      "childcare-assistance-programme",
+      "community-costs",
+      "disability-allowance",
+      "employment-and-work-readiness-assistance",
+      "flexible-funding-assistance",
+      "housing-support-products",
+      "recoverable-assistance-payment",
+      "residential-care-subsidy",
+      "residential-support-subsidy",
+      "social-rehabilitation-assistance",
+      "special-benefit",
+      "special-needs-grant",
+      "student-allowance",
+      "student-allowance-transfer-grant",
+      "temporary-additional-support",
+      "new-zealand-superannuation",
+      "veterans-pension"
+    ],
+    "programmes": [],
+    "policies": [],
+    "processes": [],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "A $350 payment administered by Inland Revenue to eligible individuals earning $70,000 or less in 2021/22, paid in instalments or as a lump sum. Exempt from income and cash asset tests for key MSD products for 12 months from receipt.",
+    "eligibility": "Net income of $70,000 or less in 2021/22 tax year. Individuals receiving a qualifying benefit for Winter Energy Payment are not eligible. Administered by Inland Revenue to those with a NZ bank account registered with them.",
+    "payment_details": "Total payment of $350, generally paid in 3 instalments: $116.67 on the first working day of August 2022, $116.67 on the first working day of September 2022, and $116.66 on the first working day of October 2022. Alternatively, a one-off lump sum payment available up to 31 March 2024.",
+    "obligations": "",
+    "stand_down": "",
+    "income_test": "Net income of $70,000 or less in 2021/22 tax year. Payment is exempt from income and cash asset tests for key MSD products for 12 months from date of each payment.",
+    "application_process": "No application required. Inland Revenue automatically assesses eligibility and pays individuals with a NZ bank account registered with them."
+  }
+}

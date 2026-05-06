@@ -1,0 +1,52 @@
+{
+  "id": "orphans-benefit-and-unsupported-childs-benefit",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Orphans Benefit and Unsupported Childs Benefit",
+  "description": "A benefit for caregivers of orphaned or unsupported children that provides financial assistance with detailed rules around qualifications, residence, Oranga Tamariki involvement, payment, obligations, and change management.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/main-benefits/orphans-benefit-and-unsupported-childs-benefit/index.html",
+  "tags": [
+    "main-benefit",
+    "orphans-benefit",
+    "unsupported-childs-benefit",
+    "caregiver",
+    "child-support",
+    "Oranga-Tamariki",
+    "residence",
+    "payment",
+    "obligations"
+  ],
+  "related": {
+    "products": [
+      "orphans-benefit-and-unsupported-childs-benefit-products"
+    ],
+    "programmes": [
+      "orphans-and-ucb-additional-assistance-programme"
+    ],
+    "policies": [
+      "child-support"
+    ],
+    "processes": [
+      "application-for-benefit",
+      "duty-to-advise-of-changes-in-circumstances",
+      "reviews-and-appeals"
+    ],
+    "actors": [],
+    "concepts": [
+      "child-support-income",
+      "residence",
+      "income"
+    ],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "The Orphans Benefit and Unsupported Child's Benefit provides financial assistance to eligible caregivers of orphaned or unsupported children, with detailed rules around qualifications, residence, Oranga Tamariki involvement, payment, obligations, and change management.",
+    "eligibility": "Eligible caregivers must meet age requirements, be approved as eligible caregivers, have parents unable to provide care, meet resident status requirements. Parent applies or caregiver applies based on circumstances.",
+    "payment_details": "Payment components include caregiver's income assessment, child's income assessment, establishment grant, and payment via bank account or credit union. Payment is subject to income testing and deductions including Ministry of Social Development debt repayments, Debt Repayment Orders, Court attachment orders, protected earnings rate considerations, and Inland Revenue deduction notices.",
+    "obligations": "Caregivers must advise of changes in circumstances including absence from New Zealand, change of address, change of caregiver, death of caregiver or child, and hospitalisation. Child support obligations apply. Oranga Tamariki provisions and arrangements apply as relevant.",
+    "stand_down": "",
+    "income_test": "Benefit is subject to income testing based on caregiver's income and child's income. Income thresholds and abatement rates apply.",
+    "application_process": "application-for-benefit"
+  }
+}

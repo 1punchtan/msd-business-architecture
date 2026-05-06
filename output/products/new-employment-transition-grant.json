@@ -1,0 +1,40 @@
+{
+  "id": "new-employment-transition-grant",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "New Employment Transition Grant",
+  "description": "A grant providing financial assistance for employment transitions, with criteria around residency, qualifying period, cash assets, sick leave, childcare, and self-employment.",
+  "source_url": "https://www.workandincome.govt.nz/map/employment-and-training/specific-employment-related-assistance/new-employment-transition-grant/index.html",
+  "tags": [
+    "employment",
+    "grant",
+    "transition",
+    "financial assistance",
+    "self-employment",
+    "childcare"
+  ],
+  "related": {
+    "products": [
+      "specific-employment-related-assistance",
+      "employment-and-work-readiness-assistance"
+    ],
+    "programmes": [
+      "new-employment-transition-grant-programme"
+    ],
+    "policies": [],
+    "processes": [],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "A grant providing financial assistance for employment transitions, with criteria around residency, qualifying period, cash assets, sick leave, childcare, and self-employment.",
+    "eligibility": "",
+    "payment_details": "",
+    "obligations": "",
+    "stand_down": "",
+    "income_test": "",
+    "application_process": ""
+  }
+}

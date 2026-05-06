@@ -1,0 +1,43 @@
+{
+  "id": "students--agents",
+  "type": "process",
+  "archimate_type": "BusinessProcess",
+  "name": "Agents",
+  "description": "Covers the processes and rules around agents acting on behalf of students, including court-appointed agents, Power of Attorney, Enduring Power of Attorney, appointing agents without informed consent, and how organisations or companies act as agents.",
+  "source_url": "https://www.workandincome.govt.nz/map/students/agents/index.html",
+  "tags": [
+    "agents",
+    "students",
+    "power of attorney",
+    "court order",
+    "organisation",
+    "student support"
+  ],
+  "related": {
+    "products": [],
+    "programmes": [],
+    "policies": [],
+    "processes": [],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Guidance on agent arrangements for student support, including court orders, power of attorney, organisational agents, telephone contact, and discretion not to deal with an agent.",
+    "steps": [
+      "Agent appointed by a Court Order",
+      "Power of Attorney",
+      "Enduring Power of Attorney",
+      "Appointing an agent without the student's informed consent",
+      "When an organisation or company acts as an agent",
+      "Process for organisations or companies",
+      "Contact by telephone",
+      "Discretion not to deal with an agent"
+    ],
+    "triggers": "",
+    "inputs": "",
+    "outputs": "",
+    "decision_points": ""
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "assessment-of-eligibility",
+  "type": "process",
+  "archimate_type": "BusinessProcess",
+  "name": "Assessment of eligibility",
+  "description": "A comprehensive process for assessing eligibility for social housing, covering qualifications, household composition, bedroom allocation, housing need priority ratings, fast-track provisions, assessments for current tenants, transfers, and reviews and appeals.",
+  "source_url": "https://www.workandincome.govt.nz/map/social-housing/assessment-of-eligibility/index.html",
+  "tags": [
+    "social housing",
+    "eligibility",
+    "assessment",
+    "housing need",
+    "priority rating",
+    "fast-track",
+    "income related rent",
+    "transfers",
+    "reviews and appeals",
+    "household composition",
+    "residence"
+  ],
+  "related": {
+    "products": [
+      "emergency-housing",
+      "orphans-benefit-and-unsupported-childs-benefit"
+    ],
+    "programmes": [],
+    "policies": [
+      "eligibility-for-social-housing-direction",
+      "continued-eligibility-for-social-housing-direction",
+      "tailored-agreements-with-social-housing-providers-direction"
+    ],
+    "processes": [
+      "income-related-rent",
+      "income-related-rent-debt",
+      "income-related-rent-subsidy",
+      "register-management-and-referrals",
+      "tenancy-reviews",
+      "reviews-and-appeals",
+      "reviews-of-continued-eligibility-for-social-housing",
+      "duty-to-advise-of-changes-in-circumstances"
+    ],
+    "actors": [],
+    "concepts": [
+      "residence",
+      "income",
+      "child-support-income"
+    ],
+    "cards": [],
+    "social_housing": [
+      "social-housing-tables"
+    ]
+  },
+  "attributes": {
+    "summary": "The social housing assessment of eligibility process determines whether clients qualify for social housing by evaluating residency, income and asset limits, household composition, and housing need through a structured priority rating system. It also covers fast-track provisions, tenancy changes, transfers, and review rights.",
+    "steps": [
+      "Verify qualifications: age, residence (2+ years continuous NZ residence, refugee/protected person, Christchurch Response Visa), main benefit entitlement, and specific residency circumstances",
+      "Assess financial limits: evaluate assessable income, cash assets, and exceptions to income and asset limits",
+      "Determine household composition: identify applicable persons, signatory obligations, additional occupants, dependent children, carer or support persons, and bedroom allocation",
+      "Evaluate housing need through priority rating dimensions: adequacy, suitability, affordability, accessibility, and sustainability of current and alternative housing",
+      "Apply fast-track provisions if applicable: rheumatic fever risk, Oranga Tamariki custody, or 12+ weeks in emergency housing",
+      "For current tenants, assess changes to tenancy agreement, join-in existing tenancy, release from joint tenancy, death of client, or transfers",
+      "Process three-stage review procedure and appeals to Social Security Appeal Authority if needed",
+      "Review Income Related Rent debts where applicable"
+    ],
+    "triggers": "Client applies for social housing or undergoes eligibility review; changes in circumstances affecting eligibility; tenure changes or transfers requested",
+    "inputs": "Client personal information, residency documentation, income and asset statements, household composition details, current housing situation, benefit status, special circumstances documentation",
+    "outputs": "Eligibility determination, priority rating score, bedroom allocation, fast-track status, Income Related Rent assessment, review and appeal rights notification, transfer or tenancy change decisions",
+    "decision_points": "Does client meet residency requirements? Is income and assets within limits? What is household composition? What is priority rating based on housing need dimensions? Does client qualify for fast-track? Should tenancy be modified, transferred, or released?"
+  }
+}

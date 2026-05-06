@@ -1,0 +1,85 @@
+{
+  "id": "jobseeker-support-student-hardship",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Jobseeker Support Student Hardship",
+  "description": "A hardship-based benefit for students experiencing financial hardship, covering eligibility, obligations, hardship criteria, sanctions, and payment rules under the Jobseeker Support framework.",
+  "source_url": "https://www.workandincome.govt.nz/map/students/jobseeker-support-student-hardship/index.html",
+  "tags": [
+    "student",
+    "hardship",
+    "jobseeker",
+    "benefit",
+    "obligations",
+    "sanctions",
+    "income",
+    "residence",
+    "work-readiness"
+  ],
+  "related": {
+    "products": [
+      "jobseeker-support",
+      "student-allowance",
+      "student-loan",
+      "supported-living-payment",
+      "sole-parent-support",
+      "young-parent-payment",
+      "youth-payment",
+      "orphans-benefit-and-unsupported-childs-benefit",
+      "special-disability-allowance",
+      "accommodation-supplement",
+      "temporary-additional-support",
+      "special-needs-grant",
+      "away-from-home-allowance",
+      "training-incentive-allowance",
+      "mana-in-mahi"
+    ],
+    "programmes": [],
+    "policies": [
+      "pre-benefit-requirements",
+      "relationship-status-for-benefit",
+      "child-support",
+      "relationship-debt-sharing",
+      "warrant-to-arrest"
+    ],
+    "processes": [
+      "application-for-benefit",
+      "application-for-assistance",
+      "initial-stand-down",
+      "limited-employment-locations",
+      "reviews-and-appeals",
+      "redirection-of-benefit-payment",
+      "duty-to-advise-of-changes-in-circumstances",
+      "current-client-debt",
+      "requests-for-financial-assistance"
+    ],
+    "actors": [],
+    "concepts": [
+      "income",
+      "definition-of-income",
+      "types-of-income",
+      "employment-related-income",
+      "child-support-income",
+      "residence",
+      "income-abatements-and-exemptions",
+      "main-benefits-income-abatement-thresholds",
+      "main-benefits-rates",
+      "main-benefits-cut-out-points",
+      "social-obligations-approved-home-education-program",
+      "portability",
+      "general-portability",
+      "community-services-card"
+    ],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "A hardship-based benefit for students, covering eligibility, obligations, hardship criteria, sanctions, and payment rules under the Jobseeker Support framework.",
+    "eligibility": "Age requirements including 16-17 year olds with parental support gap; residence and immigration status; full-time study; income and cash asset criteria; hardship criteria",
+    "payment_details": "Rate of payment for 16-17 and 18-19 year olds; charging income; deductions; absence from New Zealand; hospitalisation; imprisonment; taxation",
+    "obligations": "Job search requirements; work or work preparation obligations; social obligations (primary health, early childhood education, school enrolment); drug test obligations; work ability assessment obligation; Community Work Experience; Report Job Search; Upskilling",
+    "stand_down": "13-week non-entitlement period",
+    "income_test": "Income and cash asset criteria applied; income abatement thresholds and cut-out points",
+    "application_process": "application-for-benefit"
+  }
+}

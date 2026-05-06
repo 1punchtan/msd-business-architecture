@@ -1,0 +1,49 @@
+{
+  "id": "reciprocal-australia",
+  "type": "policy",
+  "archimate_type": "Constraint",
+  "name": "Reciprocal Australia",
+  "description": "The Social Security Agreement between New Zealand and Australia governs reciprocal entitlements for clients moving between the two countries.",
+  "source_url": "https://www.workandincome.govt.nz/map/to-or-from-overseas/reciprocal-agreements/reciprocal-australia/index.html",
+  "tags": [
+    "reciprocal agreement",
+    "Australia",
+    "overseas",
+    "portability",
+    "New Zealand Superannuation",
+    "Supported Living Payment",
+    "Veterans Pension",
+    "Australian pension",
+    "social security agreement"
+  ],
+  "related": {
+    "products": [
+      "new-zealand-superannuation",
+      "supported-living-payment",
+      "veterans-pension"
+    ],
+    "programmes": [],
+    "policies": [
+      "reciprocal-agreements",
+      "portability",
+      "general-portability",
+      "special-portability"
+    ],
+    "processes": [
+      "reviews-and-appeals"
+    ],
+    "actors": [],
+    "concepts": [
+      "payments-from-overseas"
+    ],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Reciprocal social security agreement between New Zealand and Australia, covering entitlements, payment options, reviews, and administrative procedures for clients moving between both countries.",
+    "rules": "",
+    "exceptions": "",
+    "scope": "",
+    "effective_date": ""
+  }
+}

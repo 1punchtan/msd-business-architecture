@@ -1,0 +1,44 @@
+{
+  "id": "covid-19-short-term-absence-payment",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "COVID-19 Short-Term Absence Payment",
+  "description": "A payment scheme providing financial support for businesses and self-employed workers who cannot work because they or a dependant are required to stay home while awaiting a COVID-19 PCR test result.",
+  "source_url": "https://www.workandincome.govt.nz/map/employment-and-training/specific-employment-related-assistance/covid-19-short-term-absence-payment/index.html",
+  "tags": [
+    "covid-19",
+    "employment",
+    "short-term-absence",
+    "wage-subsidy",
+    "business-support",
+    "self-employed",
+    "health"
+  ],
+  "related": {
+    "products": [
+      "specific-employment-related-assistance",
+      "covid-19-leave-support-scheme",
+      "covid-19-wage-subsidy-modified",
+      "covid-19-resurgence-wage-subsidy-scheme",
+      "covid-19-wage-subsidy-scheme-august-2021",
+      "covid-19-wage-subsidy-scheme-march-2021",
+      "covid-19-wage-subsidy-scheme-extension"
+    ],
+    "programmes": [],
+    "policies": [],
+    "processes": [],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "COVID-19 Short-Term Absence Payment supports businesses and self-employed workers when an employee must miss work while awaiting a COVID-19 PCR test result, including for dependants and specific employment situations. Payment is capped to one per 30-day period and must align with employment law.",
+    "eligibility": "Eligible entities include businesses registered and operating in New Zealand, self-employed persons, and health and disability funded workforce. Ineligible entities include state sector organisations generally. Trigger conditions include employee awaiting COVID-19 PCR test result, dependant awaiting COVID-19 PCR test result, or staying home under public health guidance or requirements. Specific situations covered include people working multiple jobs, self-employed person also an employee, newly hired employees, people getting income from a property business, and workers temporarily overseas unable to return due to COVID-19 restrictions.",
+    "payment_details": "Payment frequency is one payment in a 30-day period. Payment basis is ordinary wages or salary.",
+    "obligations": "",
+    "stand_down": "",
+    "income_test": "",
+    "application_process": ""
+  }
+}

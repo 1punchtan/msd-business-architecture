@@ -1,0 +1,52 @@
+{
+  "id": "emergency-housing",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Emergency Housing",
+  "description": "Emergency Housing provides grants to clients who have an immediate emergency housing need and cannot access other adequate accommodation.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/extra-help/emergency-housing/index.html",
+  "tags": [
+    "emergency housing",
+    "housing",
+    "grant",
+    "extra help",
+    "income support",
+    "security deposit",
+    "transitional housing",
+    "hardship"
+  ],
+  "related": {
+    "products": [
+      "housing-support-products",
+      "jobseeker-support",
+      "new-zealand-superannuation",
+      "veterans-pension",
+      "family-tax-credit"
+    ],
+    "programmes": [
+      "emergency-housing-grants-programme"
+    ],
+    "policies": [
+      "emergency-housing-grant-tables"
+    ],
+    "processes": [
+      "requests-for-financial-assistance"
+    ],
+    "actors": [],
+    "concepts": [
+      "income",
+      "residence"
+    ],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "A grant product providing short-term emergency accommodation funding for clients with an immediate housing need, subject to income/asset limits, client responsibilities, and supplier standards.",
+    "eligibility": "Subject to income and cash asset limits, residence criteria. Covers actual and reasonable costs for emergency housing with security deposit grant included.",
+    "payment_details": "Emergency housing contribution calculated based on net weekly income and Jobseeker Support rates. Payments made to opted-in or non-opted-in suppliers meeting emergency housing supplier standards. Longer grant periods available during low availability, pandemic, natural disaster or other emergency event.",
+    "obligations": "Clients must pay emergency housing contribution, make reasonable efforts to obtain other housing, and engage with support services.",
+    "stand_down": "13-week non-entitlement period applies for clients who fail to meet responsibilities, with limited circumstances exceptions.",
+    "income_test": "Income limits and cash asset limits apply. Emergency housing contribution calculated based on net weekly income.",
+    "application_process": ""
+  }
+}

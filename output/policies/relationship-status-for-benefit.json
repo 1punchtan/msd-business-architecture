@@ -1,0 +1,42 @@
+{
+  "id": "relationship-status-for-benefit",
+  "type": "policy",
+  "archimate_type": "Constraint",
+  "name": "Relationship status for benefit",
+  "description": "Policy governing how relationship status is determined for benefit purposes, covering married, civil union, de facto, and living apart situations, including definitions of de facto relationships, emotional commitment, financial interdependence, and family violence considerations.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/core-policy/relationship-status-for-benefit/index.html",
+  "tags": [
+    "relationship-status",
+    "de-facto",
+    "civil-union",
+    "family-violence",
+    "benefit-eligibility",
+    "core-policy"
+  ],
+  "related": {
+    "products": [
+      "jobseeker-support",
+      "sole-parent-support",
+      "supported-living-payment",
+      "emergency-benefit",
+      "new-zealand-superannuation",
+      "veterans-pension",
+      "young-parent-payment",
+      "youth-payment"
+    ],
+    "programmes": [],
+    "policies": [],
+    "processes": [],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Defines and governs how a client's relationship status is assessed and reviewed for benefit eligibility purposes, including rules for partners under 18, married/civil union clients, de facto relationships, and processes for changes and reviews.",
+    "rules": "",
+    "exceptions": "",
+    "scope": "",
+    "effective_date": ""
+  }
+}

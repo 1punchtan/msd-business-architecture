@@ -1,0 +1,56 @@
+{
+  "id": "reviews-and-appeals",
+  "type": "process",
+  "archimate_type": "BusinessProcess",
+  "name": "Reviews and Appeals",
+  "description": "Index page for the Reviews and Appeals process, covering benefit review committees, Medical Appeals Board, Social Security Appeal Authority, and related client rights and procedures.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/core-policy/reviews-and-appeals/index.html",
+  "tags": [
+    "reviews",
+    "appeals",
+    "Social Security Appeal Authority",
+    "Medical Appeals Board",
+    "benefit decisions",
+    "debt review",
+    "client rights"
+  ],
+  "related": {
+    "products": [],
+    "programmes": [],
+    "policies": [
+      "child-support"
+    ],
+    "processes": [
+      "reciprocal-agreements"
+    ],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Index page for the Reviews and Appeals process, covering benefit review committees, Medical Appeals Board, Social Security Appeal Authority, and related client rights and procedures.",
+    "steps": [
+      "Appeals to the Social Security Appeal Authority",
+      "Appeal Authority Process",
+      "When to advise a client of their right to review",
+      "Reviews of information share Child Support payments",
+      "Who can apply for a review or appeal",
+      "Client wishes to withdraw application for review",
+      "Review of decision for debts",
+      "Decisions not reviewable by the Benefit Review Committee",
+      "Medical Appeals Board",
+      "Which decisions can be appealed to a Medical Appeals Board",
+      "Countries with Reciprocal Agreements",
+      "Who can make an appeal?",
+      "Who is on the Medical Appeals Board?",
+      "Rehabilitation professional",
+      "Additional medical examinations",
+      "Re-application for benefit after decline from Medical Appeals Board"
+    ],
+    "triggers": "",
+    "inputs": "",
+    "outputs": "",
+    "decision_points": ""
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "employment-and-work-readiness-assistance",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Employment and work readiness assistance",
+  "description": "A comprehensive employment and work readiness assistance framework covering qualifications, residence requirements, income and asset limits, various forms of employment assistance including wage subsidies, Mana in Mahi incentives, work readiness support, career guidance, education and training costs, and related decision-making processes.",
+  "source_url": "https://www.workandincome.govt.nz/map/employment-and-training/employment-and-work-readiness-assistance/index.html",
+  "tags": [
+    "employment",
+    "work readiness",
+    "wage subsidy",
+    "mana-in-mahi",
+    "training",
+    "career guidance",
+    "self-employment",
+    "disability",
+    "incentive payments"
+  ],
+  "related": {
+    "products": [
+      "mana-in-mahi",
+      "work-bonus",
+      "training-incentive-allowance",
+      "flexi-wage-subsidy",
+      "employment-transition-assistance",
+      "new-employment-transition-grant",
+      "relocate-for-work-support",
+      "seasonal-work-assistance"
+    ],
+    "programmes": [
+      "employment-and-work-readiness-assistance-programme"
+    ],
+    "policies": [],
+    "processes": [
+      "specific-employment-related-assistance"
+    ],
+    "actors": [],
+    "concepts": [
+      "residence",
+      "income"
+    ],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Employment and work readiness assistance provides a range of programmes and services to support clients into employment, including assistance for those caring for others, entering self-employment, transitioning into employment, and those with health conditions or disabilities. It covers payment calculations, bridging finance, work bonus, participation allowances, and exceptional circumstances provisions.",
+    "eligibility": "",
+    "payment_details": "",
+    "obligations": "",
+    "stand_down": "",
+    "income_test": "",
+    "application_process": ""
+  }
+}

@@ -1,0 +1,1282 @@
+[
+  {
+    "id": "students--agents",
+    "url": "https://www.workandincome.govt.nz/map/income-support/core-policy/agents/index.html",
+    "type": "process",
+    "status": "success",
+    "confidence": "medium",
+    "confidence_notes": "The page is clearly about the 'Agents' topic and maps to the known lookup ID 'students--agents', though the lookup name 'Agents' is listed under a student-prefixed ID which is slightly inconsistent with the URL path under 'income-support/core-policy/agents'. The content describes both policy constraints and processes, but 'process' is the best fit given the structured procedural content.",
+    "flag_for_review": false,
+    "output_path": "output/processes/students--agents.json"
+  },
+  {
+    "id": "care-and-protection-concerns-for-a-child-or-young-person",
+    "url": "https://www.workandincome.govt.nz/map/income-support/core-policy/care-and-protection/care-and-protection-concerns-for-a-child-or-young-person.html",
+    "type": "policy",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly describes a policy governing MSD's obligations and guidance for referring care and protection concerns to Oranga Tamariki. The entity type and content are unambiguous.",
+    "flag_for_review": false,
+    "output_path": "output/policies/care-and-protection-concerns-for-a-child-or-young-person.json"
+  },
+  {
+    "id": "child-support",
+    "url": "https://www.workandincome.govt.nz/map/income-support/core-policy/child-support/index.html",
+    "type": "policy",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to a policy entity covering Child Support rules and constraints within MSD's income support framework. Content is structured and consistent with a policy classification.",
+    "flag_for_review": false,
+    "output_path": "output/policies/child-support.json"
+  },
+  {
+    "id": "cost-of-living-payment",
+    "url": "https://www.workandincome.govt.nz/map/income-support/core-policy/income/types-of-income/cost-of-living-payment.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "Page clearly describes a specific payment product with defined eligibility, amounts, payment schedule, and income exemption rules. Maps cleanly to the 'cost-of-living-payment' entity in the lookup.",
+    "flag_for_review": false,
+    "output_path": "output/products/cost-of-living-payment.json"
+  },
+  {
+    "id": "current-client-debt",
+    "url": "https://www.workandincome.govt.nz/map/income-support/core-policy/current-client-debt/index.html",
+    "type": "process",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to a process entity covering debt management procedures, with well-defined topics and a clear operational scope within MSD's income support core policy.",
+    "flag_for_review": false,
+    "output_path": "output/processes/current-client-debt.json"
+  },
+  {
+    "id": "end-of-school-year",
+    "url": "https://www.workandincome.govt.nz/map/income-support/core-policy/end-of-school-year/index.html",
+    "type": "concept",
+    "status": "success",
+    "confidence": "medium",
+    "confidence_notes": "The page is a contents/index page with minimal detail. The entity is classified as a concept given it represents a policy topic area. Content is sparse.",
+    "flag_for_review": false,
+    "output_path": "output/concepts/end-of-school-year.json"
+  },
+  {
+    "id": "familyboost-tax-credit",
+    "url": "https://www.workandincome.govt.nz/map/income-support/core-policy/familyboost-tax-credit/familyboost-tax-credit.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "Page clearly describes FamilyBoost Tax Credit as a product/service with defined eligibility, payment amounts, and interaction with MSD assistance. Entity confirmed in lookup.",
+    "flag_for_review": false,
+    "output_path": "output/products/familyboost-tax-credit.json"
+  },
+  {
+    "id": "income",
+    "url": "https://www.workandincome.govt.nz/map/income-support/core-policy/income/index.html",
+    "type": "concept",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly introduces the 'Income' concept entity as a definitional/policy guidance object. It maps directly to the 'income' id in the lookup.",
+    "flag_for_review": false,
+    "output_path": "output/concepts/income.json"
+  },
+  {
+    "id": "definition-of-income",
+    "url": "https://www.workandincome.govt.nz/map/income-support/core-policy/income/definition-of-income/index.html",
+    "type": "concept",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to a concept/policy definition entity. The URL and content both align with the 'definition-of-income' lookup entry. Content is a table of contents for a structured definition document.",
+    "flag_for_review": false,
+    "output_path": "output/concepts/definition-of-income.json"
+  },
+  {
+    "id": "types-of-income",
+    "url": "https://www.workandincome.govt.nz/map/income-support/core-policy/income/types-of-income/index.html",
+    "type": "concept",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page is clearly a contents index for the 'Types of income' concept node within the MSD MAP policy guide. The entity type 'concept' (BusinessObject) is appropriate as it defines and classifies income types used across policy. The id matches the lookup entry 'types-of-income'.",
+    "flag_for_review": false,
+    "output_path": "output/concepts/types-of-income.json"
+  },
+  {
+    "id": "employment-related-income",
+    "url": "https://www.workandincome.govt.nz/map/income-support/core-policy/income/types-of-income/employment-related-income.html",
+    "type": "concept",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "Page clearly describes a policy concept related to income classification and treatment. Content is substantive and maps directly to the 'employment-related-income' entity in the lookup.",
+    "flag_for_review": false,
+    "output_path": "output/concepts/employment-related-income.json"
+  },
+  {
+    "id": "child-support-income",
+    "url": "https://www.workandincome.govt.nz/map/income-support/core-policy/income/types-of-income/child-support-income/index.html",
+    "type": "concept",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to the 'Child Support income' concept within the types of income policy area. The URL and content align directly with the lookup entry 'child-support-income'.",
+    "flag_for_review": false,
+    "output_path": "output/concepts/child-support-income.json"
+  },
+  {
+    "id": "pre-benefit-requirements",
+    "url": "https://www.workandincome.govt.nz/map/income-support/core-policy/pre-benefit-requirements/index.html",
+    "type": "policy",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to a policy entity governing conditions that must be met before benefit grant. The id matches the lookup exactly.",
+    "flag_for_review": false,
+    "output_path": "output/policies/pre-benefit-requirements.json"
+  },
+  {
+    "id": "redirection-of-benefit-payment",
+    "url": "https://www.workandincome.govt.nz/map/income-support/core-policy/redirection-of-benefit-payment/index.html",
+    "type": "process",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to the 'Redirection of benefit payment' process entity in the lookup, with comprehensive content about policy decision guidelines and procedural steps.",
+    "flag_for_review": false,
+    "output_path": "output/processes/redirection-of-benefit-payment.json"
+  },
+  {
+    "id": "relationship-debt-sharing",
+    "url": "https://www.workandincome.govt.nz/map/income-support/core-policy/relationship-debt-sharing/index.html",
+    "type": "policy",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "Page clearly maps to a policy entity within core income support policy. The topic is a defined policy area with sub-sections on liability, prosecution, and review.",
+    "flag_for_review": false,
+    "output_path": "output/policies/relationship-debt-sharing.json"
+  },
+  {
+    "id": "relationship-status-for-benefit",
+    "url": "https://www.workandincome.govt.nz/map/income-support/core-policy/relationship-status-for-benefit/index.html",
+    "type": "policy",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly describes a core policy area governing relationship status determination for benefit purposes. Content is structured with defined topics and aligns well with the policy entity type.",
+    "flag_for_review": false,
+    "output_path": "output/policies/relationship-status-for-benefit.json"
+  },
+  {
+    "id": "requests-for-financial-assistance",
+    "url": "https://www.workandincome.govt.nz/map/income-support/core-policy/requests-for-financial-assistance/index.html",
+    "type": "process",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "Page clearly maps to a process entity describing the intake and routing of financial assistance requests. Related entity IDs are confirmed in the lookup.",
+    "flag_for_review": false,
+    "output_path": "output/processes/requests-for-financial-assistance.json"
+  },
+  {
+    "id": "application-for-assistance",
+    "url": "https://www.workandincome.govt.nz/map/income-support/core-policy/requests-for-financial-assistance/application-for-assistance/index.html",
+    "type": "process",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to a process entity covering the application for assistance procedure, with well-defined sections and a matching lookup ID.",
+    "flag_for_review": false,
+    "output_path": "output/processes/application-for-assistance.json"
+  },
+  {
+    "id": "application-for-benefit",
+    "url": "https://www.workandincome.govt.nz/map/income-support/core-policy/requests-for-financial-assistance/application-for-benefit/index.html",
+    "type": "process",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to a business process for applying for a benefit, with well-defined procedural steps and guidelines outlined in the contents.",
+    "flag_for_review": false,
+    "output_path": "output/processes/application-for-benefit.json"
+  },
+  {
+    "id": "re-assessing-previous-applications",
+    "url": "https://www.workandincome.govt.nz/map/income-support/core-policy/requests-for-financial-assistance/re-assessing-previous-applications/index.html",
+    "type": "process",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to a process entity covering re-assessment procedures for previous applications, with well-defined procedural steps and policy guidance.",
+    "flag_for_review": false,
+    "output_path": "output/processes/re-assessing-previous-applications.json"
+  },
+  {
+    "id": "residence",
+    "url": "https://www.workandincome.govt.nz/map/income-support/core-policy/residence/index.html",
+    "type": "concept",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to a core policy concept on residence eligibility criteria. The id 'residence' is confirmed in the lookup.",
+    "flag_for_review": false,
+    "output_path": "output/concepts/residence.json"
+  },
+  {
+    "id": "reviews-and-appeals",
+    "url": "https://www.workandincome.govt.nz/map/income-support/core-policy/reviews-and-appeals/index.html",
+    "type": "process",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to a process entity covering the structured review and appeals process within the MSD policy guide. Content is a well-defined contents index for this process area.",
+    "flag_for_review": false,
+    "output_path": "output/processes/reviews-and-appeals.json"
+  },
+  {
+    "id": "use-of-social-housing-benefit-and-student-information",
+    "url": "https://www.workandincome.govt.nz/map/income-support/core-policy/use-of-social-housing-benefit-and-student-information/index.html",
+    "type": "policy",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to a policy entity governing the use and cross-referencing of information across social housing, benefit, and student domains. The id matches the lookup exactly.",
+    "flag_for_review": false,
+    "output_path": "output/policies/use-of-social-housing-benefit-and-student-information.json"
+  },
+  {
+    "id": "warrant-to-arrest",
+    "url": "https://www.workandincome.govt.nz/map/income-support/core-policy/warrant-to-arrest/index.html",
+    "type": "policy",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to a policy entity governing conditions under which benefits are affected by a warrant to arrest. The lookup confirms the id 'warrant-to-arrest'.",
+    "flag_for_review": false,
+    "output_path": "output/policies/warrant-to-arrest.json"
+  },
+  {
+    "id": "accommodation-supplement",
+    "url": "https://www.workandincome.govt.nz/map/income-support/extra-help/accommodation-supplement/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to the Accommodation Supplement product entity. The content is comprehensive and the URL, name, and lookup ID all align perfectly.",
+    "flag_for_review": false,
+    "output_path": "output/products/accommodation-supplement.json"
+  },
+  {
+    "id": "advance-payment-of-benefit",
+    "url": "https://www.workandincome.govt.nz/map/income-support/extra-help/advance-payment-of-benefit/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page is clearly a contents/index page for the Advance Payment of Benefit product, matching the lookup entity directly by name and URL.",
+    "flag_for_review": false,
+    "output_path": "output/products/advance-payment-of-benefit.json"
+  },
+  {
+    "id": "away-from-home-allowance",
+    "url": "https://www.workandincome.govt.nz/map/income-support/extra-help/away-from-home-allowance/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to the Away From Home Allowance product entity, confirmed by the lookup. Content is a table of contents for the allowance policy guide covering qualifications, payment, changes, and deductions.",
+    "flag_for_review": false,
+    "output_path": "output/products/away-from-home-allowance.json"
+  },
+  {
+    "id": "best-start-tax-credit",
+    "url": "https://www.workandincome.govt.nz/map/income-support/extra-help/best-start-tax-credit/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to the Best Start tax credit product entity. The URL, title, and content all align directly with the known lookup entry.",
+    "flag_for_review": false,
+    "output_path": "output/products/best-start-tax-credit.json"
+  },
+  {
+    "id": "child-disability-allowance",
+    "url": "https://www.workandincome.govt.nz/map/income-support/extra-help/child-disability-allowance/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "Page title and content clearly map to the Child Disability Allowance product entity, which is confirmed in the lookup.",
+    "flag_for_review": false,
+    "output_path": "output/products/child-disability-allowance.json"
+  },
+  {
+    "id": "childcare-assistance-programme",
+    "url": "https://www.workandincome.govt.nz/map/income-support/extra-help/childcare-assistance-programme/index.html",
+    "type": "programme",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to the Childcare Assistance Programme entity in the lookup, with comprehensive content covering both Childcare Subsidy and OSCAR Subsidy guidelines.",
+    "flag_for_review": false,
+    "output_path": "output/programmes/childcare-assistance-programme.json"
+  },
+  {
+    "id": "christchurch-mosques-attack-assistance",
+    "url": "https://www.workandincome.govt.nz/map/income-support/extra-help/christchurch-mosques-attack-assistance/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to a specific product (Christchurch Mosques Attack Assistance) with a confirmed lookup ID, and the content is a detailed table of contents for that product.",
+    "flag_for_review": false,
+    "output_path": "output/products/christchurch-mosques-attack-assistance.json"
+  },
+  {
+    "id": "civilian-amputee-assistance",
+    "url": "https://www.workandincome.govt.nz/map/income-support/extra-help/civilian-amputee-assistance/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "Page clearly maps to a specific extra help product for civilian amputees. Entity confirmed in lookup as 'civilian-amputee-assistance'.",
+    "flag_for_review": false,
+    "output_path": "output/products/civilian-amputee-assistance.json"
+  },
+  {
+    "id": "community-costs",
+    "url": "https://www.workandincome.govt.nz/map/income-support/extra-help/community-costs/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to the Community Costs product entity, confirmed by the lookup. Content is comprehensive covering qualifications, payment, allowable costs, deductions, and reviews.",
+    "flag_for_review": false,
+    "output_path": "output/products/community-costs.json"
+  },
+  {
+    "id": "disability-allowance",
+    "url": "https://www.workandincome.govt.nz/map/income-support/extra-help/disability-allowance/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to the Disability Allowance product entity, confirmed by lookup ID 'disability-allowance'. Content is comprehensive covering qualifications, income test, types of costs, payment, changes, reviews, and related provisions.",
+    "flag_for_review": false,
+    "output_path": "output/products/disability-allowance.json"
+  },
+  {
+    "id": "early-learning-payment",
+    "url": "https://www.workandincome.govt.nz/map/income-support/extra-help/early-learning-payment/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly describes an early learning payment product with its contents index, matching the known entity 'Early Learning Payment' (id: early-learning-payment).",
+    "flag_for_review": false,
+    "output_path": "output/products/early-learning-payment.json"
+  },
+  {
+    "id": "emergency-housing",
+    "url": "https://www.workandincome.govt.nz/map/income-support/extra-help/emergency-housing/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to a product (BusinessService) entity. The content is comprehensive and directly describes the Emergency Housing Grant product, its eligibility, calculation, and operational rules. The id 'emergency-housing' is confirmed in the lookup.",
+    "flag_for_review": false,
+    "output_path": "output/products/emergency-housing.json"
+  },
+  {
+    "id": "family-tax-credit",
+    "url": "https://www.workandincome.govt.nz/map/income-support/extra-help/family-tax-credit/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to a product (Family Tax Credit) with a well-defined structure covering eligibility, payment, and review processes.",
+    "flag_for_review": false,
+    "output_path": "output/products/family-tax-credit.json"
+  },
+  {
+    "id": "flexible-childcare-assistance",
+    "url": "https://www.workandincome.govt.nz/map/income-support/extra-help/flexible-childcare-assistance/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to the 'flexible-childcare-assistance' product entity in the lookup. Content is a detailed contents page for the product covering qualifications, payment, and lifecycle events.",
+    "flag_for_review": false,
+    "output_path": "output/products/flexible-childcare-assistance.json"
+  },
+  {
+    "id": "flexible-funding-assistance",
+    "url": "https://www.workandincome.govt.nz/map/income-support/extra-help/flexible-funding-assistance/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "Page clearly maps to the Flexible Funding Assistance product entity, with comprehensive content covering qualifications, payment rules, and eligibility criteria.",
+    "flag_for_review": false,
+    "output_path": "output/products/flexible-funding-assistance.json"
+  },
+  {
+    "id": "funeral-grant",
+    "url": "https://www.workandincome.govt.nz/map/income-support/extra-help/funeral-grant/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to the Funeral Grant product entity, confirmed by the lookup ID 'funeral-grant'. Content is a structured table of contents for this product.",
+    "flag_for_review": false,
+    "output_path": "output/products/funeral-grant.json"
+  },
+  {
+    "id": "guaranteed-childcare-assistance-payment",
+    "url": "https://www.workandincome.govt.nz/map/income-support/extra-help/guaranteed-childcare-assistance-payment/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly describes a specific financial assistance product (Guaranteed Childcare Assistance Payment) with detailed eligibility, payment, and administrative rules. The entity type and ID match directly with the lookup.",
+    "flag_for_review": false,
+    "output_path": "output/products/guaranteed-childcare-assistance-payment.json"
+  },
+  {
+    "id": "home-help",
+    "url": "https://www.workandincome.govt.nz/map/income-support/extra-help/home-help/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to the Home Help product entity, confirmed by the lookup ID 'home-help'. Content is comprehensive covering qualifications, support types, payment, and review processes.",
+    "flag_for_review": false,
+    "output_path": "output/products/home-help.json"
+  },
+  {
+    "id": "house-modification-funding",
+    "url": "https://www.workandincome.govt.nz/map/income-support/extra-help/house-modification-funding/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The URL and page title clearly identify this as the House Modification Funding product page, which matches the known entity lookup.",
+    "flag_for_review": false,
+    "output_path": "output/products/house-modification-funding.json"
+  },
+  {
+    "id": "housing-support-products",
+    "url": "https://www.workandincome.govt.nz/map/income-support/extra-help/housing-support-products/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "Page clearly describes a product group (Housing Support Products) with well-defined sub-products, recovery types, and eligibility conditions. Entity type and content are unambiguous.",
+    "flag_for_review": false,
+    "output_path": "output/products/housing-support-products.json"
+  },
+  {
+    "id": "bond-grant",
+    "url": "https://www.workandincome.govt.nz/map/income-support/extra-help/housing-support-products/bond-grant/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly describes a specific product (Bond Grant) under Housing Support Products, with well-defined eligibility, assessment, and payment sections.",
+    "flag_for_review": false,
+    "output_path": "output/products/bond-grant.json"
+  },
+  {
+    "id": "moving-costs-grant",
+    "url": "https://www.workandincome.govt.nz/map/income-support/extra-help/housing-support-products/moving-costs-grant/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly describes a specific financial assistance product (Moving Costs Grant) under Housing Support Products, with detailed eligibility, assessment, and payment content. Strongly maps to the 'product' entity type.",
+    "flag_for_review": false,
+    "output_path": "output/products/moving-costs-grant.json"
+  },
+  {
+    "id": "accommodation-costs-arrears-grant",
+    "url": "https://www.workandincome.govt.nz/map/income-support/extra-help/housing-support-products/accommodation-costs-arrears-grant/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly describes a specific financial assistance product (grant) with detailed eligibility criteria, assessment factors, and payment conditions. It maps directly to the known entity 'Accommodation Costs Arrears Grant'.",
+    "flag_for_review": false,
+    "output_path": "output/products/accommodation-costs-arrears-grant.json"
+  },
+  {
+    "id": "accommodation-costs-in-advance-grant",
+    "url": "https://www.workandincome.govt.nz/map/income-support/extra-help/housing-support-products/accommodation-costs-in-advance-grant/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "Page clearly describes a specific housing support product with detailed eligibility, assessment, and payment information. Entity type and ID confirmed from lookup.",
+    "flag_for_review": false,
+    "output_path": "output/products/accommodation-costs-in-advance-grant.json"
+  },
+  {
+    "id": "tenancy-costs-cover",
+    "url": "https://www.workandincome.govt.nz/map/income-support/extra-help/housing-support-products/tenancy-costs-cover/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "Page clearly maps to a specific product (Tenancy Costs Cover) within the Housing Support Products group. Content is structured and complete with qualification, assessment, and payment sections.",
+    "flag_for_review": false,
+    "output_path": "output/products/tenancy-costs-cover.json"
+  },
+  {
+    "id": "transition-to-alternative-housing-grant",
+    "url": "https://www.workandincome.govt.nz/map/income-support/extra-help/housing-support-products/transition-to-alternative-housing-grant/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "Page clearly maps to a product (grant) entity with well-defined content sections.",
+    "flag_for_review": false,
+    "output_path": "output/products/transition-to-alternative-housing-grant.json"
+  },
+  {
+    "id": "accommodation-security-cover-grant",
+    "url": "https://www.workandincome.govt.nz/map/income-support/extra-help/housing-support-products/accommodation-security-cover-grant/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "Page clearly maps to a specific financial assistance product (grant) with detailed eligibility, assessment, and payment criteria. Content is comprehensive and unambiguous.",
+    "flag_for_review": false,
+    "output_path": "output/products/accommodation-security-cover-grant.json"
+  },
+  {
+    "id": "in-work-tax-credit",
+    "url": "https://www.workandincome.govt.nz/map/income-support/extra-help/in-work-tax-credit/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "medium",
+    "confidence_notes": "The page is a contents/index page with minimal detail. The entity type 'product' is inferred from the product nature of in-work tax credit as extra help under income support. Content is sparse as it only lists section headings.",
+    "flag_for_review": false,
+    "output_path": "output/products/in-work-tax-credit.json"
+  },
+  {
+    "id": "orphans-benefit-and-unsupported-childs-benefit-products",
+    "url": "https://www.workandincome.govt.nz/map/income-support/extra-help/orphans-benefit-and-unsupported-childs-benefit-products/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "Page clearly describes a grouped set of additional assistance products under a single parent product page. Entity type and ID confirmed via lookup.",
+    "flag_for_review": false,
+    "output_path": "output/products/orphans-benefit-and-unsupported-childs-benefit-products.json"
+  },
+  {
+    "id": "clothing-allowance",
+    "url": "https://www.workandincome.govt.nz/map/income-support/extra-help/orphans-benefit-and-unsupported-childs-benefit-products/clothing-allowance/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "Page clearly describes the Clothing Allowance as a product within the Orphans Benefit and Unsupported Child's Benefit product group, with comprehensive coverage of eligibility, payment, and review topics.",
+    "flag_for_review": false,
+    "output_path": "output/products/clothing-allowance.json"
+  },
+  {
+    "id": "extraordinary-care-fund",
+    "url": "https://www.workandincome.govt.nz/map/income-support/extra-help/orphans-benefit-and-unsupported-childs-benefit-products/extraordinary-care-fund/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "medium",
+    "confidence_notes": "The page is clearly about a specific product (Extraordinary Care Fund) within the extra help / Orphans Benefit suite, but the page text is sparse (only a table of contents), so full content details are not available.",
+    "flag_for_review": false,
+    "output_path": "output/products/extraordinary-care-fund.json"
+  },
+  {
+    "id": "holiday-allowance-and-birthday-allowance",
+    "url": "https://www.workandincome.govt.nz/map/income-support/extra-help/orphans-benefit-and-unsupported-childs-benefit-products/holiday-allowance-and-birthday-allowance/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to a product entity for Holiday Allowance and Birthday Allowance under the Orphans Benefit and Unsupported Child's Benefit products section. The ID is confirmed in the lookup.",
+    "flag_for_review": false,
+    "output_path": "output/products/holiday-allowance-and-birthday-allowance.json"
+  },
+  {
+    "id": "school-and-year-start-up-payment",
+    "url": "https://www.workandincome.govt.nz/map/income-support/extra-help/orphans-benefit-and-unsupported-childs-benefit-products/school-and-year-start-up-payment/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "medium",
+    "confidence_notes": "Page content is sparse (only a table of contents), so the entity type is inferred from the name and URL context. Classification as a product is consistent with similar payment entities in the lookup.",
+    "flag_for_review": false,
+    "output_path": "output/products/school-and-year-start-up-payment.json"
+  },
+  {
+    "id": "recoverable-assistance-payment",
+    "url": "https://www.workandincome.govt.nz/map/income-support/extra-help/recoverable-assistance-payment/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to the Recoverable Assistance Payment product entity, confirmed by the lookup ID 'recoverable-assistance-payment'. Content is comprehensive covering qualifications, payment categories, and recovery.",
+    "flag_for_review": false,
+    "output_path": "output/products/recoverable-assistance-payment.json"
+  },
+  {
+    "id": "residential-care-loan",
+    "url": "https://www.workandincome.govt.nz/map/income-support/extra-help/residential-care-loan/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly describes the Residential Care Loan product with comprehensive coverage of eligibility, terms, repayment, and application process. The entity type as a product/BusinessService is well-supported.",
+    "flag_for_review": false,
+    "output_path": "output/products/residential-care-loan.json"
+  },
+  {
+    "id": "residential-care-subsidy",
+    "url": "https://www.workandincome.govt.nz/map/income-support/extra-help/residential-care-subsidy/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to the Residential Care Subsidy product entity. The URL, title, and content all consistently identify this as a single product with detailed policy and process content around eligibility, means assessment, and reviews.",
+    "flag_for_review": false,
+    "output_path": "output/products/residential-care-subsidy.json"
+  },
+  {
+    "id": "residential-support-subsidy",
+    "url": "https://www.workandincome.govt.nz/map/income-support/extra-help/residential-support-subsidy/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to the Residential Support Subsidy product entity, confirmed against the lookup. Content is comprehensive covering qualifications, payment, and related entitlements.",
+    "flag_for_review": false,
+    "output_path": "output/products/residential-support-subsidy.json"
+  },
+  {
+    "id": "social-rehabilitation-assistance",
+    "url": "https://www.workandincome.govt.nz/map/income-support/extra-help/social-rehabilitation-assistance/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "Page clearly maps to the Social Rehabilitation Assistance product entity. Lookup confirms id 'social-rehabilitation-assistance'. Content is comprehensive covering qualifications, payment, and changes/reviews.",
+    "flag_for_review": false,
+    "output_path": "output/products/social-rehabilitation-assistance.json"
+  },
+  {
+    "id": "special-benefit",
+    "url": "https://www.workandincome.govt.nz/map/income-support/extra-help/special-benefit/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page is clearly a contents/index page for the Special Benefit product, which maps directly to the 'special-benefit' entity in the lookup. Content is comprehensive.",
+    "flag_for_review": false,
+    "output_path": "output/products/special-benefit.json"
+  },
+  {
+    "id": "special-disability-allowance",
+    "url": "https://www.workandincome.govt.nz/map/income-support/extra-help/disability-allowance/special-disability-allowance.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "Page clearly describes a single product (Special Disability Allowance) with well-defined eligibility criteria, grant conditions, and cessation rules.",
+    "flag_for_review": false,
+    "output_path": "output/products/special-disability-allowance.json"
+  },
+  {
+    "id": "special-needs-grant",
+    "url": "https://www.workandincome.govt.nz/map/income-support/extra-help/special-needs-grant/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to the Special Needs Grant product entity, with confirmed lookup ID. The content is comprehensive covering qualifications, payment types, client groups, and operational processes.",
+    "flag_for_review": false,
+    "output_path": "output/products/special-needs-grant.json"
+  },
+  {
+    "id": "special-transfer-allowance",
+    "url": "https://www.workandincome.govt.nz/map/income-support/extra-help/special-transfer-allowance/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "Page clearly maps to a named product (Special Transfer Allowance) within the extra help/income support section. Content is a table of contents for the product page.",
+    "flag_for_review": false,
+    "output_path": "output/products/special-transfer-allowance.json"
+  },
+  {
+    "id": "student-allowance-transfer-grant",
+    "url": "https://www.workandincome.govt.nz/map/income-support/extra-help/student-allowance-transfer-grant/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page title and URL clearly identify this as the Student Allowance Transfer Grant product page, matching the known lookup entry directly.",
+    "flag_for_review": false,
+    "output_path": "output/products/student-allowance-transfer-grant.json"
+  },
+  {
+    "id": "temporary-accommodation-assistance-niwe",
+    "url": "https://www.workandincome.govt.nz/map/income-support/extra-help/temporary-accommodation-assistance-niwe/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to a product (financial assistance product) with a well-defined structure covering qualifications, payments, changes, and reviews. The lookup confirms the id 'temporary-accommodation-assistance-niwe'.",
+    "flag_for_review": false,
+    "output_path": "output/products/temporary-accommodation-assistance-niwe.json"
+  },
+  {
+    "id": "temporary-additional-support",
+    "url": "https://www.workandincome.govt.nz/map/income-support/extra-help/temporary-additional-support/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "Page clearly maps to a single product entity (Temporary Additional Support) with comprehensive policy and eligibility detail. ID confirmed against lookup.",
+    "flag_for_review": false,
+    "output_path": "output/products/temporary-additional-support.json"
+  },
+  {
+    "id": "vehicle-modification-funding",
+    "url": "https://www.workandincome.govt.nz/map/income-support/extra-help/vehicle-modification-funding/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to a product (BusinessService) entity for Vehicle Modification Funding under extra help/income support. Content is structured with standard eligibility and payment sections.",
+    "flag_for_review": false,
+    "output_path": "output/products/vehicle-modification-funding.json"
+  },
+  {
+    "id": "winter-energy-payment",
+    "url": "https://www.workandincome.govt.nz/map/income-support/extra-help/winter-energy-payment/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to the Winter Energy Payment product entity, confirmed by both the URL and the lookup table. Content is comprehensive and complete.",
+    "flag_for_review": false,
+    "output_path": "output/products/winter-energy-payment.json"
+  },
+  {
+    "id": "emergency-benefit",
+    "url": "https://www.workandincome.govt.nz/map/income-support/main-benefits/emergency-benefit/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page is clearly an index/contents page for the Emergency Benefit main benefit product. The entity type and ID are unambiguous and confirmed in the lookup.",
+    "flag_for_review": false,
+    "output_path": "output/products/emergency-benefit.json"
+  },
+  {
+    "id": "emergency-maintenance-allowance",
+    "url": "https://www.workandincome.govt.nz/map/income-support/main-benefits/emergency-maintenance-allowance/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "Page clearly maps to a single product entity (Emergency Maintenance Allowance) with comprehensive policy content. The lookup confirms the ID as 'emergency-maintenance-allowance'.",
+    "flag_for_review": false,
+    "output_path": "output/products/emergency-maintenance-allowance.json"
+  },
+  {
+    "id": "jobseeker-support",
+    "url": "https://www.workandincome.govt.nz/map/income-support/main-benefits/jobseeker-support/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to the Jobseeker Support main benefit product, confirmed by both the page title and the lookup ID 'jobseeker-support'. Content is comprehensive.",
+    "flag_for_review": false,
+    "output_path": "output/products/jobseeker-support.json"
+  },
+  {
+    "id": "new-zealand-superannuation",
+    "url": "https://www.workandincome.govt.nz/map/income-support/main-benefits/new-zealand-superannuation/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to a single product entity — New Zealand Superannuation — with comprehensive policy content covering eligibility, payment, reviews, and obligations. The entity ID is confirmed in the lookup.",
+    "flag_for_review": false,
+    "output_path": "output/products/new-zealand-superannuation.json"
+  },
+  {
+    "id": "orphans-benefit-and-unsupported-childs-benefit",
+    "url": "https://www.workandincome.govt.nz/map/income-support/main-benefits/orphans-benefit-and-unsupported-childs-benefit/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to the Orphans Benefit and Unsupported Child's Benefit product, confirmed by the lookup ID and comprehensive policy content.",
+    "flag_for_review": false,
+    "output_path": "output/products/orphans-benefit-and-unsupported-childs-benefit.json"
+  },
+  {
+    "id": "sole-parent-support",
+    "url": "https://www.workandincome.govt.nz/map/income-support/main-benefits/sole-parent-support/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to the Sole Parent Support main benefit product with comprehensive policy content. The lookup ID 'sole-parent-support' is confirmed.",
+    "flag_for_review": false,
+    "output_path": "output/products/sole-parent-support.json"
+  },
+  {
+    "id": "supported-living-payment",
+    "url": "https://www.workandincome.govt.nz/map/income-support/main-benefits/supported-living-payment/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page is clearly dedicated to the Supported Living Payment main benefit product, with comprehensive policy coverage. The entity ID is confirmed in the lookup.",
+    "flag_for_review": false,
+    "output_path": "output/products/supported-living-payment.json"
+  },
+  {
+    "id": "veterans-pension",
+    "url": "https://www.workandincome.govt.nz/map/income-support/main-benefits/veterans-pension/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to the Veterans Pension product entity. The content is comprehensive and directly matches the known entity ID 'veterans-pension' from the lookup.",
+    "flag_for_review": false,
+    "output_path": "output/products/veterans-pension.json"
+  },
+  {
+    "id": "employment-and-work-readiness-assistance",
+    "url": "https://www.workandincome.govt.nz/map/employment-and-training/employment-and-work-readiness-assistance/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to the 'employment-and-work-readiness-assistance' ID in the lookup and is a well-defined product/service entity with comprehensive content.",
+    "flag_for_review": false,
+    "output_path": "output/products/employment-and-work-readiness-assistance.json"
+  },
+  {
+    "id": "specific-employment-related-assistance",
+    "url": "https://www.workandincome.govt.nz/map/employment-and-training/specific-employment-related-assistance/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to a product/service grouping entity with a direct match in the lookup.",
+    "flag_for_review": false,
+    "output_path": "output/products/specific-employment-related-assistance.json"
+  },
+  {
+    "id": "apprenticeship-boost",
+    "url": "https://www.workandincome.govt.nz/map/employment-and-training/specific-employment-related-assistance/apprenticeship-boost/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to the Apprenticeship Boost product entity, confirmed by lookup. Content is substantive and well-structured.",
+    "flag_for_review": false,
+    "output_path": "output/products/apprenticeship-boost.json"
+  },
+  {
+    "id": "covid-19-leave-support-scheme",
+    "url": "https://www.workandincome.govt.nz/map/employment-and-training/specific-employment-related-assistance/covid-19-leave-support-scheme/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to a specific product/scheme with well-defined eligibility, payment, and application content. The entity ID matches exactly in the lookup.",
+    "flag_for_review": false,
+    "output_path": "output/products/covid-19-leave-support-scheme.json"
+  },
+  {
+    "id": "covid-19-resurgence-wage-subsidy-scheme",
+    "url": "https://www.workandincome.govt.nz/map/employment-and-training/specific-employment-related-assistance/covid-19-resurgence-wage-subsidy-scheme/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "Page clearly maps to a single product/scheme with comprehensive eligibility, obligations and payment details. Entity confirmed in lookup.",
+    "flag_for_review": false,
+    "output_path": "output/products/covid-19-resurgence-wage-subsidy-scheme.json"
+  },
+  {
+    "id": "covid-19-short-term-absence-payment",
+    "url": "https://www.workandincome.govt.nz/map/employment-and-training/specific-employment-related-assistance/covid-19-short-term-absence-payment/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "Page clearly maps to a specific COVID-19 product/payment scheme with comprehensive qualification, payment, and eligibility content.",
+    "flag_for_review": false,
+    "output_path": "output/products/covid-19-short-term-absence-payment.json"
+  },
+  {
+    "id": "covid-19-wage-subsidy-modified",
+    "url": "https://www.workandincome.govt.nz/map/employment-and-training/specific-employment-related-assistance/covid-19-wage-subsidy-modified/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "Page clearly maps to a specific product/service entity with detailed eligibility, obligations, and payment information. ID confirmed in lookup.",
+    "flag_for_review": false,
+    "output_path": "output/products/covid-19-wage-subsidy-modified.json"
+  },
+  {
+    "id": "covid-19-wage-subsidy-scheme-august-2021",
+    "url": "https://www.workandincome.govt.nz/map/employment-and-training/specific-employment-related-assistance/covid-19-wage-subsidy-scheme-august-2021/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to the COVID-19 Wage Subsidy Scheme (August 2021) product entity with a confirmed lookup ID. Content is comprehensive covering eligibility, payment, and review.",
+    "flag_for_review": false,
+    "output_path": "output/products/covid-19-wage-subsidy-scheme-august-2021.json"
+  },
+  {
+    "id": "covid-19-wage-subsidy-scheme-march-2021",
+    "url": "https://www.workandincome.govt.nz/map/employment-and-training/specific-employment-related-assistance/covid-19-wage-subsidy-scheme-march-2021/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "Page clearly maps to the COVID-19 Wage Subsidy Scheme (March 2021) product entity. The URL, page title, and content all align directly with the known entity in the lookup.",
+    "flag_for_review": false,
+    "output_path": "output/products/covid-19-wage-subsidy-scheme-march-2021.json"
+  },
+  {
+    "id": "covid-19-wage-subsidy-scheme-extension",
+    "url": "https://www.workandincome.govt.nz/map/employment-and-training/specific-employment-related-assistance/covid-19-wage-subsidy-scheme-extension/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly describes a specific COVID-19 wage subsidy product with well-defined eligibility, obligations, and payment details. The entity type and ID are unambiguous.",
+    "flag_for_review": false,
+    "output_path": "output/products/covid-19-wage-subsidy-scheme-extension.json"
+  },
+  {
+    "id": "employment-transition-assistance",
+    "url": "https://www.workandincome.govt.nz/map/employment-and-training/specific-employment-related-assistance/employment-transition-assistance/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to a specific employment-related product/service. The id is confirmed in the lookup as 'employment-transition-assistance'.",
+    "flag_for_review": false,
+    "output_path": "output/products/employment-transition-assistance.json"
+  },
+  {
+    "id": "flexi-wage-subsidy",
+    "url": "https://www.workandincome.govt.nz/map/employment-and-training/specific-employment-related-assistance/flexi-wage-subsidy/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to the Flexi-wage Subsidy product entity, with a confirmed lookup ID and comprehensive content covering eligibility, payment bands, and extra assistance.",
+    "flag_for_review": false,
+    "output_path": "output/products/flexi-wage-subsidy.json"
+  },
+  {
+    "id": "mana-in-mahi",
+    "url": "https://www.workandincome.govt.nz/map/employment-and-training/specific-employment-related-assistance/mana-in-mahi/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to the Mana in Mahi product entry in the lookup, with a well-defined contents structure covering eligibility, target group, and assistance components.",
+    "flag_for_review": false,
+    "output_path": "output/products/mana-in-mahi.json"
+  },
+  {
+    "id": "new-employment-transition-grant",
+    "url": "https://www.workandincome.govt.nz/map/employment-and-training/specific-employment-related-assistance/new-employment-transition-grant/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to a product (BusinessService) entity for the New Employment Transition Grant. The URL and page title are unambiguous, and the content structure matches a benefit/grant product page.",
+    "flag_for_review": false,
+    "output_path": "output/products/new-employment-transition-grant.json"
+  },
+  {
+    "id": "relocate-for-work-support",
+    "url": "https://www.workandincome.govt.nz/map/employment-and-training/specific-employment-related-assistance/relocate-for-work-support/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to the 'Relocate for Work Support' product entity, confirmed by the lookup ID and the structured content describing eligibility, payment, and conditions.",
+    "flag_for_review": false,
+    "output_path": "output/products/relocate-for-work-support.json"
+  },
+  {
+    "id": "seasonal-work-assistance",
+    "url": "https://www.workandincome.govt.nz/map/employment-and-training/specific-employment-related-assistance/seasonal-work-assistance/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to the Seasonal Work Assistance product entity confirmed in the lookup. Content is a structured table of contents covering eligibility, payment, and application details.",
+    "flag_for_review": false,
+    "output_path": "output/products/seasonal-work-assistance.json"
+  },
+  {
+    "id": "training-incentive-allowance",
+    "url": "https://www.workandincome.govt.nz/map/employment-and-training/specific-employment-related-assistance/training-incentive-allowance/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to the Training Incentive Allowance product entity, confirmed by both the URL and lookup table. Content is comprehensive covering eligibility, costs, payment, and review provisions.",
+    "flag_for_review": false,
+    "output_path": "output/products/training-incentive-allowance.json"
+  },
+  {
+    "id": "work-bonus",
+    "url": "https://www.workandincome.govt.nz/map/employment-and-training/specific-employment-related-assistance/work-bonus/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to the 'Work Bonus' product entity. The URL and content directly correspond to the known lookup entry 'work-bonus'.",
+    "flag_for_review": false,
+    "output_path": "output/products/work-bonus.json"
+  },
+  {
+    "id": "assessment-of-eligibility",
+    "url": "https://www.workandincome.govt.nz/map/social-housing/assessment-of-eligibility/index.html",
+    "type": "process",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to a process entity for social housing eligibility assessment. The ID is confirmed in the lookup as 'assessment-of-eligibility' and the content comprehensively describes a structured eligibility assessment process.",
+    "flag_for_review": false,
+    "output_path": "output/processes/assessment-of-eligibility.json"
+  },
+  {
+    "id": "duty-to-advise-of-changes-in-circumstances",
+    "url": "https://www.workandincome.govt.nz/map/social-housing/duty-to-advise-of-changes-in-circumstances/index.html",
+    "type": "process",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to a process entity governing tenant obligations within social housing, with a well-defined set of procedural topics.",
+    "flag_for_review": false,
+    "output_path": "output/processes/duty-to-advise-of-changes-in-circumstances.json"
+  },
+  {
+    "id": "income-related-rent",
+    "url": "https://www.workandincome.govt.nz/map/social-housing/income-related-rent/index.html",
+    "type": "social_housing",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly describes Income Related Rent as a social housing service with comprehensive policy and process content, directly matching the known entity 'income-related-rent' in the lookup.",
+    "flag_for_review": false,
+    "output_path": "output/social_housing/income-related-rent.json"
+  },
+  {
+    "id": "income-related-rent-debt",
+    "url": "https://www.workandincome.govt.nz/map/social-housing/income-related-rent-debt/index.html",
+    "type": "concept",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to the 'Income Related Rent debt' concept entity in the lookup, with comprehensive content about debt management in the social housing context.",
+    "flag_for_review": false,
+    "output_path": "output/concepts/income-related-rent-debt.json"
+  },
+  {
+    "id": "income-related-rent-subsidy",
+    "url": "https://www.workandincome.govt.nz/map/social-housing/income-related-rent-subsidy/index.html",
+    "type": "social_housing",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly relates to the Income Related Rent Subsidy social housing service, which matches directly to the known lookup entity 'income-related-rent-subsidy'. Content is substantive and well-aligned with the social_housing entity type.",
+    "flag_for_review": false,
+    "output_path": "output/social_housing/income-related-rent-subsidy.json"
+  },
+  {
+    "id": "register-management-and-referrals",
+    "url": "https://www.workandincome.govt.nz/map/social-housing/register-management-and-referrals/index.html",
+    "type": "process",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly describes a business process for managing the social housing register and referrals, with detailed sub-processes. The entity ID matches the lookup exactly.",
+    "flag_for_review": false,
+    "output_path": "output/processes/register-management-and-referrals.json"
+  },
+  {
+    "id": "tenancy-reviews",
+    "url": "https://www.workandincome.govt.nz/map/social-housing/tenancy-reviews/index.html",
+    "type": "process",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly describes a structured business process for conducting tenancy reviews within social housing, with well-defined steps, criteria, and outcomes.",
+    "flag_for_review": false,
+    "output_path": "output/processes/tenancy-reviews.json"
+  },
+  {
+    "id": "students--agents",
+    "url": "https://www.workandincome.govt.nz/map/students/agents/index.html",
+    "type": "process",
+    "status": "success",
+    "confidence": "medium",
+    "confidence_notes": "The page is a contents/index page with limited descriptive text. The entity type is inferred as process based on the procedural nature of the topics listed. Could also be classified as a policy or concept.",
+    "flag_for_review": false,
+    "output_path": "output/processes/students--agents.json"
+  },
+  {
+    "id": "jobseeker-support-student-hardship",
+    "url": "https://www.workandincome.govt.nz/map/students/jobseeker-support-student-hardship/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to the Jobseeker Support Student Hardship product entity. The content is comprehensive and matches the known entity ID from the lookup.",
+    "flag_for_review": false,
+    "output_path": "output/products/jobseeker-support-student-hardship.json"
+  },
+  {
+    "id": "student-allowance",
+    "url": "https://www.workandincome.govt.nz/map/students/student-allowance/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "Page clearly maps to the Student Allowance product. Content is comprehensive and directly matches the known entity in the lookup.",
+    "flag_for_review": false,
+    "output_path": "output/products/student-allowance.json"
+  },
+  {
+    "id": "student-loan",
+    "url": "https://www.workandincome.govt.nz/map/students/student-loan/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to the Student Loan as a product/service with comprehensive policy and process detail. The lookup confirms the id 'student-loan'.",
+    "flag_for_review": false,
+    "output_path": "output/products/student-loan.json"
+  },
+  {
+    "id": "community-services-card",
+    "url": "https://www.workandincome.govt.nz/map/card-services/community-services-card/index.html",
+    "type": "card",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to the Community Services Card entity in the lookup, and the URL and content are unambiguous. The entity type 'card' is well-supported by the content.",
+    "flag_for_review": false,
+    "output_path": "output/cards/community-services-card.json"
+  },
+  {
+    "id": "supergold-card",
+    "url": "https://www.workandincome.govt.nz/map/card-services/supergold-card/index.html",
+    "type": "card",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "Page clearly maps to the SuperGold Card entity in the lookup, and the content is consistent with a card-type service.",
+    "flag_for_review": false,
+    "output_path": "output/cards/supergold-card.json"
+  },
+  {
+    "id": "payments-from-overseas",
+    "url": "https://www.workandincome.govt.nz/map/to-or-from-overseas/payments-from-overseas/index.html",
+    "type": "concept",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page URL and content clearly map to the 'Payments from overseas' entity in the lookup. The page is a contents/index page for this concept.",
+    "flag_for_review": false,
+    "output_path": "output/concepts/payments-from-overseas.json"
+  },
+  {
+    "id": "portability",
+    "url": "https://www.workandincome.govt.nz/map/to-or-from-overseas/portability/index.html",
+    "type": "policy",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "Page clearly describes a policy governing conditions under which overseas payments are permitted. Content maps directly to the portability entity in the lookup.",
+    "flag_for_review": false,
+    "output_path": "output/policies/portability.json"
+  },
+  {
+    "id": "general-portability",
+    "url": "https://www.workandincome.govt.nz/map/to-or-from-overseas/portability/general-portability/index.html",
+    "type": "policy",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to a policy/constraint entity governing portability rules for overseas payment of NZ benefits and pensions. The content is a comprehensive table of contents for the General Portability policy section.",
+    "flag_for_review": false,
+    "output_path": "output/policies/general-portability.json"
+  },
+  {
+    "id": "special-portability",
+    "url": "https://www.workandincome.govt.nz/map/to-or-from-overseas/portability/special-portability/index.html",
+    "type": "policy",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly describes a policy framework for special portability of NZ Superannuation and Veterans Pension, with well-defined sections covering eligibility, obligations, and procedures. Content maps cleanly to a BusinessConstraint (policy) entity.",
+    "flag_for_review": false,
+    "output_path": "output/policies/special-portability.json"
+  },
+  {
+    "id": "reciprocal-agreements",
+    "url": "https://www.workandincome.govt.nz/map/to-or-from-overseas/reciprocal-agreements/index.html",
+    "type": "policy",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly describes a policy framework (Reciprocal Agreements) and maps directly to the known lookup entity 'reciprocal-agreements'. Related country-specific agreement IDs are all confirmed in the lookup.",
+    "flag_for_review": false,
+    "output_path": "output/policies/reciprocal-agreements.json"
+  },
+  {
+    "id": "reciprocal-australia",
+    "url": "https://www.workandincome.govt.nz/map/to-or-from-overseas/reciprocal-agreements/reciprocal-australia/index.html",
+    "type": "policy",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to the reciprocal-australia entity in the lookup. Content is comprehensive and unambiguous.",
+    "flag_for_review": false,
+    "output_path": "output/policies/reciprocal-australia.json"
+  },
+  {
+    "id": "reciprocal-canada",
+    "url": "https://www.workandincome.govt.nz/map/to-or-from-overseas/reciprocal-agreements/reciprocal-canada/index.html",
+    "type": "policy",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly describes a reciprocal social security agreement with Canada, matching the 'reciprocal-canada' lookup ID and policy entity type.",
+    "flag_for_review": false,
+    "output_path": "output/policies/reciprocal-canada.json"
+  },
+  {
+    "id": "reciprocal-denmark",
+    "url": "https://www.workandincome.govt.nz/map/to-or-from-overseas/reciprocal-agreements/reciprocal-denmark/index.html",
+    "type": "policy",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to the reciprocal agreement policy for Denmark, matching the known lookup entity 'reciprocal-denmark'. Content is comprehensive covering entitlements, calculations, and administrative processes.",
+    "flag_for_review": false,
+    "output_path": "output/policies/reciprocal-denmark.json"
+  },
+  {
+    "id": "reciprocal-hellenic-republic",
+    "url": "https://www.workandincome.govt.nz/map/to-or-from-overseas/reciprocal-agreements/reciprocal-hellenic-republic/index.html",
+    "type": "policy",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to the reciprocal agreement policy entity for the Hellenic Republic, matching the known lookup ID 'reciprocal-hellenic-republic'. Content is detailed and comprehensive.",
+    "flag_for_review": false,
+    "output_path": "output/policies/reciprocal-hellenic-republic.json"
+  },
+  {
+    "id": "reciprocal-ireland",
+    "url": "https://www.workandincome.govt.nz/map/to-or-from-overseas/reciprocal-agreements/reciprocal-ireland/index.html",
+    "type": "policy",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "Page clearly maps to a reciprocal agreement policy entity for Ireland, matching the lookup ID 'reciprocal-ireland'. Content is comprehensive covering entitlements, administration, and payment processes.",
+    "flag_for_review": false,
+    "output_path": "output/policies/reciprocal-ireland.json"
+  },
+  {
+    "id": "reciprocal-jersey-guernsey",
+    "url": "https://www.workandincome.govt.nz/map/to-or-from-overseas/reciprocal-agreements/reciprocal-jersey-guernsey/index.html",
+    "type": "policy",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "Page clearly maps to the reciprocal-jersey-guernsey entity in the lookup. Content is a detailed contents page for the reciprocal agreement policy between NZ and Jersey/Guernsey.",
+    "flag_for_review": false,
+    "output_path": "output/policies/reciprocal-jersey-guernsey.json"
+  },
+  {
+    "id": "reciprocal-republic-of-korea",
+    "url": "https://www.workandincome.govt.nz/map/to-or-from-overseas/reciprocal-agreements/reciprocal-republic-of-korea/index.html",
+    "type": "policy",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to a reciprocal agreement policy entity with comprehensive coverage of the New Zealand–Korea social security agreement. The ID is confirmed in the lookup.",
+    "flag_for_review": false,
+    "output_path": "output/policies/reciprocal-republic-of-korea.json"
+  },
+  {
+    "id": "reciprocal-malta",
+    "url": "https://www.workandincome.govt.nz/map/to-or-from-overseas/reciprocal-agreements/reciprocal-malta/index.html",
+    "type": "policy",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to a reciprocal agreement policy entity matching the known lookup ID 'reciprocal-malta'. Content is a table of contents for the Malta reciprocal agreement.",
+    "flag_for_review": false,
+    "output_path": "output/policies/reciprocal-malta.json"
+  },
+  {
+    "id": "reciprocal-netherlands",
+    "url": "https://www.workandincome.govt.nz/map/to-or-from-overseas/reciprocal-agreements/reciprocal-netherlands/index.html",
+    "type": "policy",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to the reciprocal agreement with the Netherlands, matching the known entity 'Reciprocal Netherlands' (id: reciprocal-netherlands). Content is a detailed table of contents for the agreement policy document.",
+    "flag_for_review": false,
+    "output_path": "output/policies/reciprocal-netherlands.json"
+  },
+  {
+    "id": "reciprocal-united-kingdom",
+    "url": "https://www.workandincome.govt.nz/map/to-or-from-overseas/reciprocal-agreements/reciprocal-united-kingdom/index.html",
+    "type": "policy",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly maps to a reciprocal agreement policy entity, matching the lookup entry 'reciprocal-united-kingdom'. Content is comprehensive and covers the full scope of the agreement.",
+    "flag_for_review": false,
+    "output_path": "output/policies/reciprocal-united-kingdom.json"
+  },
+  {
+    "id": "young-parent-payment",
+    "url": "https://www.workandincome.govt.nz/map/youth-service/young-parent-payment/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "Page clearly maps to the Young Parent Payment product entity; confirmed in lookup as 'young-parent-payment'. Content is comprehensive and unambiguous.",
+    "flag_for_review": false,
+    "output_path": "output/products/young-parent-payment.json"
+  },
+  {
+    "id": "youth-payment",
+    "url": "https://www.workandincome.govt.nz/map/youth-service/youth-payment/index.html",
+    "type": "product",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly describes the Youth Payment product in full detail including qualifications, obligations, payment mechanics, and review processes. Maps directly to the 'Youth Payment' entry in the lookup.",
+    "flag_for_review": false,
+    "output_path": "output/products/youth-payment.json"
+  },
+  {
+    "id": "youth-service-information-sharing",
+    "url": "https://www.workandincome.govt.nz/map/youth-service/youth-service-information-sharing/index.html",
+    "type": "process",
+    "status": "success",
+    "confidence": "high",
+    "confidence_notes": "The page clearly describes an information sharing process between multiple actors in the youth service context. The entity type 'process' is well-supported by the structured steps and directional flows described.",
+    "flag_for_review": false,
+    "output_path": "output/processes/youth-service-information-sharing.json"
+  }
+]

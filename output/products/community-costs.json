@@ -1,0 +1,46 @@
+{
+  "id": "community-costs",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Community Costs",
+  "description": "Community Costs is an extra help product that provides financial assistance to eligible clients covering allowable costs such as storage costs, childcare costs, and other approved expenses with qualification criteria and review mechanisms.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/extra-help/community-costs/index.html",
+  "tags": [
+    "extra-help",
+    "financial-assistance",
+    "community-costs",
+    "income-support",
+    "residential-treatment",
+    "allowable-costs",
+    "deductions",
+    "reviews"
+  ],
+  "related": {
+    "products": [
+      "special-benefit"
+    ],
+    "programmes": [
+      "community-costs-programme"
+    ],
+    "policies": [
+      "community-costs-tables"
+    ],
+    "processes": [],
+    "actors": [],
+    "concepts": [
+      "income",
+      "residence"
+    ],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Financial assistance product providing support for eligible clients in short-term residential treatment programmes, with allowable costs, income and asset tests, and review mechanisms.",
+    "eligibility": "Ordinarily resident, Permanent residence, Proof of residence, Immigration status and supporting documents, Income test, Cash assets test",
+    "payment_details": "Maximum weekly amount payable, Exceptional circumstances, Period of payment, Calculating rate when partner in the community, Agreed period payments",
+    "obligations": "Storage costs, Childcare costs, Costs not in client's name, Consumer credit contract (hire purchase)",
+    "stand_down": "",
+    "income_test": "Income test required as part of qualification criteria",
+    "application_process": ""
+  }
+}

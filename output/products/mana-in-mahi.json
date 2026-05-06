@@ -1,0 +1,40 @@
+{
+  "id": "mana-in-mahi",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Mana in Mahi",
+  "description": "Mana in Mahi is a specific employment-related assistance product covering qualifications, target group identification, risk assessment for long-term benefit receipt, and assistance for both participants and employers.",
+  "source_url": "https://www.workandincome.govt.nz/map/employment-and-training/specific-employment-related-assistance/mana-in-mahi/index.html",
+  "tags": [
+    "employment",
+    "mana-in-mahi",
+    "specific-employment-related-assistance",
+    "employer-assistance",
+    "participant-assistance"
+  ],
+  "related": {
+    "products": [
+      "specific-employment-related-assistance"
+    ],
+    "programmes": [
+      "employment-and-work-readiness-assistance-programme"
+    ],
+    "policies": [],
+    "processes": [
+      "mana-in-mahi-tables"
+    ],
+    "actors": [],
+    "concepts": [],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "Employment assistance programme providing support for participants at risk of long-term benefit receipt and incentives for employers, including a legacy cohort accepted before 5 August 2022.",
+    "eligibility": "",
+    "payment_details": "",
+    "obligations": "",
+    "stand_down": "",
+    "income_test": "",
+    "application_process": ""
+  }
+}

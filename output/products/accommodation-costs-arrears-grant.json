@@ -1,0 +1,48 @@
+{
+  "id": "accommodation-costs-arrears-grant",
+  "type": "product",
+  "archimate_type": "BusinessService",
+  "name": "Accommodation Costs Arrears Grant",
+  "description": "A grant providing financial assistance to clients at risk of losing accommodation due to arrears, covering situations under and outside the Residential Tenancies Act 1986, subject to income limits, cash asset limits, residence requirements, and assessments of need and suitability.",
+  "source_url": "https://www.workandincome.govt.nz/map/income-support/extra-help/housing-support-products/accommodation-costs-arrears-grant/index.html",
+  "tags": [
+    "housing",
+    "grant",
+    "accommodation",
+    "arrears",
+    "extra-help",
+    "housing-support-products",
+    "tenancy"
+  ],
+  "related": {
+    "products": [
+      "housing-support-products",
+      "accommodation-supplement",
+      "recoverable-assistance-payment"
+    ],
+    "programmes": [
+      "housing-support-programme"
+    ],
+    "policies": [],
+    "processes": [
+      "reviews-and-appeals",
+      "tenancy-reviews"
+    ],
+    "actors": [],
+    "concepts": [
+      "residence",
+      "income"
+    ],
+    "cards": [],
+    "social_housing": []
+  },
+  "attributes": {
+    "summary": "A grant to assist clients facing loss of accommodation due to arrears in accommodation costs, subject to eligibility criteria including income, cash assets, residence, and need assessment.",
+    "eligibility": "Applicants must be at risk of losing accommodation due to arrears, have accommodation suitable to live in, be staying in accommodation for more than 28 days, meet income limits, meet cash asset limits, meet residence requirements, and be assessed as having need based on factors including whether the client caused or contributed to the need, resources available, impact on client and family, other financial assistance available, inability to meet essential living expenses, and existing debt situations.",
+    "payment_details": "Payment may be subject to recovery. Exceptional circumstances provision applies. Payment can be made to someone other than the accommodation supplier.",
+    "obligations": "",
+    "stand_down": "",
+    "income_test": "Income limit applies as part of qualification criteria.",
+    "application_process": ""
+  }
+}
